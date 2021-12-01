@@ -1,19 +1,19 @@
 {
-    "name": "Torus",
-    "slug": "torus",
-    "summary": "SDK to combine passwordless authentication with private key management.",
-    "longSummary": "",
-    "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbda10da6d168d569c86_Torus.svg",
-    "tags": [
-        "infrastructure",
-        "security",
-        "tooling"
-    ],
-    "websiteURL": "https://toruswallet.io/",
-    "twitterURL": "",
-    "discordURL": "",
-    "githubURL": "",
-    "telegramURL": "",
-    "status": "",
-    "contact": ""
+  "name": "Torus",
+  "slug": "torus",
+  "summary": "SDK to combine passwordless authentication with private key management.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbda10da6d168d569c86_Torus.svg",
+  "tags": [
+    "infrastructure",
+    "security",
+    "tooling"
+  ],
+  "websiteURL": "https://toruswallet.io/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
 }
