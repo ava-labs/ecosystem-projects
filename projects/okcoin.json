@@ -1,0 +1,17 @@
+{
+  "name": "Okcoin",
+  "slug": "okcoin",
+  "summary": "A cryptocurrency exchange for users to transfer between crypto and fiat currencies.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc7b6ab57058127b4798_Okcoin.svg",
+  "tags": [
+    "exchange"
+  ],
+  "websiteURL": "https://www.okcoin.com/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

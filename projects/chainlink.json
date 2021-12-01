@@ -1,0 +1,18 @@
+{
+  "name": "Chainlink",
+  "slug": "chainlink",
+  "summary": "A decentralized oracle network that enables smart contracts to securely access various data sources.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecb87c6468d4470a2c876_Chainlink.svg",
+  "tags": [
+    "oracle",
+    "defi"
+  ],
+  "websiteURL": "https://chain.link/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

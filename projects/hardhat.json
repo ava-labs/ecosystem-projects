@@ -1,0 +1,17 @@
+{
+  "name": "Hardhat",
+  "slug": "hardhat",
+  "summary": "A next-generation EVM tooling, works out of the box with Avalanche.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca22a8e94c95ef51e8ec_Hardhat.svg",
+  "tags": [
+    "tooling"
+  ],
+  "websiteURL": "https://hardhat.org/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

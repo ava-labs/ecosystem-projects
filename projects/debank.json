@@ -1,0 +1,17 @@
+{
+  "name": "DeBank",
+  "slug": "debank",
+  "summary": "A DeFi wallet for managaging and tracking your DeFi portfolio.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6144f491cef33a96baaf0dd2_debank.png",
+  "tags": [
+    "defi"
+  ],
+  "websiteURL": "https://debank.com/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

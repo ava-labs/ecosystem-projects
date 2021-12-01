@@ -1,0 +1,19 @@
+{
+  "name": "Wyre",
+  "slug": "wyre",
+  "summary": "A payments infrastructure provider in crypto.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecab1d0732b8401a6f0f0_Wyre.svg",
+  "tags": [
+    "stablecoin",
+    "defi",
+    "infrastructure"
+  ],
+  "websiteURL": "https://www.sendwyre.com/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

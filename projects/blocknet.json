@@ -1,0 +1,17 @@
+{
+  "name": "Blocknet",
+  "slug": "blocknet",
+  "summary": "Infrastructure and cross-chain dApps to interact with Avalanche subnets and smart contracts.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbf639eca926cf9cffe5_Blocknet.svg",
+  "tags": [
+    "infrastructure"
+  ],
+  "websiteURL": "https://blocknet.co/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

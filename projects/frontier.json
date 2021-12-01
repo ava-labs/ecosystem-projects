@@ -1,0 +1,18 @@
+{
+  "name": "Frontier",
+  "slug": "frontier",
+  "summary": "A chain-agnostic DeFi aggregator that allows users to manage their DeFi applications and assets.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecdc7888e17119472e347_Frontier.svg",
+  "tags": [
+    "defi",
+    "wallet"
+  ],
+  "websiteURL": "https://frontier.xyz/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

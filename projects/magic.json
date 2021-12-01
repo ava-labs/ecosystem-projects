@@ -1,0 +1,17 @@
+{
+  "name": "Magic",
+  "slug": "magic",
+  "summary": "A passwordless login and key management system.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca121aea146d1579c9c8_Magic.svg",
+  "tags": [
+    "tooling"
+  ],
+  "websiteURL": "https://magic.link/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Huobi",
+  "slug": "huobi",
+  "summary": "A digital asset trading platform providing secure and convenient trading services.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc9268e9976b5e6e2cbe_Huobi.svg",
+  "tags": [
+    "exchange"
+  ],
+  "websiteURL": "https://www.huobi.com/en-us/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Bitfinex",
+  "slug": "bitfinex",
+  "summary": "A digital asset trading platform offering services for traders and global liquidity providers.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecccec8147442e8d6be21_Bitfinex.svg",
+  "tags": [
+    "exchange"
+  ],
+  "websiteURL": "https://www.bitfinex.com/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

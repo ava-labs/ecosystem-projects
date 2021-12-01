@@ -1,0 +1,19 @@
+{
+  "name": "Canary Exchange",
+  "slug": "canary-exchange",
+  "summary": "Canary is a DEX which runs on Avalanche with yield farming with very high APRs and staking features.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61698d6e1d3007bad973b137_80x80.png",
+  "tags": [
+    "defi",
+    "exchange",
+    "wealth-management"
+  ],
+  "websiteURL": "https://canary.exchange",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

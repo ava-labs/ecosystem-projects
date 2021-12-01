@@ -1,0 +1,18 @@
+{
+  "name": "DappRadar",
+  "slug": "dappradar",
+  "summary": "The Dapp discovery platform.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd2029f9513aface4240_DappRadar.svg",
+  "tags": [
+    "ecosystem",
+    "tooling"
+  ],
+  "websiteURL": "https://dappradar.com/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}

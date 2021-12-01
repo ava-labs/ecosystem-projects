@@ -1,0 +1,17 @@
+{
+  "name": "Avalanche Explorer",
+  "slug": "avalanche-explorer",
+  "summary": "An analytics tool that enables people to search the Avalanche blockchain.",
+  "longSummary": "",
+  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc39185842e7700b71eb_Avalanche%20Explorer.svg",
+  "tags": [
+    "explorer"
+  ],
+  "websiteURL": "https://explorer.avax.network/",
+  "twitterURL": "",
+  "discordURL": "",
+  "githubURL": "",
+  "telegramURL": "",
+  "status": "",
+  "contact": ""
+}
