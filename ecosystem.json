@@ -1,30 +1,2813 @@
 {
   "projects": [
     {
-      "name": "Aave",
+      "name": "aaaaaaaaaaaa",
+      "slug": "test1234",
       "summary": "Open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
+      "longSummary": "",
       "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61673c65973f841fff7dcd40_Aave%20Logo.svg",
-      "category": [
+      "tags": [
         "defi"
       ],
       "websiteURL": "https://aave.com/",
       "twitterURL": "https://twitter.com/aaveaave",
       "discordURL": "https://discord.com/invite/CvKUrqM",
       "githubURL": "https://github.com/aave/aave-protocol",
-      "telegramURL": "https://t.me/Aavesome"
+      "telegramURL": "https://t.me/Aavesome",
+      "contact": ""
+    },
+    {
+      "name": "Aave",
+      "slug": "aave",
+      "summary": "Open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61673c65973f841fff7dcd40_Aave%20Logo.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://aave.com/",
+      "twitterURL": "https://twitter.com/aaveaave",
+      "discordURL": "https://discord.com/invite/CvKUrqM",
+      "githubURL": "https://github.com/aave/aave-protocol",
+      "telegramURL": "https://t.me/Aavesome",
+      "contact": ""
     },
     {
       "name": "Ablock",
+      "slug": "ablock",
       "summary": "A professional community-centric validator service.",
+      "longSummary": "",
       "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6140b95fc80cd3fe03d93fe6_Ablock.svg",
-      "category": [
+      "tags": [
         "tooling"
       ],
       "websiteURL": "https://ablock.io/avalanche",
       "twitterURL": "",
       "discordURL": "",
       "githubURL": "",
-      "telegramURL": ""
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Aleph.Im",
+      "slug": "aleph-im",
+      "summary": "A cross-blockchain layer-2 network.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6140aab26f7196f04da785bf_Aleph.Im.svg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://aleph.im/#/chains",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Algorder",
+      "slug": "algorder",
+      "summary": "A Decentralized Order Management System build on Avalanche.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6140b8a4a6986ef06c6d7eb2_Algorder.png",
+      "tags": [
+        "infrastructure"
+      ],
+      "websiteURL": "https://algorder.app/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Alliance Block",
+      "slug": "alliance-block",
+      "summary": "A decentralized blockchain-agnostic layer 2 that converts any digital asset to a bankable product.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eece4829f95104cfce4488_AllianceBlock.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://allianceblock.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Allnodes",
+      "slug": "allnodes",
+      "summary": "A non-custodial platform for hosting masternodes and full nodes, as well as full staking services.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbab558d841f6c886fa4_Allnodes.svg",
+      "tags": [
+        "nodes"
+      ],
+      "websiteURL": "https://www.allnodes.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Ankr",
+      "slug": "ankr",
+      "summary": "Makes participating in, building on, and using blockchains and protocols easy and accessible.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecba2a8e94c2a7f51ef8d_Ankr.svg",
+      "tags": [
+        "nodes"
+      ],
+      "websiteURL": "https://stakefi.ankr.com/internet-bonds/AVAX",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Anyswap",
+      "slug": "anyswap",
+      "summary": "A unified ecosystem for full circulation of digital assets, bringing more liquidity to the market.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbfe164b2db969d8a078_Anyswap.svg",
+      "tags": [
+        "infrastructure"
+      ],
+      "websiteURL": "https://anyswap.exchange/dashboard",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Ape Board",
+      "slug": "ape-board",
+      "summary": "Cross-chain DeFi Dashboard. Built by apes, for apes.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6144f50164d6d3e556d87b9e_apeboard.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://apeboard.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Arrow DFMs",
+      "slug": "arrow-dfms",
+      "summary": "A low-level protocol for creating and settling options on publicly available asset prices.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eece3af249717883d0ccbc_Arrow%20DMFs.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://www.arrowdfms.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Avado",
+      "slug": "avado",
+      "summary": "Plug-and-play hardware nodes for Avalanche.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecb98d4eeb43cd0a68d5b_Avado.svg",
+      "tags": [
+        "nodes"
+      ],
+      "websiteURL": "https://ava.do/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Avalanche Explorer",
+      "slug": "avalanche-explorer",
+      "summary": "An analytics tool that enables people to search the Avalanche blockchain.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc39185842e7700b71eb_Avalanche%20Explorer.svg",
+      "tags": [
+        "explorer"
+      ],
+      "websiteURL": "https://explorer.avax.network/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Avalaunch",
+      "slug": "avalaunch",
+      "summary": "A launchpad for new and innovative projects to prepare for launch with fair and broad distribution.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eece2d51fed68053212b7a_Avalaunch.svg",
+      "tags": [
+        "defi",
+        "ecosystem",
+        "tooling"
+      ],
+      "websiteURL": "https://avalaunch.app/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Avascan",
+      "slug": "avascan",
+      "summary": "An independent blockchain explorer for Avalanche.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc2bc070ab06fef39728_Avascan.svg",
+      "tags": [
+        "explorer",
+        "tooling"
+      ],
+      "websiteURL": "https://avascan.info/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Avaware",
+      "slug": "avaware",
+      "summary": "Farming, Launchpad, and NFT Staking.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61a157ea16618a831882777c_avaware.png",
+      "tags": [
+        "defi",
+        "nft"
+      ],
+      "websiteURL": "https://avaware.network",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "AVAX Duels",
+      "slug": "avax-duels",
+      "summary": "Duel against real opponents for a chance to loot their AVAX.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61314804fc15d576f840f2d0_duels.png",
+      "tags": [
+        "play-to-earn"
+      ],
+      "websiteURL": "https://avaxduels.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Avaxtars",
+      "slug": "avaxtars",
+      "summary": "A P2E blockchain game using NFTs as gaming assets and has its own Tokenomics.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61609aa7a1539d68baf6f349_Avaxtars_80.png",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://avaxtars.com",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "AVME",
+      "slug": "avme",
+      "summary": "Desktop Wallet for Avalanche, built in C++. Decentralized and Trustless security suite.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6172d53de0d7322c06e33d70_AVME_Colored.png",
+      "tags": [
+        "nft",
+        "wallet"
+      ],
+      "websiteURL": "https://avme.io",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Axelar",
+      "slug": "axelar",
+      "summary": "A cross-chain communication network that connects Avalanche with other leading platforms.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca4947e11615bb7a56ea_Axelar.svg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://axelar.network/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Baguette",
+      "slug": "baguette",
+      "summary": "A decentralized exchange on the Avalanche network.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61a154e58303755763caf042_Baguette80x80.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://baguette.exchange/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Barnbridge",
+      "slug": "barnbridge",
+      "summary": "A risk tokenizing protocol that lets you leverage or hedge your DeFi positions.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6172c3a802242464493064b3_bb_logo.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "http://Barnbridge.com",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "BENQI",
+      "slug": "benqi",
+      "summary": "A non-custodial algorithmic liquidity market protocol.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eece2251fed67a6c212a01_Benqi.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://benqi.fi/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "BiFrost",
+      "slug": "bifrost",
+      "summary": "The universal multichain middleware.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eece1976c7f34762199ba5_Bifrost.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://thebifrost.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "BiLira",
+      "slug": "bilira",
+      "summary": "A Turkish Lira stablecoin on Avalanche.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecae4f62ffc8493d2d0bc_BiLira.svg",
+      "tags": [
+        "stablecoin"
+      ],
+      "websiteURL": "https://www.bilira.co/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Binance",
+      "slug": "binance",
+      "summary": "The worlds biggest crypto exchange in the world by volume.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeccd9e3aeacd024f9576e_Binance.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.binance.com/en",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Bitfinex",
+      "slug": "bitfinex",
+      "summary": "A digital asset trading platform offering services for traders and global liquidity providers.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecccec8147442e8d6be21_Bitfinex.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.bitfinex.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "BitMart",
+      "slug": "bitmart",
+      "summary": "A crypto exchange with secure crypto products and services.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125d04d93fe65a37434a65a_BitMart-1.png",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.bitmart.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Bitpanda",
+      "slug": "bitpanda",
+      "summary": "Gives new users easy access to digital assets and regular users control over their portfolio.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeccc16b5e3478997a5540_Bitpanda.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.bitpanda.com/en",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Blockchain Academy Chile",
+      "slug": "blockchain-academy-chile",
+      "summary": "A blockchain training and education platform for LATAM.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd3d6b5e3496647a5708_Blockchain%20Academy%20Chile.svg",
+      "tags": [
+        "ecosystem"
+      ],
+      "websiteURL": "https://www.blockchainacademy.cl/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Blockchain Game Alliance",
+      "slug": "blockchain-game-alliance",
+      "summary": "Committed to promoting blockchain within the game industry.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd346d0acf4528930597_Blockchain%20Game%20Alliance.svg",
+      "tags": [
+        "ecosystem"
+      ],
+      "websiteURL": "https://www.blockchaingamealliance.org/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Blockchain Research Institute",
+      "slug": "blockchain-research-institute",
+      "summary": "Researching the impact of blockchain technology.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd2b39eca9549d9d073d_Blockchain%20Research%20Institute.svg",
+      "tags": [
+        "ecosystem"
+      ],
+      "websiteURL": "https://www.blockchainresearchinstitute.org/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Blocknet",
+      "slug": "blocknet",
+      "summary": "Infrastructure and cross-chain dApps to interact with Avalanche subnets and smart contracts.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbf639eca926cf9cffe5_Blocknet.svg",
+      "tags": [
+        "infrastructure"
+      ],
+      "websiteURL": "https://blocknet.co/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Bloq",
+      "slug": "bloq",
+      "summary": "A suite of multi-blockchain infrastructure services built to grow as your business grows.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecb919dc5184c7a1d7997_Bloq.svg",
+      "tags": [
+        "nodes"
+      ],
+      "websiteURL": "https://www.bloq.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Boring DAO",
+      "slug": "boring-dao",
+      "summary": "A decentralized bridge that connects all blockchain assets.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbeba7e724b57bb2e549_Boring%20DAO.svg",
+      "tags": [
+        "infrastructure"
+      ],
+      "websiteURL": "https://www.boringdao.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "BtcTurk",
+      "slug": "btcturk",
+      "summary": "Turkey's first and the world’s fourth cryptocurrency exchange platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeccb9741ddbdd0c88cae3_BtcTurk.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.btcturk.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Bware Labs",
+      "slug": "bware-labs",
+      "summary": "An interface for Blockchain APIs consumers and node providers.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125cd0d355e453b02162520_Bware%20Labs.jpeg",
+      "tags": [
+        "infrastructure"
+      ],
+      "websiteURL": "https://bwarelabs.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "bZx",
+      "slug": "bzx",
+      "summary": "A protocol that offers open finance margin trading & lending on Avalanche.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eece0c47e11654547a643e_bZx.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://bzx.network/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Canary Exchange",
+      "slug": "canary-exchange",
+      "summary": "Canary is a DEX which runs on Avalanche with yield farming with very high APRs and staking features.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61698d6e1d3007bad973b137_80x80.png",
+      "tags": [
+        "defi",
+        "exchange",
+        "wealth-management"
+      ],
+      "websiteURL": "https://canary.exchange",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Cartesi",
+      "slug": "cartesi",
+      "summary": "Layer-2 infrastructure to enable a Linux environment on Avalanche.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca3f1aea14aafc79ca9c_Cartesi.svg",
+      "tags": [
+        "tooling",
+        "oracle"
+      ],
+      "websiteURL": "https://cartesi.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Celer Network",
+      "slug": "cbridge",
+      "summary": "Bridging Ethereum sidechains such as Polygon, Arbitrum, Optimism and BSC.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/614520b8b7209c2da2d625a8_Celer%20Network.png",
+      "tags": [
+        "infrastructure"
+      ],
+      "websiteURL": "https://cbridge.celer.network/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Ceramic",
+      "slug": "ceramic",
+      "summary": "The decentralized network for data stream processing.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc1010da6d9e4f569cd8_Ceramic.svg",
+      "tags": [
+        "identity"
+      ],
+      "websiteURL": "https://ceramic.network/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Chainlink",
+      "slug": "chainlink",
+      "summary": "A decentralized oracle network that enables smart contracts to securely access various data sources.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecb87c6468d4470a2c876_Chainlink.svg",
+      "tags": [
+        "oracle",
+        "defi"
+      ],
+      "websiteURL": "https://chain.link/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "ChartEx",
+      "slug": "chartex",
+      "summary": "A leading provider of full candlestick charting.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61314e4a9dfd51c533c28d10_Chartex.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://www.chartex.pro/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Coin98 Wallet",
+      "slug": "coin98-wallet",
+      "summary": "A simple and secure non-custodial crypto wallet.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec99e888e176e8e72d704_Coin98%20Wallet.svg",
+      "tags": [
+        "wallet"
+      ],
+      "websiteURL": "https://coin98.app/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Coinbase",
+      "slug": "coinbase",
+      "summary": "Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrency",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61673d567d67bc8c041d2201_Coinbase_Wordmark.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.coinbase.com/price/avalanche",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Coinone",
+      "slug": "coinone",
+      "summary": "A financial service company for asset management.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeccb1888e174d6772ded5_Coinone.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://coinone.co.kr/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Complus Network",
+      "slug": "complus-network",
+      "summary": "A multichain decentralized trading protocol.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecca8f249714d4cd0c631_Complus%20Network.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://complus.exchange/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Copper",
+      "slug": "copper",
+      "summary": "The institutional gateway to digital asset investing.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecb5bb2d52d632f344e9a_Copper.svg",
+      "tags": [
+        "security",
+        "infrastructure"
+      ],
+      "websiteURL": "https://copper.co/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Covalent",
+      "slug": "covalent",
+      "summary": "A leading provider of indexing solutions for blockchains.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca369e16db4e01bbcc39_Covalent.svg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://www.covalenthq.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Crabada",
+      "slug": "crabada",
+      "summary": "A Fully Decentralized Play-and-Earn Idle Game on Avalanche",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61a15627583ca9ec7ddbb3a7_CRAB_LOGO_STROKE_crop.png",
+      "tags": [
+        "gaming-2"
+      ],
+      "websiteURL": "",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "CryptoRefills",
+      "slug": "cryptorefills",
+      "summary": "Enable people all over the world to spend cryptocurrency for their everyday needs.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecb7780d2a85e0c39f929_CryptoRefills.svg",
+      "tags": [
+        "payments"
+      ],
+      "websiteURL": "https://www.cryptorefills.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Curate",
+      "slug": "curate",
+      "summary": "A DeFi shopping experience.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60f02b50362069bc30be983c_Curate.svg",
+      "tags": [
+        "defi",
+        "nft"
+      ],
+      "websiteURL": "https://curate.style/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Curve",
+      "slug": "curve-fi",
+      "summary": "An exchange liquidity pool designed for extremely efficient stablecoin trading.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6167305c390e3055104a0c19_curvefi.svg",
+      "tags": [
+        "defi",
+        "exchange"
+      ],
+      "websiteURL": "https://avax.curve.fi/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "CyberFi",
+      "slug": "cyberfi",
+      "summary": "An automation-focused asset management platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecdd021e66600a0ba4c84_CyberFi.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://cyberfi.tech/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "DappRadar",
+      "slug": "dappradar",
+      "summary": "The Dapp discovery platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd2029f9513aface4240_DappRadar.svg",
+      "tags": [
+        "ecosystem",
+        "tooling"
+      ],
+      "websiteURL": "https://dappradar.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "DCTDao",
+      "slug": "dctdao",
+      "summary": "A quantum-resistant cross-chain DEX.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125d1891160591c36752487_DCTDAO.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "http://dctdao.org/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "DeBank",
+      "slug": "debank",
+      "summary": "A DeFi wallet for managaging and tracking your DeFi portfolio.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6144f491cef33a96baaf0dd2_debank.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://debank.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Decentology",
+      "slug": "decentology",
+      "summary": "Empowering developers to create full-stack Avalanche dApps in less than 15 minutes.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6131220953132e418c37c10d_decentology-logo.png",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://www.decentology.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "DeFi Yield Protocol (DYP)",
+      "slug": "defi-yield-protocol-dyp",
+      "summary": "A yield farming platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125ce5a91bf6c4006fbfcce_DYP.jpeg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://dyp.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "DEX Guru",
+      "slug": "dex-guru",
+      "summary": "Unparalleled coverage of on-chain markets integrated into one place and delivered in real-time.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61451cbf4a0c1a3421d513ef_DEX%20Guru.jpeg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://dex.guru",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "DSLA Protocol",
+      "slug": "dsla-protocol",
+      "summary": "A developer risk management framework.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca29b2d52d00c1344c74_DSLA%20Protocol.svg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://stacktical.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "DxSale",
+      "slug": "dxsale",
+      "summary": "Decentralized Token Creation, Launchpad, Locker, platform",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61312c6b34a8005b18d1e96a_dx_avax.png",
+      "tags": [
+        ""
+      ],
+      "websiteURL": "https://dxsale.app",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "E-Money",
+      "slug": "e-money",
+      "summary": "An issuer of transparent, interest-bearing, currency-backed stablecoins.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecadb06b4ae0e1f67e9f1_E-Money.svg",
+      "tags": [
+        "stablecoin",
+        "defi"
+      ],
+      "websiteURL": "https://www.e-money.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Elk Finance",
+      "slug": "elk-finance",
+      "summary": "A decentralized network for cross-chain liquidity.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/614521a082d7658664dfd4c5_Elk%205.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://elk.finance",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Encode Club",
+      "slug": "encode-club",
+      "summary": "A community of university students, researchers and developers building in blockchain.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd1618584227040b75e3_EncodeClub.svg",
+      "tags": [
+        "ecosystem"
+      ],
+      "websiteURL": "https://www.encode.club/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Figment Network",
+      "slug": "figment-network",
+      "summary": "Protocol infrastructure for developers.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbe3cb46a5705fe6c378_Figment%20Network.svg",
+      "tags": [
+        "infrastructure"
+      ],
+      "websiteURL": "https://figment.io/datahub/avalanche/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Flashback",
+      "slug": "flashback",
+      "summary": "Bespoke ticketing experience that bridges art, event organizers, and people.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125ce77a16f9ff742499c85_Flashback.jpeg",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://www.flashback.one/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Frax",
+      "slug": "frax",
+      "summary": "The first fractional-algorithmic stablecoin protocol.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecad2c814748082d6b073_Frax.svg",
+      "tags": [
+        "stablecoin",
+        "defi"
+      ],
+      "websiteURL": "https://frax.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Frontier",
+      "slug": "frontier",
+      "summary": "A chain-agnostic DeFi aggregator that allows users to manage their DeFi applications and assets.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecdc7888e17119472e347_Frontier.svg",
+      "tags": [
+        "defi",
+        "wallet"
+      ],
+      "websiteURL": "https://frontier.xyz/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "FTX",
+      "slug": "ftx",
+      "summary": "A leading cryptocurrency derivatives exchange built by traders, for traders.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc9ab02120bdacf863ff_FTX.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://ftx.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Gameswap",
+      "slug": "gameswap",
+      "summary": "A decentralized P2P exchange and NFT marketplace with a core focus on in-game assets.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61237de43f9e39cb52bda1b1_gameswap.svg",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://www.gameswap.org/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Gravity Protocol",
+      "slug": "gravity-protocol",
+      "summary": "A blockchain-agnostic oracle system that supports various communication of blockchains.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecb80cd0326bc2ecd1ae9_Gravity%20Protocol.svg",
+      "tags": [
+        "oracle"
+      ],
+      "websiteURL": "https://gravity.tech/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "HackenProof",
+      "slug": "hackenproof",
+      "summary": "A bug bounty and vulnerability coordination platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecb53c8147485bfd6b3f3_HackenProof.svg",
+      "tags": [
+        "security",
+        "tooling"
+      ],
+      "websiteURL": "https://hackenproof.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Halborn",
+      "slug": "halborn",
+      "summary": "A cybersecurity team that offers audit, penetration testing, and security products to blockchains.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60f02b62ce19affde7e81213_Halborn.svg",
+      "tags": [
+        "security"
+      ],
+      "websiteURL": "https://halborn.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "HAPI",
+      "slug": "hapi",
+      "summary": "On-chain cybersecurity protocol.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61312a6016d9c337666d7833_hapi.svg",
+      "tags": [
+        "security"
+      ],
+      "websiteURL": "https://www.hapi.one/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Hardhat",
+      "slug": "hardhat",
+      "summary": "A next-generation EVM tooling, works out of the box with Avalanche.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca22a8e94c95ef51e8ec_Hardhat.svg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://hardhat.org/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Hodo Network",
+      "slug": "hodo-network",
+      "summary": "A marketplace for Georeferenced Non-Fungible Tokens (gNFTs).",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/613146b27e33fef00aeeedd1_hodopinfilled_01__1_.png",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://hodo.network/#/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Hummingbot",
+      "slug": "hummingbot",
+      "summary": "A liquidity mining program for Avalanche.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecdbcfeeeb7de823ef551_Hummingbot.svg",
+      "tags": [
+        "defi",
+        "trading-bot"
+      ],
+      "websiteURL": "https://hummingbot.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Huobi",
+      "slug": "huobi",
+      "summary": "A digital asset trading platform providing secure and convenient trading services.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc9268e9976b5e6e2cbe_Huobi.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.huobi.com/en-us/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "HurricaneSwap",
+      "slug": "hurricaneswap",
+      "summary": "HurricaneSwap is a cross-chain liquidity DEX based on Avalanche.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61a1532cf32925506b50050d_HurricaneSwap.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "ImmuneFi",
+      "slug": "immunefi",
+      "summary": "The leading bug bounty and security services platform for DeFi.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecdb4741ddbd48b88d1c8_ImmuneFi.svg",
+      "tags": [
+        "defi",
+        "security"
+      ],
+      "websiteURL": "https://immunefi.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Injective Protocol",
+      "slug": "injective-protocol",
+      "summary": "Exchange protocol that improves decentralized derivatives and borderless DeFi.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca1b72d0be61ea8e8ac6_Injective%20Protocol.svg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://injectiveprotocol.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "InsurAce",
+      "slug": "insurace-2",
+      "summary": "Decentralized Multi-chain insurance platform to protect users' funds against various risks.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61609e73dc30a2b68b595a81_Insurace.svg",
+      "tags": [
+        "security",
+        "defi"
+      ],
+      "websiteURL": "https://www.insurace.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "InsurAce",
+      "slug": "insurace",
+      "summary": "A decentralized Multi-chain insurance platform to protect users' funds against various risks.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61609e73dc30a2b68b595a81_Insurace.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Jelly Swap",
+      "slug": "jelly-swap",
+      "summary": "A dApp for cross-chain swaps allowing value transfer between different networks.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc8927abae91f6a6f970_Jelly%20Swap.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://jelly.market/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "JulWallet",
+      "slug": "julwallet",
+      "summary": "A streamlined, browser-based wallet for decentralized finance.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec994888e17580572d701_JulWallet.svg",
+      "tags": [
+        "wallet"
+      ],
+      "websiteURL": "https://julwallet.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Kalao",
+      "slug": "kalao",
+      "summary": "The ultimate next generation NFTs marketplace.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/613127d39875cf52b3d73c87_kalao_logo.svg",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://www.kalao.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Knit Finance",
+      "slug": "knit-finance",
+      "summary": "A decentralized protocol for creating cross-chain wrappers for the top-200 assets.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecdaca8e94c03df520035_Knit%20Finance.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://knit.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Kurtosis",
+      "slug": "kurtosis",
+      "summary": "A complete testing platform to accelerate development on Avalanche.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecafcc6468d49e4a2c28a_Kurtosis.svg",
+      "tags": [
+        "security",
+        "tooling"
+      ],
+      "websiteURL": "https://www.kurtosistech.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "KUU",
+      "slug": "kuu",
+      "summary": "An on-chain liquidity underwriter.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61312690ddba766a3f458ac0_KUU.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://kuu.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Kyber",
+      "slug": "kyber",
+      "summary": "A DEX protocol that provides frictionless crypto liquidity with high flexibility and capital efficiency.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6168320a66235369670921f8_kyber.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "KYVE",
+      "slug": "kyve",
+      "summary": "A decentralized archiving and caching solution.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125ceaa93fe656af5349d4f_KYVE.jpeg",
+      "tags": [
+        "infrastructure"
+      ],
+      "websiteURL": "https://kyve.network/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "LACChain",
+      "slug": "lacchain",
+      "summary": "Accelerating the growth of the blockchain ecosystem in Latin America & the Caribbean.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60e05e4f3067ba7e1d32485e_60c13b8885642ec3416e1419_LACChain-2.jpeg",
+      "tags": [
+        "ecosystem"
+      ],
+      "websiteURL": "https://www.lacchain.net/home",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Ledger",
+      "slug": "ledger",
+      "summary": "A leader in security and infrastructure solutions.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec98b6d0acf6a4c92edc9_Ledger.svg",
+      "tags": [
+        "wallet"
+      ],
+      "websiteURL": "https://www.ledger.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Lydia Finance",
+      "slug": "lydia-finance",
+      "summary": "An automated market maker, yield farming, staking and launchpad platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/614b72fe13cc717318de1675_Lydia%20Finance.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://www.lydia.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Magic",
+      "slug": "magic",
+      "summary": "A passwordless login and key management system.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca121aea146d1579c9c8_Magic.svg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://magic.link/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Marginswap",
+      "slug": "marginswap",
+      "summary": "Protocol that natively supports spot and cross margin swapping of assets on AMMs.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecda3a7e724a5bbb2ef3b_Marginswap.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://app.marginswap.exchange/swap",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Markr",
+      "slug": "markr",
+      "summary": "Portfolio management and tracker tool for #dApp users.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6144f4176d6b1760ba4c712f_Markr-logo.jpeg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://markr.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Math Wallet",
+      "slug": "math-wallet",
+      "summary": "A multi-platform universal crypto wallet.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125cec63b9e491a12a06198_MathWallet.png",
+      "tags": [
+        "wallet"
+      ],
+      "websiteURL": "https://mathwallet.org/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Metamask",
+      "slug": "metamask",
+      "summary": "A crypto wallet & gateway to blockchain apps.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec980888e1739b772d6aa_Metamask.svg",
+      "tags": [
+        "wallet"
+      ],
+      "websiteURL": "https://metamask.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Money Dance",
+      "slug": "money-dance",
+      "summary": "A Virtual Hackathon, Summit and Demo Day.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6131229b5e2a46bb24be1caa_MoneyDance.svg",
+      "tags": [
+        ""
+      ],
+      "websiteURL": "https://www.moneydance.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Moralis",
+      "slug": "moralis",
+      "summary": "A premier blockchain middleware service.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61314cd17266455d5a18e705_Moralis-Icon-Light.svg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://moralis.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "MyCointainer",
+      "slug": "mycointainer",
+      "summary": "An online automatic staking and masternode staking platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd9be3aeac3705f95af0_MyCointainer.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://www.mycointainer.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Nansen",
+      "slug": "nansen",
+      "summary": "A crypto analytics platform that enriches on-chain data with millions of wallets labels.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61a1551ce18d76b94ef10034_Nansen%20.png",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://nansen.ai",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Nash",
+      "slug": "nash",
+      "summary": "A fast, user-friendly platform for decentralized financial services.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec96d47e11658737a5219_Nash.svg",
+      "tags": [
+        "wallet"
+      ],
+      "websiteURL": "https://nash.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Nexo",
+      "slug": "nexo",
+      "summary": "The world's leading regulated digital assets institution",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/618ba7be70bb5b7c8440445d_light_circle.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://nexo.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "NFT Stars",
+      "slug": "nft-stars",
+      "summary": "A new multi-chain NFT marketplace.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbd2d0732b5abda6f49a_NFT%20Stars.svg",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://nftstars.app/en/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "NFTrade",
+      "slug": "nftrade",
+      "summary": "A cross-chain and blockchain-agnostic NFT platform. An aggregator of all NFT marketplaces.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61491dd4b3f4816aebc6689b_NFTrade.jpeg",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://nftrade.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Niftyx Protocol",
+      "slug": "niftyx-protocol",
+      "summary": "A community-driven decentralised protocol for trading and minting NFT assets.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61237eb0ba2bd10a82f796e7_niftyx.svg",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://niftyx.org/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "OIN",
+      "slug": "oin",
+      "summary": "A stablecoin and staking derivatives issuance platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecacb5628ed1b2316d39f_OIN.svg",
+      "tags": [
+        "stablecoin",
+        "defi"
+      ],
+      "websiteURL": "https://oin.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Okcoin",
+      "slug": "okcoin",
+      "summary": "A cryptocurrency exchange for users to transfer between crypto and fiat currencies.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc7b6ab57058127b4798_Okcoin.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.okcoin.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "OKEx",
+      "slug": "okex",
+      "summary": "A fully customizable cryptocurrency exchange for traders at every level.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc8210da6d2e27569f68_OKEx.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.okex.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Onomy",
+      "slug": "onomy",
+      "summary": "A protocol that mints, trades, and lends stablecoin representations of national currencies.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/613123584809a80c8621f7f7_onomy-logo-black.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://onomy.io/#home",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "OpenOcean",
+      "slug": "openocean",
+      "summary": "A full aggregation protocol for crypto trading.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6144e379cec171dc72987a03_ooe_log.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://openocean.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Orion Protocol",
+      "slug": "orion-protocol",
+      "summary": "A non-custodial gateway to the entire digital asset market.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd93fea49300d933a599_Orion%20Protocol.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://www.orionprotocol.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Pangolin",
+      "slug": "pangolin",
+      "summary": "A decentralized exchange that supports all Avalanche and Ethereum tokens.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc745628ed38fb16dba8_Pangolin.svg",
+      "tags": [
+        "exchange",
+        "defi"
+      ],
+      "websiteURL": "https://pangolin.exchange/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "ParaSwap",
+      "slug": "paraswap",
+      "summary": "Aggregating decentralized exchanges in one comprehensive interface.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/613154f61e57a82a9a410cba_Paraswap-Logo-1024x201.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://paraswap.io/#/?network=avalanche",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Paribu",
+      "slug": "paribu",
+      "summary": "A centralized exchange based in Turkey.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60e05e58bd197c86bdb6c38f_60b028f6d3446b02449a6abe_Paribu.jpeg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.paribu.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Pendle",
+      "slug": "pendle",
+      "summary": "The protocol to trade DeFi yield.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61a1546e9cb6fd10165e8b51_Pendle_Logo.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://app.pendle.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Penguin Finance",
+      "slug": "penguin-finance",
+      "summary": "A protocol bringing yield-farming, staking and more functionalities to the Avalanche platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6131257bffd9b5590d323fc5_PenguinFinance%201.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://www.penguinfinance.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Polyient Games",
+      "slug": "polyient-games",
+      "summary": "A NFT-focused decentralized exchange.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbca185842248e0b719c_Polyient%20Games.svg",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://www.polyient.games/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Poolz",
+      "slug": "poolz",
+      "summary": "A decentralized cross-chain IDO platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125cef2aaa31c2d30e19120_Poolz.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://www.poolz.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Proof of Learning (PoL)",
+      "slug": "proof-of-learning",
+      "summary": "An education curriculum on Japan’s most popular learning platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecce09e16db7541bbd444_Proof%20of%20Learning%20(PoL).svg",
+      "tags": [
+        "ecosystem",
+        "tooling"
+      ],
+      "websiteURL": "https://en.techtec.co.jp/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Prosper",
+      "slug": "prosper",
+      "summary": "A non-custodial crosschain prediction market and hedging platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd8c3dddbfda095b8633_Prosper.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://prosper.so/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Protocoh",
+      "slug": "protocoh",
+      "summary": "A team passionate about bringing the world closer with technology and infrastructure.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca0906b4ae10b667e893_Protocoh.svg",
+      "tags": [
+        "tooling",
+        "infrastructure"
+      ],
+      "websiteURL": "https://protocoh.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Quadency",
+      "slug": "quadency",
+      "summary": "A multi-exchange trading and automation platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61451ffcd3258809430d2c69_quadency.svg",
+      "tags": [
+        "wealth-management"
+      ],
+      "websiteURL": "https://quadency.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Quantstamp",
+      "slug": "quantstamp",
+      "summary": "A blockchain security firm that conducts audits in order to enhance the security of your dApp.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecaf451fed6c7e82121fd_Quantstamp.svg",
+      "tags": [
+        "security"
+      ],
+      "websiteURL": "https://quantstamp.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Reef",
+      "slug": "reef",
+      "summary": "A cross-chain DeFi operating system with a smart liquidity aggregator which enables traders.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd836e4b87c1a386bea8_Reef.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://reef.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Ren",
+      "slug": "ren",
+      "summary": "An‌ ‌open‌ ‌protocol‌ ‌that‌ ‌enables‌ ‌the‌ ‌movement‌ ‌of‌ ‌value‌ ‌between‌ ‌blockchains.‌ ‌",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd7cb02120dfc6f868a2_Ren.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://renproject.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Rome Terminal",
+      "slug": "rome-terminal",
+      "summary": "A multi-network, multi-dApp trading terminal.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125cf176e54b80c747dbb4d_Rome%20Terminal.jpeg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://rometerminal.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Router Protocol",
+      "slug": "router-protocol",
+      "summary": "Enables the bridging infrastructure for contract level data flow across various blockchains.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd5627abaea8a8a6fc5b_Router%20Protocol.svg",
+      "tags": [
+        ""
+      ],
+      "websiteURL": "https://www.routerprotocol.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Securitize",
+      "slug": "securitize",
+      "summary": "Iissuance and compliance platform for digital securities and SEC-registered transfer agents.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd46b0212044eaf8677f_Securitize.svg",
+      "tags": [
+        "digital-securities",
+        "exchange"
+      ],
+      "websiteURL": "https://www.securitize.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Shopping.io",
+      "slug": "shopping-io",
+      "summary": "A crypto e-commerce platform.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125cf637cab078bb4ddfd6c_Shopping.io.jpeg",
+      "tags": [
+        "payments"
+      ],
+      "websiteURL": "https://shopping.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "SIMBA Chain",
+      "slug": "simba-chain",
+      "summary": "A fault tolerant, secure environment focused on scalable production applications.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec9fdf249716c7bd09cae_SIMBA%20Chain.svg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://simbachain.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Simplex",
+      "slug": "simplex",
+      "summary": "Enabling users to access cryptocurrencies and digital assets with fiat currencies.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc5d6b5e34dc977a514e_Simplex.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.simplex.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Snowball",
+      "slug": "snowball",
+      "summary": "Combines multiple DeFi protocols to build interconnectedness, swap stablecoins and deposit liquidity.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd619e16db3df9bbd5de_Snowball.svg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://snowball.network/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "StackOS",
+      "slug": "stackos",
+      "summary": "A decentralized cloud for deploying full-stack applications, blockchain privatenets and mainnet nodes.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/613cd8b6e28f9cdff1a5e117_stackOS.png",
+      "tags": [
+        "infrastructure"
+      ],
+      "websiteURL": "https://www.stackos.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Sushiswap",
+      "slug": "sushiswap",
+      "summary": "A comprehensive, decentralized trading platform for the future of finance.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc5086f24586a632d9f8_Sushiswap.svg",
+      "tags": [
+        "exchange",
+        "defi"
+      ],
+      "websiteURL": "https://sushi.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Tenderly",
+      "slug": "tenderly",
+      "summary": "A developer platform for teams and companies building innovative blockchain products.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125cf8400de6a8515ad2a9e_Tenderly.jpeg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://tenderly.co/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Tether",
+      "slug": "tether",
+      "summary": "A global, fast and secure stablecoin.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecac3cd0326c8e1cd1935_Tether.svg",
+      "tags": [
+        "stablecoin",
+        "defi"
+      ],
+      "websiteURL": "https://tether.to/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "The Club Deportivo Guadalajara (\"Chivas\")",
+      "slug": "the-club-deportivo-guadalajara",
+      "summary": "Mexico’s most popular soccer club.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbbdcd03260963cd1ca7_The%20Club%20Deportivo%20Guadalajara%20(_Chivas_).svg",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://www.chivasdecorazon.com.mx/nft/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "The Graph",
+      "slug": "the-graph",
+      "summary": "The indexing and query layer of the decentralized web.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec9f380d2a856c839f35c_The%20Graph.svg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://thegraph.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Tin Network",
+      "slug": "tin-network",
+      "summary": "A simple dashboard for DeFi.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61312bf72096a1577d497f96_Tun.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://tin.network/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Topps NFTs",
+      "slug": "topps-nfts",
+      "summary": "A diversified NFT marketplace with a multi-platform product portfolio.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6131247d8342ccdc6034dcbf_Topps_logo.svg",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://toppsnfts.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Torus",
+      "slug": "torus",
+      "summary": "SDK to combine passwordless authentication with private key management.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbda10da6d168d569c86_Torus.svg",
+      "tags": [
+        "infrastructure",
+        "security",
+        "tooling"
+      ],
+      "websiteURL": "https://toruswallet.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Trader Joe",
+      "slug": "trader-joe",
+      "summary": "A one-stop decentralized trading platform on Avalanche.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6131293ad820c112d681919f_joe.png",
+      "tags": [
+        "defi",
+        "exchange"
+      ],
+      "websiteURL": "https://www.traderjoexyz.com/#/home",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "TrueUSD",
+      "slug": "trueusd",
+      "summary": "A stablecoin that is 1:1 to the US dollar with live attestations and on-chain Proof of Reserves.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecabbc070ab512ff37f6b_TrueUSD.svg",
+      "tags": [
+        "stablecoin",
+        "defi"
+      ],
+      "websiteURL": "https://www.trusttoken.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "TrustSwap",
+      "slug": "trustswap",
+      "summary": "Professional support and guidance through the token launch process for top-tier projects.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec9bb27abae766ca6ee14_Trustswap.svg",
+      "tags": [
+        "tooling"
+      ],
+      "websiteURL": "https://trustswap.org/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Unifty.io",
+      "slug": "unifty-io",
+      "summary": "A decentralized multi-chain infrastructure platform focused on NFT’s.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbb310da6d7ce8569afd_Unifty.io.svg",
+      "tags": [
+        "nft"
+      ],
+      "websiteURL": "https://unifty.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Union",
+      "slug": "union",
+      "summary": "Merging bundled protection & a liquid secondary market with a multi-token model.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61a14ef57438003585c36951_2021-11-26%2016.17.32.jpg",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "http://www.unn.finance",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Velox",
+      "slug": "velox",
+      "summary": "A fully scalable, automated trading assistant for ERC20 tokens.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec9ad6d0acfb35c92edea_Velox.svg",
+      "tags": [
+        "tooling",
+        "defi",
+        "trading-bot"
+      ],
+      "websiteURL": "https://velox.global/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Venly",
+      "slug": "venly",
+      "summary": "A provider of multi-blockchain wallet and NFT products.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125cfa19ca036702172c579_Venly.png",
+      "tags": [
+        "infrastructure"
+      ],
+      "websiteURL": "https://www.venly.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Verso Finance",
+      "slug": "verso-finance",
+      "summary": "Money flow between service providers, financial institutions and their customers.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/614507f1ce31634d159bf5b7_Verso.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://verso.finance/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Voyager",
+      "slug": "voyager",
+      "summary": "A crypto-asset broker providing retail and institutional investors with a turnkey solution to trade.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc4451fed60b652124ed_Voyager.svg",
+      "tags": [
+        "exchange"
+      ],
+      "websiteURL": "https://www.investvoyager.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Vscout",
+      "slug": "vscout",
+      "summary": "A tool to explore Avalanche Network and to monitor individual node metrics.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc19164b2d2cffd8a08c_Vscout.svg",
+      "tags": [
+        "explorer",
+        "tooling"
+      ],
+      "websiteURL": "https://vscout.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Whiteblock",
+      "slug": "whiteblock",
+      "summary": "A blockchain testing framework.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecaeb72d0be55238e8b98_Whiteblock.svg",
+      "tags": [
+        "security"
+      ],
+      "websiteURL": "https://whiteblock.io/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Wyre",
+      "slug": "wyre",
+      "summary": "A payments infrastructure provider in crypto.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecab1d0732b8401a6f0f0_Wyre.svg",
+      "tags": [
+        "stablecoin",
+        "defi",
+        "infrastructure"
+      ],
+      "websiteURL": "https://www.sendwyre.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Yay Games",
+      "slug": "yay-games",
+      "summary": "Play to earn crypto marketplace for in-game mining, farming and trading.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61314ddee7536533a355a0f3_yay.png",
+      "tags": [
+        "defi",
+        "play-to-earn"
+      ],
+      "websiteURL": "https://play.yay.games/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "YetiSwap",
+      "slug": "yetiswap",
+      "summary": "DEX and NFT marketplace with royalties.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6179a0de295c9b0b4b74ced6_yetiswap_logo.png",
+      "tags": [
+        "nft",
+        "defi"
+      ],
+      "websiteURL": "https://www.yetiswap.app/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Yield Yak",
+      "slug": "yield-yak",
+      "summary": "An easy-to-use tool to earn more yield from DeFi farming on the Avalanche network.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6125cfc700de6a8c38ad2d37_Yield%20Yak.png",
+      "tags": [
+        "defi"
+      ],
+      "websiteURL": "https://yieldyak.com/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Yield",
+      "slug": "yield",
+      "summary": "A licensed FinTech company that enables anyone to invest in decentralized finance.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec962d5512e0ca0b987da_Yield.svg",
+      "tags": [
+        "wealth-management",
+        "defi"
+      ],
+      "websiteURL": "https://www.yield.app/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
+    },
+    {
+      "name": "Zapper",
+      "slug": "zapper",
+      "summary": "Track all your DeFi portfolio from one place. Invest into the latest opportunities in open finance.",
+      "longSummary": "",
+      "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6148b65e5bc7f426583d7bd1_Zapper.jpeg",
+      "tags": [
+        "wealth-management"
+      ],
+      "websiteURL": "https://zapper.fi/",
+      "twitterURL": "",
+      "discordURL": "",
+      "githubURL": "",
+      "telegramURL": "",
+      "status": "",
+      "contact": ""
     }
   ]
 }
