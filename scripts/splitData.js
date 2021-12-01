@@ -1,4 +1,5 @@
 const fs = require('fs')
+const path = require('path')
 const parseJSONFile = (path) => {
     try {
         const file = fs.readFileSync(path, 'utf8')
@@ -10,8 +11,8 @@ const parseJSONFile = (path) => {
     }
 }
 
-const file = parseJSONFile('ecosystem-backup.json')
-console.log('file=', file);
+const file = parseJSONFile(path.join(__dirname, './ecosystem-backup.json'))
+
 
 file.projects.forEach((item) => {
     fs.writeFileSync(`./projects/${item.slug}.json`, JSON.stringify(item, null, 2))
