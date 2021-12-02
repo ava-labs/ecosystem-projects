@@ -1,5 +1,8 @@
-const fs = require('fs')
-const path = require('path')
+import fs from 'fs';
+import path, { dirname } from 'path';
+import { fileURLToPath } from 'url';
+const __dirname = dirname(fileURLToPath(
+    import.meta.url));
 const projectsPath = path.join(__dirname, "../projects")
 const files = fs.readdirSync(projectsPath)
 
