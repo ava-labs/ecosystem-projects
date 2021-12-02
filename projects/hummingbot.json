@@ -3,7 +3,7 @@
   "slug": "hummingbot",
   "summary": "A liquidity mining program for Avalanche.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecdbcfeeeb7de823ef551_Hummingbot.svg",
+  "imageURL": "/img/hummingbot.svg",
   "tags": [
     "defi",
     "trading-bot"

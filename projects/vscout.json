@@ -3,7 +3,7 @@
   "slug": "vscout",
   "summary": "A tool to explore Avalanche Network and to monitor individual node metrics.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc19164b2d2cffd8a08c_Vscout.svg",
+  "imageURL": "/img/vscout.svg",
   "tags": [
     "explorer",
     "tooling"

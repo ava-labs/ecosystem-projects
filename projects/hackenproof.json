@@ -3,7 +3,7 @@
   "slug": "hackenproof",
   "summary": "A bug bounty and vulnerability coordination platform.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecb53c8147485bfd6b3f3_HackenProof.svg",
+  "imageURL": "/img/hackenproof.svg",
   "tags": [
     "security",
     "tooling"

@@ -3,7 +3,7 @@
   "slug": "metamask",
   "summary": "A crypto wallet & gateway to blockchain apps.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec980888e1739b772d6aa_Metamask.svg",
+  "imageURL": "/img/metamask.svg",
   "tags": [
     "wallet"
   ],

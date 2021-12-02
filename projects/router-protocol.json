@@ -3,7 +3,7 @@
   "slug": "router-protocol",
   "summary": "Enables the bridging infrastructure for contract level data flow across various blockchains.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd5627abaea8a8a6fc5b_Router%20Protocol.svg",
+  "imageURL": "/img/router-protocol.svg",
   "tags": [
     ""
   ],

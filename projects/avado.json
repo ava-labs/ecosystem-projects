@@ -3,7 +3,7 @@
   "slug": "avado",
   "summary": "Plug-and-play hardware nodes for Avalanche.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecb98d4eeb43cd0a68d5b_Avado.svg",
+  "imageURL": "/img/avado.svg",
   "tags": [
     "nodes"
   ],

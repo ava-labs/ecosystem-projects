@@ -3,7 +3,7 @@
   "slug": "dappradar",
   "summary": "The Dapp discovery platform.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecd2029f9513aface4240_DappRadar.svg",
+  "imageURL": "/img/dappradar.svg",
   "tags": [
     "ecosystem",
     "tooling"

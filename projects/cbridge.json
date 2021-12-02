@@ -3,7 +3,7 @@
   "slug": "cbridge",
   "summary": "Bridging Ethereum sidechains such as Polygon, Arbitrum, Optimism and BSC.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/614520b8b7209c2da2d625a8_Celer%20Network.png",
+  "imageURL": "/img/cbridge.png",
   "tags": [
     "infrastructure"
   ],

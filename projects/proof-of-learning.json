@@ -3,7 +3,7 @@
   "slug": "proof-of-learning",
   "summary": "An education curriculum on Japan’s most popular learning platform.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecce09e16db7541bbd444_Proof%20of%20Learning%20(PoL).svg",
+  "imageURL": "/img/proof-of-learning.svg",
   "tags": [
     "ecosystem",
     "tooling"

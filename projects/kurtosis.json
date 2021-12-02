@@ -3,7 +3,7 @@
   "slug": "kurtosis",
   "summary": "A complete testing platform to accelerate development on Avalanche.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecafcc6468d49e4a2c28a_Kurtosis.svg",
+  "imageURL": "/img/kurtosis.svg",
   "tags": [
     "security",
     "tooling"

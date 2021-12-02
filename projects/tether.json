@@ -3,7 +3,7 @@
   "slug": "tether",
   "summary": "A global, fast and secure stablecoin.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecac3cd0326c8e1cd1935_Tether.svg",
+  "imageURL": "/img/tether.svg",
   "tags": [
     "stablecoin",
     "defi"

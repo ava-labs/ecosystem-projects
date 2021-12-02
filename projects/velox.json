@@ -3,7 +3,7 @@
   "slug": "velox",
   "summary": "A fully scalable, automated trading assistant for ERC20 tokens.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eec9ad6d0acfb35c92edea_Velox.svg",
+  "imageURL": "/img/velox.svg",
   "tags": [
     "tooling",
     "defi",

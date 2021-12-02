@@ -3,7 +3,7 @@
   "slug": "coinone",
   "summary": "A financial service company for asset management.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeccb1888e174d6772ded5_Coinone.svg",
+  "imageURL": "/img/coinone.svg",
   "tags": [
     "exchange"
   ],

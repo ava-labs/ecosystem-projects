@@ -3,7 +3,7 @@
   "slug": "okex",
   "summary": "A fully customizable cryptocurrency exchange for traders at every level.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc8210da6d2e27569f68_OKEx.svg",
+  "imageURL": "/img/okex.svg",
   "tags": [
     "exchange"
   ],

@@ -3,7 +3,7 @@
   "slug": "e-money",
   "summary": "An issuer of transparent, interest-bearing, currency-backed stablecoins.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecadb06b4ae0e1f67e9f1_E-Money.svg",
+  "imageURL": "/img/e-money.svg",
   "tags": [
     "stablecoin",
     "defi"

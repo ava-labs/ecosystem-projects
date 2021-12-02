@@ -3,7 +3,7 @@
   "slug": "bilira",
   "summary": "A Turkish Lira stablecoin on Avalanche.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecae4f62ffc8493d2d0bc_BiLira.svg",
+  "imageURL": "/img/bilira.svg",
   "tags": [
     "stablecoin"
   ],

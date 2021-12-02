@@ -3,7 +3,7 @@
   "slug": "okcoin",
   "summary": "A cryptocurrency exchange for users to transfer between crypto and fiat currencies.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc7b6ab57058127b4798_Okcoin.svg",
+  "imageURL": "/img/okcoin.svg",
   "tags": [
     "exchange"
   ],

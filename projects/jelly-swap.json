@@ -3,7 +3,7 @@
   "slug": "jelly-swap",
   "summary": "A dApp for cross-chain swaps allowing value transfer between different networks.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc8927abae91f6a6f970_Jelly%20Swap.svg",
+  "imageURL": "/img/jelly-swap.svg",
   "tags": [
     "exchange"
   ],

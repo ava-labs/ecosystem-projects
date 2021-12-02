@@ -3,7 +3,7 @@
   "slug": "axelar",
   "summary": "A cross-chain communication network that connects Avalanche with other leading platforms.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca4947e11615bb7a56ea_Axelar.svg",
+  "imageURL": "/img/axelar.svg",
   "tags": [
     "tooling"
   ],

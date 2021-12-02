@@ -3,7 +3,7 @@
   "slug": "avascan",
   "summary": "An independent blockchain explorer for Avalanche.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecc2bc070ab06fef39728_Avascan.svg",
+  "imageURL": "/img/avascan.svg",
   "tags": [
     "explorer",
     "tooling"

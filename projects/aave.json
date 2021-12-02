@@ -3,7 +3,7 @@
   "slug": "aave",
   "summary": "Open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/61673c65973f841fff7dcd40_Aave%20Logo.svg",
+  "imageURL": "/img/aave.svg",
   "tags": [
     "defi"
   ],

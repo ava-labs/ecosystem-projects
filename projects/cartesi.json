@@ -3,7 +3,7 @@
   "slug": "cartesi",
   "summary": "Layer-2 infrastructure to enable a Linux environment on Avalanche.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeca3f1aea14aafc79ca9c_Cartesi.svg",
+  "imageURL": "/img/cartesi.svg",
   "tags": [
     "tooling",
     "oracle"

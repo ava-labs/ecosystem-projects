@@ -3,7 +3,7 @@
   "slug": "gravity-protocol",
   "summary": "A blockchain-agnostic oracle system that supports various communication of blockchains.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecb80cd0326bc2ecd1ae9_Gravity%20Protocol.svg",
+  "imageURL": "/img/gravity-protocol.svg",
   "tags": [
     "oracle"
   ],

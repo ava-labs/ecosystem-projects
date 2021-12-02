@@ -3,7 +3,7 @@
   "slug": "allnodes",
   "summary": "A non-custodial platform for hosting masternodes and full nodes, as well as full staking services.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecbab558d841f6c886fa4_Allnodes.svg",
+  "imageURL": "/img/allnodes.svg",
   "tags": [
     "nodes"
   ],

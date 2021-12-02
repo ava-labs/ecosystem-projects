@@ -3,7 +3,7 @@
   "slug": "avme",
   "summary": "Desktop Wallet for Avalanche, built in C++. Decentralized and Trustless security suite.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/6172d53de0d7322c06e33d70_AVME_Colored.png",
+  "imageURL": "/img/avme.png",
   "tags": [
     "nft",
     "wallet"

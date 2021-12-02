@@ -3,7 +3,7 @@
   "slug": "binance",
   "summary": "The worlds biggest crypto exchange in the world by volume.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eeccd9e3aeacd024f9576e_Binance.svg",
+  "imageURL": "/img/binance.svg",
   "tags": [
     "exchange"
   ],

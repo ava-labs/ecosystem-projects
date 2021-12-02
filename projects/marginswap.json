@@ -3,7 +3,7 @@
   "slug": "marginswap",
   "summary": "Protocol that natively supports spot and cross margin swapping of assets on AMMs.",
   "longSummary": "",
-  "imageURL": "https://uploads-ssl.webflow.com/60d085f940b3cf3f9b679a59/60eecda3a7e724a5bbb2ef3b_Marginswap.svg",
+  "imageURL": "/img/marginswap.svg",
   "tags": [
     "defi"
   ],
