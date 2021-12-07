@@ -1,7 +1,6 @@
 {
   "name": "Bitfinex",
   "slug": "bitfinex",
-  "longSummary": "",
   "tags": [
     "exchange"
   ],

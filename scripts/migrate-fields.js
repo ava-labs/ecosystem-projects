@@ -32,14 +32,15 @@ const fieldMapper = {
 }
 
 const newField = ['contact', 'summary', 'docs', 'cmc', 'date', 'token']
-
-const parsed = files.map((fileName => parseJSONFile(path.join(projectsPath, fileName)))).forEach((item) => {
+const deleteField = ['longSummary']
+const parsed = files.slice(0,1).map((fileName => parseJSONFile(path.join(projectsPath, fileName)))).forEach((item) => {
   Object.entries(fieldMapper).map(([dest, from]) => {
 
     item[dest] = item[from]
     delete item[from]
   })
   newField.forEach(name => {item[name] = ""})
+  deleteField.forEach(name => {delete item[name]})
   fs.writeFileSync(`./projects/${item.slug}.json`, JSON.stringify(item, null, 2))
 
 })

@@ -1,7 +1,6 @@
 {
   "name": "Chainlink",
   "slug": "chainlink",
-  "longSummary": "",
   "tags": [
     "oracle",
     "defi"

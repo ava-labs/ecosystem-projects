@@ -1,16 +1,21 @@
 {
   "name": "Aave",
   "slug": "aave",
-  "longSummary": "",
   "tags": [
     "defi"
   ],
   "status": "",
   "contact": "",
-  "highlight": "",
+  "highlight": "Open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
+  "logo": "/img/aave.svg",
+  "website": "https://aave.com/",
+  "twitter": "https://twitter.com/aaveaave",
+  "telegram": "https://t.me/Aavesome",
+  "github": "https://github.com/aave/aave-protocol",
+  "discord": "https://discord.com/invite/CvKUrqM",
+  "summary": "",
   "docs": "",
   "cmc": "",
   "date": "",
-  "token": "",
-  "summary": ""
+  "token": ""
 }

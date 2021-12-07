@@ -1,7 +1,6 @@
 {
   "name": "Hummingbot",
   "slug": "hummingbot",
-  "longSummary": "",
   "tags": [
     "defi",
     "trading-bot"
