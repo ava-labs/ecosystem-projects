@@ -1,17 +1,22 @@
 {
   "name": "Figment Network",
   "slug": "figment-network",
-  "summary": "Protocol infrastructure for developers.",
   "longSummary": "",
-  "imageURL": "/img/figment-network.svg",
   "tags": [
     "infrastructure"
   ],
-  "websiteURL": "https://figment.io/datahub/avalanche/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Protocol infrastructure for developers.",
+  "logo": "/img/figment-network.svg",
+  "website": "https://figment.io/datahub/avalanche/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

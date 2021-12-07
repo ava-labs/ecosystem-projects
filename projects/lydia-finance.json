@@ -1,17 +1,22 @@
 {
   "name": "Lydia Finance",
   "slug": "lydia-finance",
-  "summary": "An automated market maker, yield farming, staking and launchpad platform.",
   "longSummary": "",
-  "imageURL": "/img/lydia-finance.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://www.lydia.finance/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "An automated market maker, yield farming, staking and launchpad platform.",
+  "logo": "/img/lydia-finance.svg",
+  "website": "https://www.lydia.finance/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

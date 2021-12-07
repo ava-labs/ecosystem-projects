@@ -1,17 +1,22 @@
 {
   "name": "Ankr",
   "slug": "ankr",
-  "summary": "Makes participating in, building on, and using blockchains and protocols easy and accessible.",
   "longSummary": "",
-  "imageURL": "/img/ankr.svg",
   "tags": [
     "nodes"
   ],
-  "websiteURL": "https://stakefi.ankr.com/internet-bonds/AVAX",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Makes participating in, building on, and using blockchains and protocols easy and accessible.",
+  "logo": "/img/ankr.svg",
+  "website": "https://stakefi.ankr.com/internet-bonds/AVAX",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

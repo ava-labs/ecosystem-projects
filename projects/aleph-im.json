@@ -1,17 +1,22 @@
 {
   "name": "Aleph.Im",
   "slug": "aleph-im",
-  "summary": "A cross-blockchain layer-2 network.",
   "longSummary": "",
-  "imageURL": "/img/aleph-im.svg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://aleph.im/#/chains",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A cross-blockchain layer-2 network.",
+  "logo": "/img/aleph-im.svg",
+  "website": "https://aleph.im/#/chains",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

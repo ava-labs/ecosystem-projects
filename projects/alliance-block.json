@@ -1,17 +1,22 @@
 {
   "name": "Alliance Block",
   "slug": "alliance-block",
-  "summary": "A decentralized blockchain-agnostic layer 2 that converts any digital asset to a bankable product.",
   "longSummary": "",
-  "imageURL": "/img/alliance-block.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://allianceblock.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized blockchain-agnostic layer 2 that converts any digital asset to a bankable product.",
+  "logo": "/img/alliance-block.svg",
+  "website": "https://allianceblock.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

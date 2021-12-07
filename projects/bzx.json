@@ -1,17 +1,22 @@
 {
   "name": "bZx",
   "slug": "bzx",
-  "summary": "A protocol that offers open finance margin trading & lending on Avalanche.",
   "longSummary": "",
-  "imageURL": "/img/bzx.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://bzx.network/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A protocol that offers open finance margin trading & lending on Avalanche.",
+  "logo": "/img/bzx.svg",
+  "website": "https://bzx.network/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

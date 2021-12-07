@@ -1,18 +1,23 @@
 {
   "name": "Pangolin",
   "slug": "pangolin",
-  "summary": "A decentralized exchange that supports all Avalanche and Ethereum tokens.",
   "longSummary": "",
-  "imageURL": "/img/pangolin.svg",
   "tags": [
     "exchange",
     "defi"
   ],
-  "websiteURL": "https://pangolin.exchange/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized exchange that supports all Avalanche and Ethereum tokens.",
+  "logo": "/img/pangolin.svg",
+  "website": "https://pangolin.exchange/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

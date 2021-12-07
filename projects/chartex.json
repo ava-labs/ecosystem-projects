@@ -1,17 +1,22 @@
 {
   "name": "ChartEx",
   "slug": "chartex",
-  "summary": "A leading provider of full candlestick charting.",
   "longSummary": "",
-  "imageURL": "/img/chartex.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://www.chartex.pro/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A leading provider of full candlestick charting.",
+  "logo": "/img/chartex.png",
+  "website": "https://www.chartex.pro/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

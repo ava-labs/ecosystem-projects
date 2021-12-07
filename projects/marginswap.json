@@ -1,17 +1,22 @@
 {
   "name": "Marginswap",
   "slug": "marginswap",
-  "summary": "Protocol that natively supports spot and cross margin swapping of assets on AMMs.",
   "longSummary": "",
-  "imageURL": "/img/marginswap.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://app.marginswap.exchange/swap",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Protocol that natively supports spot and cross margin swapping of assets on AMMs.",
+  "logo": "/img/marginswap.svg",
+  "website": "https://app.marginswap.exchange/swap",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

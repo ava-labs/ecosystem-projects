@@ -1,18 +1,23 @@
 {
   "name": "Sushiswap",
   "slug": "sushiswap",
-  "summary": "A comprehensive, decentralized trading platform for the future of finance.",
   "longSummary": "",
-  "imageURL": "/img/sushiswap.svg",
   "tags": [
     "exchange",
     "defi"
   ],
-  "websiteURL": "https://sushi.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A comprehensive, decentralized trading platform for the future of finance.",
+  "logo": "/img/sushiswap.svg",
+  "website": "https://sushi.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

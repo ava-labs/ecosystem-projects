@@ -1,17 +1,22 @@
 {
   "name": "Hardhat",
   "slug": "hardhat",
-  "summary": "A next-generation EVM tooling, works out of the box with Avalanche.",
   "longSummary": "",
-  "imageURL": "/img/hardhat.svg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://hardhat.org/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A next-generation EVM tooling, works out of the box with Avalanche.",
+  "logo": "/img/hardhat.svg",
+  "website": "https://hardhat.org/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

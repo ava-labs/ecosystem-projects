@@ -1,17 +1,22 @@
 {
   "name": "Kyber",
   "slug": "kyber",
-  "summary": "A DEX protocol that provides frictionless crypto liquidity with high flexibility and capital efficiency.",
   "longSummary": "",
-  "imageURL": "/img/kyber.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A DEX protocol that provides frictionless crypto liquidity with high flexibility and capital efficiency.",
+  "logo": "/img/kyber.png",
+  "website": "",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

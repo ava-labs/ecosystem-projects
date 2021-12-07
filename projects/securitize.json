@@ -1,18 +1,23 @@
 {
   "name": "Securitize",
   "slug": "securitize",
-  "summary": "Iissuance and compliance platform for digital securities and SEC-registered transfer agents.",
   "longSummary": "",
-  "imageURL": "/img/securitize.svg",
   "tags": [
     "digital-securities",
     "exchange"
   ],
-  "websiteURL": "https://www.securitize.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Iissuance and compliance platform for digital securities and SEC-registered transfer agents.",
+  "logo": "/img/securitize.svg",
+  "website": "https://www.securitize.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

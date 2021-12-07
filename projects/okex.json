@@ -1,17 +1,22 @@
 {
   "name": "OKEx",
   "slug": "okex",
-  "summary": "A fully customizable cryptocurrency exchange for traders at every level.",
   "longSummary": "",
-  "imageURL": "/img/okex.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://www.okex.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A fully customizable cryptocurrency exchange for traders at every level.",
+  "logo": "/img/okex.svg",
+  "website": "https://www.okex.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

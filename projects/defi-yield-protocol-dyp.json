@@ -1,17 +1,22 @@
 {
   "name": "DeFi Yield Protocol (DYP)",
   "slug": "defi-yield-protocol-dyp",
-  "summary": "A yield farming platform.",
   "longSummary": "",
-  "imageURL": "/img/defi-yield-protocol-dyp.jpeg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://dyp.finance/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A yield farming platform.",
+  "logo": "/img/defi-yield-protocol-dyp.jpeg",
+  "website": "https://dyp.finance/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "BENQI",
   "slug": "benqi",
-  "summary": "A non-custodial algorithmic liquidity market protocol.",
   "longSummary": "",
-  "imageURL": "/img/benqi.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://benqi.fi/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A non-custodial algorithmic liquidity market protocol.",
+  "logo": "/img/benqi.svg",
+  "website": "https://benqi.fi/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

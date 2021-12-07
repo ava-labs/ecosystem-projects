@@ -1,17 +1,22 @@
 {
   "name": "Binance",
   "slug": "binance",
-  "summary": "The worlds biggest crypto exchange in the world by volume.",
   "longSummary": "",
-  "imageURL": "/img/binance.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://www.binance.com/en",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "The worlds biggest crypto exchange in the world by volume.",
+  "logo": "/img/binance.svg",
+  "website": "https://www.binance.com/en",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

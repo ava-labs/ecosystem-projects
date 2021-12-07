@@ -1,17 +1,22 @@
 {
   "name": "Blocknet",
   "slug": "blocknet",
-  "summary": "Infrastructure and cross-chain dApps to interact with Avalanche subnets and smart contracts.",
   "longSummary": "",
-  "imageURL": "/img/blocknet.svg",
   "tags": [
     "infrastructure"
   ],
-  "websiteURL": "https://blocknet.co/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Infrastructure and cross-chain dApps to interact with Avalanche subnets and smart contracts.",
+  "logo": "/img/blocknet.svg",
+  "website": "https://blocknet.co/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

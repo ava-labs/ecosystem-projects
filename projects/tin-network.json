@@ -1,17 +1,22 @@
 {
   "name": "Tin Network",
   "slug": "tin-network",
-  "summary": "A simple dashboard for DeFi.",
   "longSummary": "",
-  "imageURL": "/img/tin-network.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://tin.network/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A simple dashboard for DeFi.",
+  "logo": "/img/tin-network.png",
+  "website": "https://tin.network/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

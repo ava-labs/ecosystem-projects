@@ -1,17 +1,22 @@
 {
   "name": "Prosper",
   "slug": "prosper",
-  "summary": "A non-custodial crosschain prediction market and hedging platform.",
   "longSummary": "",
-  "imageURL": "/img/prosper.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://prosper.so/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A non-custodial crosschain prediction market and hedging platform.",
+  "logo": "/img/prosper.svg",
+  "website": "https://prosper.so/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

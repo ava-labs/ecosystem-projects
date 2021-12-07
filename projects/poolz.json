@@ -1,17 +1,22 @@
 {
   "name": "Poolz",
   "slug": "poolz",
-  "summary": "A decentralized cross-chain IDO platform.",
   "longSummary": "",
-  "imageURL": "/img/poolz.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://www.poolz.finance/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized cross-chain IDO platform.",
+  "logo": "/img/poolz.png",
+  "website": "https://www.poolz.finance/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

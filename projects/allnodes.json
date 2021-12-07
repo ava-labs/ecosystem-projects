@@ -1,17 +1,22 @@
 {
   "name": "Allnodes",
   "slug": "allnodes",
-  "summary": "A non-custodial platform for hosting masternodes and full nodes, as well as full staking services.",
   "longSummary": "",
-  "imageURL": "/img/allnodes.svg",
   "tags": [
     "nodes"
   ],
-  "websiteURL": "https://www.allnodes.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A non-custodial platform for hosting masternodes and full nodes, as well as full staking services.",
+  "logo": "/img/allnodes.svg",
+  "website": "https://www.allnodes.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

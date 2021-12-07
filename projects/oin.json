@@ -1,18 +1,23 @@
 {
   "name": "OIN",
   "slug": "oin",
-  "summary": "A stablecoin and staking derivatives issuance platform.",
   "longSummary": "",
-  "imageURL": "/img/oin.svg",
   "tags": [
     "stablecoin",
     "defi"
   ],
-  "websiteURL": "https://oin.finance/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A stablecoin and staking derivatives issuance platform.",
+  "logo": "/img/oin.svg",
+  "website": "https://oin.finance/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

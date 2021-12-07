@@ -1,18 +1,23 @@
 {
   "name": "Hummingbot",
   "slug": "hummingbot",
-  "summary": "A liquidity mining program for Avalanche.",
   "longSummary": "",
-  "imageURL": "/img/hummingbot.svg",
   "tags": [
     "defi",
     "trading-bot"
   ],
-  "websiteURL": "https://hummingbot.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A liquidity mining program for Avalanche.",
+  "logo": "/img/hummingbot.svg",
+  "website": "https://hummingbot.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

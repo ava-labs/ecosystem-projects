@@ -1,17 +1,22 @@
 {
   "name": "Quantstamp",
   "slug": "quantstamp",
-  "summary": "A blockchain security firm that conducts audits in order to enhance the security of your dApp.",
   "longSummary": "",
-  "imageURL": "/img/quantstamp.svg",
   "tags": [
     "security"
   ],
-  "websiteURL": "https://quantstamp.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A blockchain security firm that conducts audits in order to enhance the security of your dApp.",
+  "logo": "/img/quantstamp.svg",
+  "website": "https://quantstamp.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

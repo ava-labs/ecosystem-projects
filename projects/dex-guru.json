@@ -1,17 +1,22 @@
 {
   "name": "DEX Guru",
   "slug": "dex-guru",
-  "summary": "Unparalleled coverage of on-chain markets integrated into one place and delivered in real-time.",
   "longSummary": "",
-  "imageURL": "/img/dex-guru.jpeg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://dex.guru",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Unparalleled coverage of on-chain markets integrated into one place and delivered in real-time.",
+  "logo": "/img/dex-guru.jpeg",
+  "website": "https://dex.guru",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

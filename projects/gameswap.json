@@ -1,17 +1,22 @@
 {
   "name": "Gameswap",
   "slug": "gameswap",
-  "summary": "A decentralized P2P exchange and NFT marketplace with a core focus on in-game assets.",
   "longSummary": "",
-  "imageURL": "/img/gameswap.svg",
   "tags": [
     "nft"
   ],
-  "websiteURL": "https://www.gameswap.org/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized P2P exchange and NFT marketplace with a core focus on in-game assets.",
+  "logo": "/img/gameswap.svg",
+  "website": "https://www.gameswap.org/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

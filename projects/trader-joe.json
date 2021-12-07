@@ -1,18 +1,23 @@
 {
   "name": "Trader Joe",
   "slug": "trader-joe",
-  "summary": "A one-stop decentralized trading platform on Avalanche.",
   "longSummary": "",
-  "imageURL": "/img/trader-joe.png",
   "tags": [
     "defi",
     "exchange"
   ],
-  "websiteURL": "https://www.traderjoexyz.com/#/home",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A one-stop decentralized trading platform on Avalanche.",
+  "logo": "/img/trader-joe.png",
+  "website": "https://www.traderjoexyz.com/#/home",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

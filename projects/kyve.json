@@ -1,17 +1,22 @@
 {
   "name": "KYVE",
   "slug": "kyve",
-  "summary": "A decentralized archiving and caching solution.",
   "longSummary": "",
-  "imageURL": "/img/kyve.jpeg",
   "tags": [
     "infrastructure"
   ],
-  "websiteURL": "https://kyve.network/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized archiving and caching solution.",
+  "logo": "/img/kyve.jpeg",
+  "website": "https://kyve.network/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

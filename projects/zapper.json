@@ -1,17 +1,22 @@
 {
   "name": "Zapper",
   "slug": "zapper",
-  "summary": "Track all your DeFi portfolio from one place. Invest into the latest opportunities in open finance.",
   "longSummary": "",
-  "imageURL": "/img/zapper.jpeg",
   "tags": [
     "wealth-management"
   ],
-  "websiteURL": "https://zapper.fi/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Track all your DeFi portfolio from one place. Invest into the latest opportunities in open finance.",
+  "logo": "/img/zapper.jpeg",
+  "website": "https://zapper.fi/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

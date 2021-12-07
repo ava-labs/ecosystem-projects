@@ -1,17 +1,22 @@
 {
   "name": "Ablock",
   "slug": "ablock",
-  "summary": "A professional community-centric validator service.",
   "longSummary": "",
-  "imageURL": "/img/ablock.svg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://ablock.io/avalanche",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A professional community-centric validator service.",
+  "logo": "/img/ablock.svg",
+  "website": "https://ablock.io/avalanche",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

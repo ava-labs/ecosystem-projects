@@ -1,17 +1,22 @@
 {
   "name": "Boring DAO",
   "slug": "boring-dao",
-  "summary": "A decentralized bridge that connects all blockchain assets.",
   "longSummary": "",
-  "imageURL": "/img/boring-dao.svg",
   "tags": [
     "infrastructure"
   ],
-  "websiteURL": "https://www.boringdao.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized bridge that connects all blockchain assets.",
+  "logo": "/img/boring-dao.svg",
+  "website": "https://www.boringdao.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

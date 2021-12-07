@@ -1,17 +1,22 @@
 {
   "name": "BtcTurk",
   "slug": "btcturk",
-  "summary": "Turkey's first and the world’s fourth cryptocurrency exchange platform.",
   "longSummary": "",
-  "imageURL": "/img/btcturk.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://www.btcturk.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Turkey's first and the world’s fourth cryptocurrency exchange platform.",
+  "logo": "/img/btcturk.svg",
+  "website": "https://www.btcturk.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

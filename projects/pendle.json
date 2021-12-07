@@ -1,17 +1,22 @@
 {
   "name": "Pendle",
   "slug": "pendle",
-  "summary": "The protocol to trade DeFi yield.",
   "longSummary": "",
-  "imageURL": "/img/pendle.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://app.pendle.finance/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "The protocol to trade DeFi yield.",
+  "logo": "/img/pendle.png",
+  "website": "https://app.pendle.finance/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

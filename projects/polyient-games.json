@@ -1,17 +1,22 @@
 {
   "name": "Polyient Games",
   "slug": "polyient-games",
-  "summary": "A NFT-focused decentralized exchange.",
   "longSummary": "",
-  "imageURL": "/img/polyient-games.svg",
   "tags": [
     "nft"
   ],
-  "websiteURL": "https://www.polyient.games/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A NFT-focused decentralized exchange.",
+  "logo": "/img/polyient-games.svg",
+  "website": "https://www.polyient.games/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

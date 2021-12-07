@@ -1,17 +1,22 @@
 {
   "name": "Covalent",
   "slug": "covalent",
-  "summary": "A leading provider of indexing solutions for blockchains.",
   "longSummary": "",
-  "imageURL": "/img/covalent.svg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://www.covalenthq.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A leading provider of indexing solutions for blockchains.",
+  "logo": "/img/covalent.svg",
+  "website": "https://www.covalenthq.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

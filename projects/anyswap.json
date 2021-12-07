@@ -1,17 +1,22 @@
 {
   "name": "Anyswap",
   "slug": "anyswap",
-  "summary": "A unified ecosystem for full circulation of digital assets, bringing more liquidity to the market.",
   "longSummary": "",
-  "imageURL": "/img/anyswap.svg",
   "tags": [
     "infrastructure"
   ],
-  "websiteURL": "https://anyswap.exchange/dashboard",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A unified ecosystem for full circulation of digital assets, bringing more liquidity to the market.",
+  "logo": "/img/anyswap.svg",
+  "website": "https://anyswap.exchange/dashboard",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

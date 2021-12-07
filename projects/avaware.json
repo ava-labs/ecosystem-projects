@@ -1,18 +1,23 @@
 {
   "name": "Avaware",
   "slug": "avaware",
-  "summary": "Farming, Launchpad, and NFT Staking.",
   "longSummary": "",
-  "imageURL": "/img/avaware.png",
   "tags": [
     "defi",
     "nft"
   ],
-  "websiteURL": "https://avaware.network",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Farming, Launchpad, and NFT Staking.",
+  "logo": "/img/avaware.png",
+  "website": "https://avaware.network",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

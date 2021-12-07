@@ -1,18 +1,23 @@
 {
   "name": "YetiSwap",
   "slug": "yetiswap",
-  "summary": "DEX and NFT marketplace with royalties.",
   "longSummary": "",
-  "imageURL": "/img/yetiswap.png",
   "tags": [
     "nft",
     "defi"
   ],
-  "websiteURL": "https://www.yetiswap.app/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "DEX and NFT marketplace with royalties.",
+  "logo": "/img/yetiswap.png",
+  "website": "https://www.yetiswap.app/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

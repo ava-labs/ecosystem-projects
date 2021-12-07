@@ -1,18 +1,23 @@
 {
   "name": "TrueUSD",
   "slug": "trueusd",
-  "summary": "A stablecoin that is 1:1 to the US dollar with live attestations and on-chain Proof of Reserves.",
   "longSummary": "",
-  "imageURL": "/img/trueusd.svg",
   "tags": [
     "stablecoin",
     "defi"
   ],
-  "websiteURL": "https://www.trusttoken.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A stablecoin that is 1:1 to the US dollar with live attestations and on-chain Proof of Reserves.",
+  "logo": "/img/trueusd.svg",
+  "website": "https://www.trusttoken.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

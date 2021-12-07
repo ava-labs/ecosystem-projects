@@ -1,18 +1,23 @@
 {
   "name": "Cartesi",
   "slug": "cartesi",
-  "summary": "Layer-2 infrastructure to enable a Linux environment on Avalanche.",
   "longSummary": "",
-  "imageURL": "/img/cartesi.svg",
   "tags": [
     "tooling",
     "oracle"
   ],
-  "websiteURL": "https://cartesi.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Layer-2 infrastructure to enable a Linux environment on Avalanche.",
+  "logo": "/img/cartesi.svg",
+  "website": "https://cartesi.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

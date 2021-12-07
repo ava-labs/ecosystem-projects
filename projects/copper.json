@@ -1,18 +1,23 @@
 {
   "name": "Copper",
   "slug": "copper",
-  "summary": "The institutional gateway to digital asset investing.",
   "longSummary": "",
-  "imageURL": "/img/copper.svg",
   "tags": [
     "security",
     "infrastructure"
   ],
-  "websiteURL": "https://copper.co/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "The institutional gateway to digital asset investing.",
+  "logo": "/img/copper.svg",
+  "website": "https://copper.co/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

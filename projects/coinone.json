@@ -1,17 +1,22 @@
 {
   "name": "Coinone",
   "slug": "coinone",
-  "summary": "A financial service company for asset management.",
   "longSummary": "",
-  "imageURL": "/img/coinone.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://coinone.co.kr/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A financial service company for asset management.",
+  "logo": "/img/coinone.svg",
+  "website": "https://coinone.co.kr/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

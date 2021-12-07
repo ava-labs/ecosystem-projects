@@ -1,17 +1,22 @@
 {
   "name": "CryptoRefills",
   "slug": "cryptorefills",
-  "summary": "Enable people all over the world to spend cryptocurrency for their everyday needs.",
   "longSummary": "",
-  "imageURL": "/img/cryptorefills.svg",
   "tags": [
     "payments"
   ],
-  "websiteURL": "https://www.cryptorefills.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Enable people all over the world to spend cryptocurrency for their everyday needs.",
+  "logo": "/img/cryptorefills.svg",
+  "website": "https://www.cryptorefills.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

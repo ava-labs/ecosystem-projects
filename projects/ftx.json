@@ -1,17 +1,22 @@
 {
   "name": "FTX",
   "slug": "ftx",
-  "summary": "A leading cryptocurrency derivatives exchange built by traders, for traders.",
   "longSummary": "",
-  "imageURL": "/img/ftx.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://ftx.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A leading cryptocurrency derivatives exchange built by traders, for traders.",
+  "logo": "/img/ftx.svg",
+  "website": "https://ftx.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,18 +1,23 @@
 {
   "name": "Vscout",
   "slug": "vscout",
-  "summary": "A tool to explore Avalanche Network and to monitor individual node metrics.",
   "longSummary": "",
-  "imageURL": "/img/vscout.svg",
   "tags": [
     "explorer",
     "tooling"
   ],
-  "websiteURL": "https://vscout.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A tool to explore Avalanche Network and to monitor individual node metrics.",
+  "logo": "/img/vscout.svg",
+  "website": "https://vscout.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,18 +1,23 @@
 {
   "name": "Kurtosis",
   "slug": "kurtosis",
-  "summary": "A complete testing platform to accelerate development on Avalanche.",
   "longSummary": "",
-  "imageURL": "/img/kurtosis.svg",
   "tags": [
     "security",
     "tooling"
   ],
-  "websiteURL": "https://www.kurtosistech.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A complete testing platform to accelerate development on Avalanche.",
+  "logo": "/img/kurtosis.svg",
+  "website": "https://www.kurtosistech.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "Avaxtars",
   "slug": "avaxtars",
-  "summary": "A P2E blockchain game using NFTs as gaming assets and has its own Tokenomics.",
   "longSummary": "",
-  "imageURL": "/img/avaxtars.png",
   "tags": [
     "nft"
   ],
-  "websiteURL": "https://avaxtars.com",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A P2E blockchain game using NFTs as gaming assets and has its own Tokenomics.",
+  "logo": "/img/avaxtars.png",
+  "website": "https://avaxtars.com",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "Coin98 Wallet",
   "slug": "coin98-wallet",
-  "summary": "A simple and secure non-custodial crypto wallet.",
   "longSummary": "",
-  "imageURL": "/img/coin98-wallet.svg",
   "tags": [
     "wallet"
   ],
-  "websiteURL": "https://coin98.app/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A simple and secure non-custodial crypto wallet.",
+  "logo": "/img/coin98-wallet.svg",
+  "website": "https://coin98.app/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

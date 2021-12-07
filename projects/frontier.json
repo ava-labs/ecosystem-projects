@@ -1,18 +1,23 @@
 {
   "name": "Frontier",
   "slug": "frontier",
-  "summary": "A chain-agnostic DeFi aggregator that allows users to manage their DeFi applications and assets.",
   "longSummary": "",
-  "imageURL": "/img/frontier.svg",
   "tags": [
     "defi",
     "wallet"
   ],
-  "websiteURL": "https://frontier.xyz/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A chain-agnostic DeFi aggregator that allows users to manage their DeFi applications and assets.",
+  "logo": "/img/frontier.svg",
+  "website": "https://frontier.xyz/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

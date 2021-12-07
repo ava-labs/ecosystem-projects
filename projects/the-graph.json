@@ -1,17 +1,22 @@
 {
   "name": "The Graph",
   "slug": "the-graph",
-  "summary": "The indexing and query layer of the decentralized web.",
   "longSummary": "",
-  "imageURL": "/img/the-graph.svg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://thegraph.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "The indexing and query layer of the decentralized web.",
+  "logo": "/img/the-graph.svg",
+  "website": "https://thegraph.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "Jelly Swap",
   "slug": "jelly-swap",
-  "summary": "A dApp for cross-chain swaps allowing value transfer between different networks.",
   "longSummary": "",
-  "imageURL": "/img/jelly-swap.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://jelly.market/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A dApp for cross-chain swaps allowing value transfer between different networks.",
+  "logo": "/img/jelly-swap.svg",
+  "website": "https://jelly.market/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

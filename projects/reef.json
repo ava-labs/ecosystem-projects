@@ -1,17 +1,22 @@
 {
   "name": "Reef",
   "slug": "reef",
-  "summary": "A cross-chain DeFi operating system with a smart liquidity aggregator which enables traders.",
   "longSummary": "",
-  "imageURL": "/img/reef.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://reef.finance/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A cross-chain DeFi operating system with a smart liquidity aggregator which enables traders.",
+  "logo": "/img/reef.svg",
+  "website": "https://reef.finance/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

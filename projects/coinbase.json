@@ -1,17 +1,22 @@
 {
   "name": "Coinbase",
   "slug": "coinbase",
-  "summary": "Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrency",
   "longSummary": "",
-  "imageURL": "/img/coinbase.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://www.coinbase.com/price/avalanche",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrency",
+  "logo": "/img/coinbase.svg",
+  "website": "https://www.coinbase.com/price/avalanche",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

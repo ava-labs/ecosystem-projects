@@ -1,17 +1,22 @@
 {
   "name": "Ledger",
   "slug": "ledger",
-  "summary": "A leader in security and infrastructure solutions.",
   "longSummary": "",
-  "imageURL": "/img/ledger.svg",
   "tags": [
     "wallet"
   ],
-  "websiteURL": "https://www.ledger.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A leader in security and infrastructure solutions.",
+  "logo": "/img/ledger.svg",
+  "website": "https://www.ledger.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

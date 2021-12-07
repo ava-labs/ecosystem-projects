@@ -1,17 +1,22 @@
 {
   "name": "Unifty.io",
   "slug": "unifty-io",
-  "summary": "A decentralized multi-chain infrastructure platform focused on NFT’s.",
   "longSummary": "",
-  "imageURL": "/img/unifty-io.svg",
   "tags": [
     "nft"
   ],
-  "websiteURL": "https://unifty.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized multi-chain infrastructure platform focused on NFT’s.",
+  "logo": "/img/unifty-io.svg",
+  "website": "https://unifty.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

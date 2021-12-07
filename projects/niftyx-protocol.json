@@ -1,17 +1,22 @@
 {
   "name": "Niftyx Protocol",
   "slug": "niftyx-protocol",
-  "summary": "A community-driven decentralised protocol for trading and minting NFT assets.",
   "longSummary": "",
-  "imageURL": "/img/niftyx-protocol.svg",
   "tags": [
     "nft"
   ],
-  "websiteURL": "https://niftyx.org/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A community-driven decentralised protocol for trading and minting NFT assets.",
+  "logo": "/img/niftyx-protocol.svg",
+  "website": "https://niftyx.org/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

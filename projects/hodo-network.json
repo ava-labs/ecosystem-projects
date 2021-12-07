@@ -1,17 +1,22 @@
 {
   "name": "Hodo Network",
   "slug": "hodo-network",
-  "summary": "A marketplace for Georeferenced Non-Fungible Tokens (gNFTs).",
   "longSummary": "",
-  "imageURL": "/img/hodo-network.png",
   "tags": [
     "nft"
   ],
-  "websiteURL": "https://hodo.network/#/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A marketplace for Georeferenced Non-Fungible Tokens (gNFTs).",
+  "logo": "/img/hodo-network.png",
+  "website": "https://hodo.network/#/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

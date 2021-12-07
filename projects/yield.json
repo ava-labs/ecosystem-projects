@@ -1,18 +1,23 @@
 {
   "name": "Yield",
   "slug": "yield",
-  "summary": "A licensed FinTech company that enables anyone to invest in decentralized finance.",
   "longSummary": "",
-  "imageURL": "/img/yield.svg",
   "tags": [
     "wealth-management",
     "defi"
   ],
-  "websiteURL": "https://www.yield.app/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A licensed FinTech company that enables anyone to invest in decentralized finance.",
+  "logo": "/img/yield.svg",
+  "website": "https://www.yield.app/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

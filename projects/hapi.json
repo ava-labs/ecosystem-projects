@@ -1,17 +1,22 @@
 {
   "name": "HAPI",
   "slug": "hapi",
-  "summary": "On-chain cybersecurity protocol.",
   "longSummary": "",
-  "imageURL": "/img/hapi.svg",
   "tags": [
     "security"
   ],
-  "websiteURL": "https://www.hapi.one/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "On-chain cybersecurity protocol.",
+  "logo": "/img/hapi.svg",
+  "website": "https://www.hapi.one/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

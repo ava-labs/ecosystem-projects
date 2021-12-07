@@ -1,17 +1,22 @@
 {
   "name": "JulWallet",
   "slug": "julwallet",
-  "summary": "A streamlined, browser-based wallet for decentralized finance.",
   "longSummary": "",
-  "imageURL": "/img/julwallet.svg",
   "tags": [
     "wallet"
   ],
-  "websiteURL": "https://julwallet.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A streamlined, browser-based wallet for decentralized finance.",
+  "logo": "/img/julwallet.svg",
+  "website": "https://julwallet.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

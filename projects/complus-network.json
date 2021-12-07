@@ -1,17 +1,22 @@
 {
   "name": "Complus Network",
   "slug": "complus-network",
-  "summary": "A multichain decentralized trading protocol.",
   "longSummary": "",
-  "imageURL": "/img/complus-network.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://complus.exchange/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A multichain decentralized trading protocol.",
+  "logo": "/img/complus-network.svg",
+  "website": "https://complus.exchange/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

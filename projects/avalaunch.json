@@ -1,19 +1,24 @@
 {
   "name": "Avalaunch",
   "slug": "avalaunch",
-  "summary": "A launchpad for new and innovative projects to prepare for launch with fair and broad distribution.",
   "longSummary": "",
-  "imageURL": "/img/avalaunch.svg",
   "tags": [
     "defi",
     "ecosystem",
     "tooling"
   ],
-  "websiteURL": "https://avalaunch.app/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A launchpad for new and innovative projects to prepare for launch with fair and broad distribution.",
+  "logo": "/img/avalaunch.svg",
+  "website": "https://avalaunch.app/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

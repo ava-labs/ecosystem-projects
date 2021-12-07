@@ -1,17 +1,22 @@
 {
   "name": "HurricaneSwap",
   "slug": "hurricaneswap",
-  "summary": "HurricaneSwap is a cross-chain liquidity DEX based on Avalanche.",
   "longSummary": "",
-  "imageURL": "/img/hurricaneswap.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "HurricaneSwap is a cross-chain liquidity DEX based on Avalanche.",
+  "logo": "/img/hurricaneswap.png",
+  "website": "",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,18 +1,23 @@
 {
   "name": "Curve",
   "slug": "curve-fi",
-  "summary": "An exchange liquidity pool designed for extremely efficient stablecoin trading.",
   "longSummary": "",
-  "imageURL": "/img/curve-fi.svg",
   "tags": [
     "defi",
     "exchange"
   ],
-  "websiteURL": "https://avax.curve.fi/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "An exchange liquidity pool designed for extremely efficient stablecoin trading.",
+  "logo": "/img/curve-fi.svg",
+  "website": "https://avax.curve.fi/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

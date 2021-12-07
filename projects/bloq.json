@@ -1,17 +1,22 @@
 {
   "name": "Bloq",
   "slug": "bloq",
-  "summary": "A suite of multi-blockchain infrastructure services built to grow as your business grows.",
   "longSummary": "",
-  "imageURL": "/img/bloq.svg",
   "tags": [
     "nodes"
   ],
-  "websiteURL": "https://www.bloq.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A suite of multi-blockchain infrastructure services built to grow as your business grows.",
+  "logo": "/img/bloq.svg",
+  "website": "https://www.bloq.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

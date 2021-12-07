@@ -1,17 +1,22 @@
 {
   "name": "LACChain",
   "slug": "lacchain",
-  "summary": "Accelerating the growth of the blockchain ecosystem in Latin America & the Caribbean.",
   "longSummary": "",
-  "imageURL": "/img/lacchain.jpeg",
   "tags": [
     "ecosystem"
   ],
-  "websiteURL": "https://www.lacchain.net/home",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Accelerating the growth of the blockchain ecosystem in Latin America & the Caribbean.",
+  "logo": "/img/lacchain.jpeg",
+  "website": "https://www.lacchain.net/home",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

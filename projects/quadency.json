@@ -1,17 +1,22 @@
 {
   "name": "Quadency",
   "slug": "quadency",
-  "summary": "A multi-exchange trading and automation platform.",
   "longSummary": "",
-  "imageURL": "/img/quadency.svg",
   "tags": [
     "wealth-management"
   ],
-  "websiteURL": "https://quadency.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A multi-exchange trading and automation platform.",
+  "logo": "/img/quadency.svg",
+  "website": "https://quadency.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

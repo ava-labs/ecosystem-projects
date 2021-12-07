@@ -1,17 +1,22 @@
 {
   "name": "Verso Finance",
   "slug": "verso-finance",
-  "summary": "Money flow between service providers, financial institutions and their customers.",
   "longSummary": "",
-  "imageURL": "/img/verso-finance.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://verso.finance/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Money flow between service providers, financial institutions and their customers.",
+  "logo": "/img/verso-finance.png",
+  "website": "https://verso.finance/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,18 +1,23 @@
 {
   "name": "Tether",
   "slug": "tether",
-  "summary": "A global, fast and secure stablecoin.",
   "longSummary": "",
-  "imageURL": "/img/tether.svg",
   "tags": [
     "stablecoin",
     "defi"
   ],
-  "websiteURL": "https://tether.to/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A global, fast and secure stablecoin.",
+  "logo": "/img/tether.svg",
+  "website": "https://tether.to/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

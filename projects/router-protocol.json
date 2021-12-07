@@ -1,17 +1,22 @@
 {
   "name": "Router Protocol",
   "slug": "router-protocol",
-  "summary": "Enables the bridging infrastructure for contract level data flow across various blockchains.",
   "longSummary": "",
-  "imageURL": "/img/router-protocol.svg",
   "tags": [
     ""
   ],
-  "websiteURL": "https://www.routerprotocol.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Enables the bridging infrastructure for contract level data flow across various blockchains.",
+  "logo": "/img/router-protocol.svg",
+  "website": "https://www.routerprotocol.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

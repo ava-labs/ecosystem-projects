@@ -1,17 +1,22 @@
 {
   "name": "Nash",
   "slug": "nash",
-  "summary": "A fast, user-friendly platform for decentralized financial services.",
   "longSummary": "",
-  "imageURL": "/img/nash.svg",
   "tags": [
     "wallet"
   ],
-  "websiteURL": "https://nash.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A fast, user-friendly platform for decentralized financial services.",
+  "logo": "/img/nash.svg",
+  "website": "https://nash.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "InsurAce",
   "slug": "insurace",
-  "summary": "A decentralized Multi-chain insurance platform to protect users' funds against various risks.",
   "longSummary": "",
-  "imageURL": "/img/insurace.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized Multi-chain insurance platform to protect users' funds against various risks.",
+  "logo": "/img/insurace.svg",
+  "website": "",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "SIMBA Chain",
   "slug": "simba-chain",
-  "summary": "A fault tolerant, secure environment focused on scalable production applications.",
   "longSummary": "",
-  "imageURL": "/img/simba-chain.svg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://simbachain.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A fault tolerant, secure environment focused on scalable production applications.",
+  "logo": "/img/simba-chain.svg",
+  "website": "https://simbachain.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

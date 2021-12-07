@@ -1,17 +1,22 @@
 {
   "name": "Paribu",
   "slug": "paribu",
-  "summary": "A centralized exchange based in Turkey.",
   "longSummary": "",
-  "imageURL": "/img/paribu.jpeg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://www.paribu.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A centralized exchange based in Turkey.",
+  "logo": "/img/paribu.jpeg",
+  "website": "https://www.paribu.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

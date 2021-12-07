@@ -1,17 +1,22 @@
 {
   "name": "BitMart",
   "slug": "bitmart",
-  "summary": "A crypto exchange with secure crypto products and services.",
   "longSummary": "",
-  "imageURL": "/img/bitmart.png",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://www.bitmart.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A crypto exchange with secure crypto products and services.",
+  "logo": "/img/bitmart.png",
+  "website": "https://www.bitmart.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

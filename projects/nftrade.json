@@ -1,17 +1,22 @@
 {
   "name": "NFTrade",
   "slug": "nftrade",
-  "summary": "A cross-chain and blockchain-agnostic NFT platform. An aggregator of all NFT marketplaces.",
   "longSummary": "",
-  "imageURL": "/img/nftrade.jpeg",
   "tags": [
     "nft"
   ],
-  "websiteURL": "https://nftrade.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A cross-chain and blockchain-agnostic NFT platform. An aggregator of all NFT marketplaces.",
+  "logo": "/img/nftrade.jpeg",
+  "website": "https://nftrade.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

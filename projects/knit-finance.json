@@ -1,17 +1,22 @@
 {
   "name": "Knit Finance",
   "slug": "knit-finance",
-  "summary": "A decentralized protocol for creating cross-chain wrappers for the top-200 assets.",
   "longSummary": "",
-  "imageURL": "/img/knit-finance.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://knit.finance/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized protocol for creating cross-chain wrappers for the top-200 assets.",
+  "logo": "/img/knit-finance.svg",
+  "website": "https://knit.finance/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

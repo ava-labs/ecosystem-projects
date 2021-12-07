@@ -1,17 +1,22 @@
 {
   "name": "Gravity Protocol",
   "slug": "gravity-protocol",
-  "summary": "A blockchain-agnostic oracle system that supports various communication of blockchains.",
   "longSummary": "",
-  "imageURL": "/img/gravity-protocol.svg",
   "tags": [
     "oracle"
   ],
-  "websiteURL": "https://gravity.tech/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A blockchain-agnostic oracle system that supports various communication of blockchains.",
+  "logo": "/img/gravity-protocol.svg",
+  "website": "https://gravity.tech/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

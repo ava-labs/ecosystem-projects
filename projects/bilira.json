@@ -1,17 +1,22 @@
 {
   "name": "BiLira",
   "slug": "bilira",
-  "summary": "A Turkish Lira stablecoin on Avalanche.",
   "longSummary": "",
-  "imageURL": "/img/bilira.svg",
   "tags": [
     "stablecoin"
   ],
-  "websiteURL": "https://www.bilira.co/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A Turkish Lira stablecoin on Avalanche.",
+  "logo": "/img/bilira.svg",
+  "website": "https://www.bilira.co/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,18 +1,23 @@
 {
   "name": "Curate",
   "slug": "curate",
-  "summary": "A DeFi shopping experience.",
   "longSummary": "",
-  "imageURL": "/img/curate.svg",
   "tags": [
     "defi",
     "nft"
   ],
-  "websiteURL": "https://curate.style/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A DeFi shopping experience.",
+  "logo": "/img/curate.svg",
+  "website": "https://curate.style/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

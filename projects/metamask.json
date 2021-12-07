@@ -1,17 +1,22 @@
 {
   "name": "Metamask",
   "slug": "metamask",
-  "summary": "A crypto wallet & gateway to blockchain apps.",
   "longSummary": "",
-  "imageURL": "/img/metamask.svg",
   "tags": [
     "wallet"
   ],
-  "websiteURL": "https://metamask.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A crypto wallet & gateway to blockchain apps.",
+  "logo": "/img/metamask.svg",
+  "website": "https://metamask.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

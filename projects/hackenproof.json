@@ -1,18 +1,23 @@
 {
   "name": "HackenProof",
   "slug": "hackenproof",
-  "summary": "A bug bounty and vulnerability coordination platform.",
   "longSummary": "",
-  "imageURL": "/img/hackenproof.svg",
   "tags": [
     "security",
     "tooling"
   ],
-  "websiteURL": "https://hackenproof.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A bug bounty and vulnerability coordination platform.",
+  "logo": "/img/hackenproof.svg",
+  "website": "https://hackenproof.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "Crabada",
   "slug": "crabada",
-  "summary": "A Fully Decentralized Play-and-Earn Idle Game on Avalanche",
   "longSummary": "",
-  "imageURL": "/img/crabada.png",
   "tags": [
     "gaming-2"
   ],
-  "websiteURL": "",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A Fully Decentralized Play-and-Earn Idle Game on Avalanche",
+  "logo": "/img/crabada.png",
+  "website": "",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

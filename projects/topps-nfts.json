@@ -1,17 +1,22 @@
 {
   "name": "Topps NFTs",
   "slug": "topps-nfts",
-  "summary": "A diversified NFT marketplace with a multi-platform product portfolio.",
   "longSummary": "",
-  "imageURL": "/img/topps-nfts.svg",
   "tags": [
     "nft"
   ],
-  "websiteURL": "https://toppsnfts.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A diversified NFT marketplace with a multi-platform product portfolio.",
+  "logo": "/img/topps-nfts.svg",
+  "website": "https://toppsnfts.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

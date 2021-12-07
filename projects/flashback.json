@@ -1,17 +1,22 @@
 {
   "name": "Flashback",
   "slug": "flashback",
-  "summary": "Bespoke ticketing experience that bridges art, event organizers, and people.",
   "longSummary": "",
-  "imageURL": "/img/flashback.jpeg",
   "tags": [
     "nft"
   ],
-  "websiteURL": "https://www.flashback.one/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Bespoke ticketing experience that bridges art, event organizers, and people.",
+  "logo": "/img/flashback.jpeg",
+  "website": "https://www.flashback.one/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

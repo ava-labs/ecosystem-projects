@@ -1,17 +1,22 @@
 {
   "name": "Nansen",
   "slug": "nansen",
-  "summary": "A crypto analytics platform that enriches on-chain data with millions of wallets labels.",
   "longSummary": "",
-  "imageURL": "/img/nansen.png",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://nansen.ai",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A crypto analytics platform that enriches on-chain data with millions of wallets labels.",
+  "logo": "/img/nansen.png",
+  "website": "https://nansen.ai",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

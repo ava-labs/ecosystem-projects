@@ -1,17 +1,22 @@
 {
   "name": "Okcoin",
   "slug": "okcoin",
-  "summary": "A cryptocurrency exchange for users to transfer between crypto and fiat currencies.",
   "longSummary": "",
-  "imageURL": "/img/okcoin.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://www.okcoin.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A cryptocurrency exchange for users to transfer between crypto and fiat currencies.",
+  "logo": "/img/okcoin.svg",
+  "website": "https://www.okcoin.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

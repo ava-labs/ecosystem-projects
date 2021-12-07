@@ -1,18 +1,23 @@
 {
   "name": "E-Money",
   "slug": "e-money",
-  "summary": "An issuer of transparent, interest-bearing, currency-backed stablecoins.",
   "longSummary": "",
-  "imageURL": "/img/e-money.svg",
   "tags": [
     "stablecoin",
     "defi"
   ],
-  "websiteURL": "https://www.e-money.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "An issuer of transparent, interest-bearing, currency-backed stablecoins.",
+  "logo": "/img/e-money.svg",
+  "website": "https://www.e-money.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

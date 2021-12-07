@@ -1,17 +1,22 @@
 {
   "name": "Avado",
   "slug": "avado",
-  "summary": "Plug-and-play hardware nodes for Avalanche.",
   "longSummary": "",
-  "imageURL": "/img/avado.svg",
   "tags": [
     "nodes"
   ],
-  "websiteURL": "https://ava.do/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Plug-and-play hardware nodes for Avalanche.",
+  "logo": "/img/avado.svg",
+  "website": "https://ava.do/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

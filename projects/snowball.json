@@ -1,17 +1,22 @@
 {
   "name": "Snowball",
   "slug": "snowball",
-  "summary": "Combines multiple DeFi protocols to build interconnectedness, swap stablecoins and deposit liquidity.",
   "longSummary": "",
-  "imageURL": "/img/snowball.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://snowball.network/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Combines multiple DeFi protocols to build interconnectedness, swap stablecoins and deposit liquidity.",
+  "logo": "/img/snowball.svg",
+  "website": "https://snowball.network/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

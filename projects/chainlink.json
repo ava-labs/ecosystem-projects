@@ -1,18 +1,23 @@
 {
   "name": "Chainlink",
   "slug": "chainlink",
-  "summary": "A decentralized oracle network that enables smart contracts to securely access various data sources.",
   "longSummary": "",
-  "imageURL": "/img/chainlink.svg",
   "tags": [
     "oracle",
     "defi"
   ],
-  "websiteURL": "https://chain.link/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized oracle network that enables smart contracts to securely access various data sources.",
+  "logo": "/img/chainlink.svg",
+  "website": "https://chain.link/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

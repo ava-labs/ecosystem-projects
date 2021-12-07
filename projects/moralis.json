@@ -1,17 +1,22 @@
 {
   "name": "Moralis",
   "slug": "moralis",
-  "summary": "A premier blockchain middleware service.",
   "longSummary": "",
-  "imageURL": "/img/moralis.svg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://moralis.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A premier blockchain middleware service.",
+  "logo": "/img/moralis.svg",
+  "website": "https://moralis.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

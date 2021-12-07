@@ -1,17 +1,22 @@
 {
   "name": "Math Wallet",
   "slug": "math-wallet",
-  "summary": "A multi-platform universal crypto wallet.",
   "longSummary": "",
-  "imageURL": "/img/math-wallet.png",
   "tags": [
     "wallet"
   ],
-  "websiteURL": "https://mathwallet.org/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A multi-platform universal crypto wallet.",
+  "logo": "/img/math-wallet.png",
+  "website": "https://mathwallet.org/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

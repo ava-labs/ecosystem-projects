@@ -1,17 +1,22 @@
 {
   "name": "OpenOcean",
   "slug": "openocean",
-  "summary": "A full aggregation protocol for crypto trading.",
   "longSummary": "",
-  "imageURL": "/img/openocean.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://openocean.finance/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A full aggregation protocol for crypto trading.",
+  "logo": "/img/openocean.png",
+  "website": "https://openocean.finance/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

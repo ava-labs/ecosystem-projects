@@ -1,17 +1,22 @@
 {
   "name": "Baguette",
   "slug": "baguette",
-  "summary": "A decentralized exchange on the Avalanche network.",
   "longSummary": "",
-  "imageURL": "/img/baguette.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://baguette.exchange/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized exchange on the Avalanche network.",
+  "logo": "/img/baguette.png",
+  "website": "https://baguette.exchange/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

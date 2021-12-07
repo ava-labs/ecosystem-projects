@@ -1,17 +1,22 @@
 {
   "name": "Venly",
   "slug": "venly",
-  "summary": "A provider of multi-blockchain wallet and NFT products.",
   "longSummary": "",
-  "imageURL": "/img/venly.png",
   "tags": [
     "infrastructure"
   ],
-  "websiteURL": "https://www.venly.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A provider of multi-blockchain wallet and NFT products.",
+  "logo": "/img/venly.png",
+  "website": "https://www.venly.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,18 +1,23 @@
 {
   "name": "Protocoh",
   "slug": "protocoh",
-  "summary": "A team passionate about bringing the world closer with technology and infrastructure.",
   "longSummary": "",
-  "imageURL": "/img/protocoh.svg",
   "tags": [
     "tooling",
     "infrastructure"
   ],
-  "websiteURL": "https://protocoh.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A team passionate about bringing the world closer with technology and infrastructure.",
+  "logo": "/img/protocoh.svg",
+  "website": "https://protocoh.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

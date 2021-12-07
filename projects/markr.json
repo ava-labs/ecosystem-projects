@@ -1,17 +1,22 @@
 {
   "name": "Markr",
   "slug": "markr",
-  "summary": "Portfolio management and tracker tool for #dApp users.",
   "longSummary": "",
-  "imageURL": "/img/markr.jpeg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://markr.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Portfolio management and tracker tool for #dApp users.",
+  "logo": "/img/markr.jpeg",
+  "website": "https://markr.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

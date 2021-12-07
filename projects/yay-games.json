@@ -1,18 +1,23 @@
 {
   "name": "Yay Games",
   "slug": "yay-games",
-  "summary": "Play to earn crypto marketplace for in-game mining, farming and trading.",
   "longSummary": "",
-  "imageURL": "/img/yay-games.png",
   "tags": [
     "defi",
     "play-to-earn"
   ],
-  "websiteURL": "https://play.yay.games/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Play to earn crypto marketplace for in-game mining, farming and trading.",
+  "logo": "/img/yay-games.png",
+  "website": "https://play.yay.games/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

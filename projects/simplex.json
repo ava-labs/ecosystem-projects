@@ -1,17 +1,22 @@
 {
   "name": "Simplex",
   "slug": "simplex",
-  "summary": "Enabling users to access cryptocurrencies and digital assets with fiat currencies.",
   "longSummary": "",
-  "imageURL": "/img/simplex.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://www.simplex.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Enabling users to access cryptocurrencies and digital assets with fiat currencies.",
+  "logo": "/img/simplex.svg",
+  "website": "https://www.simplex.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

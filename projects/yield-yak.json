@@ -1,17 +1,22 @@
 {
   "name": "Yield Yak",
   "slug": "yield-yak",
-  "summary": "An easy-to-use tool to earn more yield from DeFi farming on the Avalanche network.",
   "longSummary": "",
-  "imageURL": "/img/yield-yak.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://yieldyak.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "An easy-to-use tool to earn more yield from DeFi farming on the Avalanche network.",
+  "logo": "/img/yield-yak.png",
+  "website": "https://yieldyak.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

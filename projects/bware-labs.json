@@ -1,17 +1,22 @@
 {
   "name": "Bware Labs",
   "slug": "bware-labs",
-  "summary": "An interface for Blockchain APIs consumers and node providers.",
   "longSummary": "",
-  "imageURL": "/img/bware-labs.jpeg",
   "tags": [
     "infrastructure"
   ],
-  "websiteURL": "https://bwarelabs.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "An interface for Blockchain APIs consumers and node providers.",
+  "logo": "/img/bware-labs.jpeg",
+  "website": "https://bwarelabs.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

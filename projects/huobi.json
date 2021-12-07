@@ -1,17 +1,22 @@
 {
   "name": "Huobi",
   "slug": "huobi",
-  "summary": "A digital asset trading platform providing secure and convenient trading services.",
   "longSummary": "",
-  "imageURL": "/img/huobi.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://www.huobi.com/en-us/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A digital asset trading platform providing secure and convenient trading services.",
+  "logo": "/img/huobi.svg",
+  "website": "https://www.huobi.com/en-us/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

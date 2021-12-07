@@ -1,17 +1,22 @@
 {
   "name": "Orion Protocol",
   "slug": "orion-protocol",
-  "summary": "A non-custodial gateway to the entire digital asset market.",
   "longSummary": "",
-  "imageURL": "/img/orion-protocol.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://www.orionprotocol.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A non-custodial gateway to the entire digital asset market.",
+  "logo": "/img/orion-protocol.svg",
+  "website": "https://www.orionprotocol.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

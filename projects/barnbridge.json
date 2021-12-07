@@ -1,17 +1,22 @@
 {
   "name": "Barnbridge",
   "slug": "barnbridge",
-  "summary": "A risk tokenizing protocol that lets you leverage or hedge your DeFi positions.",
   "longSummary": "",
-  "imageURL": "/img/barnbridge.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "http://Barnbridge.com",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A risk tokenizing protocol that lets you leverage or hedge your DeFi positions.",
+  "logo": "/img/barnbridge.svg",
+  "website": "http://Barnbridge.com",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

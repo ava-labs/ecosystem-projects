@@ -1,17 +1,22 @@
 {
   "name": "Kalao",
   "slug": "kalao",
-  "summary": "The ultimate next generation NFTs marketplace.",
   "longSummary": "",
-  "imageURL": "/img/kalao.svg",
   "tags": [
     "nft"
   ],
-  "websiteURL": "https://www.kalao.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "The ultimate next generation NFTs marketplace.",
+  "logo": "/img/kalao.svg",
+  "website": "https://www.kalao.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

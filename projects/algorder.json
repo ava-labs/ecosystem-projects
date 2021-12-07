@@ -1,17 +1,22 @@
 {
   "name": "Algorder",
   "slug": "algorder",
-  "summary": "A Decentralized Order Management System build on Avalanche.",
   "longSummary": "",
-  "imageURL": "/img/algorder.png",
   "tags": [
     "infrastructure"
   ],
-  "websiteURL": "https://algorder.app/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A Decentralized Order Management System build on Avalanche.",
+  "logo": "/img/algorder.png",
+  "website": "https://algorder.app/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

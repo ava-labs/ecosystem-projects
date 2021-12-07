@@ -1,17 +1,22 @@
 {
   "name": "Ceramic",
   "slug": "ceramic",
-  "summary": "The decentralized network for data stream processing.",
   "longSummary": "",
-  "imageURL": "/img/ceramic.svg",
   "tags": [
     "identity"
   ],
-  "websiteURL": "https://ceramic.network/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "The decentralized network for data stream processing.",
+  "logo": "/img/ceramic.svg",
+  "website": "https://ceramic.network/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

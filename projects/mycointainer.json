@@ -1,17 +1,22 @@
 {
   "name": "MyCointainer",
   "slug": "mycointainer",
-  "summary": "An online automatic staking and masternode staking platform.",
   "longSummary": "",
-  "imageURL": "/img/mycointainer.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://www.mycointainer.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "An online automatic staking and masternode staking platform.",
+  "logo": "/img/mycointainer.svg",
+  "website": "https://www.mycointainer.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

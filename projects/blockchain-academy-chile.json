@@ -1,17 +1,22 @@
 {
   "name": "Blockchain Academy Chile",
   "slug": "blockchain-academy-chile",
-  "summary": "A blockchain training and education platform for LATAM.",
   "longSummary": "",
-  "imageURL": "/img/blockchain-academy-chile.svg",
   "tags": [
     "ecosystem"
   ],
-  "websiteURL": "https://www.blockchainacademy.cl/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A blockchain training and education platform for LATAM.",
+  "logo": "/img/blockchain-academy-chile.svg",
+  "website": "https://www.blockchainacademy.cl/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

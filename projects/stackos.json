@@ -1,17 +1,22 @@
 {
   "name": "StackOS",
   "slug": "stackos",
-  "summary": "A decentralized cloud for deploying full-stack applications, blockchain privatenets and mainnet nodes.",
   "longSummary": "",
-  "imageURL": "/img/stackos.png",
   "tags": [
     "infrastructure"
   ],
-  "websiteURL": "https://www.stackos.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A decentralized cloud for deploying full-stack applications, blockchain privatenets and mainnet nodes.",
+  "logo": "/img/stackos.png",
+  "website": "https://www.stackos.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

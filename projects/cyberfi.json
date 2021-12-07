@@ -1,17 +1,22 @@
 {
   "name": "CyberFi",
   "slug": "cyberfi",
-  "summary": "An automation-focused asset management platform.",
   "longSummary": "",
-  "imageURL": "/img/cyberfi.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://cyberfi.tech/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "An automation-focused asset management platform.",
+  "logo": "/img/cyberfi.svg",
+  "website": "https://cyberfi.tech/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

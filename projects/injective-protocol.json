@@ -1,17 +1,22 @@
 {
   "name": "Injective Protocol",
   "slug": "injective-protocol",
-  "summary": "Exchange protocol that improves decentralized derivatives and borderless DeFi.",
   "longSummary": "",
-  "imageURL": "/img/injective-protocol.svg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://injectiveprotocol.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Exchange protocol that improves decentralized derivatives and borderless DeFi.",
+  "logo": "/img/injective-protocol.svg",
+  "website": "https://injectiveprotocol.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "Money Dance",
   "slug": "money-dance",
-  "summary": "A Virtual Hackathon, Summit and Demo Day.",
   "longSummary": "",
-  "imageURL": "/img/money-dance.svg",
   "tags": [
     ""
   ],
-  "websiteURL": "https://www.moneydance.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A Virtual Hackathon, Summit and Demo Day.",
+  "logo": "/img/money-dance.svg",
+  "website": "https://www.moneydance.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

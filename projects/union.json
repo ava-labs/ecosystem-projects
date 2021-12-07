@@ -1,17 +1,22 @@
 {
   "name": "Union",
   "slug": "union",
-  "summary": "Merging bundled protection & a liquid secondary market with a multi-token model.",
   "longSummary": "",
-  "imageURL": "/img/union.jpg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "http://www.unn.finance",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Merging bundled protection & a liquid secondary market with a multi-token model.",
+  "logo": "/img/union.jpg",
+  "website": "http://www.unn.finance",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

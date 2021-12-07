@@ -1,17 +1,22 @@
 {
   "name": "NFT Stars",
   "slug": "nft-stars",
-  "summary": "A new multi-chain NFT marketplace.",
   "longSummary": "",
-  "imageURL": "/img/nft-stars.svg",
   "tags": [
     "nft"
   ],
-  "websiteURL": "https://nftstars.app/en/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A new multi-chain NFT marketplace.",
+  "logo": "/img/nft-stars.svg",
+  "website": "https://nftstars.app/en/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

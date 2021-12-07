@@ -1,17 +1,22 @@
 {
   "name": "Magic",
   "slug": "magic",
-  "summary": "A passwordless login and key management system.",
   "longSummary": "",
-  "imageURL": "/img/magic.svg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://magic.link/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A passwordless login and key management system.",
+  "logo": "/img/magic.svg",
+  "website": "https://magic.link/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

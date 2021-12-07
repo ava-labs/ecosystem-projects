@@ -1,18 +1,23 @@
 {
   "name": "Proof of Learning (PoL)",
   "slug": "proof-of-learning",
-  "summary": "An education curriculum on Japan’s most popular learning platform.",
   "longSummary": "",
-  "imageURL": "/img/proof-of-learning.svg",
   "tags": [
     "ecosystem",
     "tooling"
   ],
-  "websiteURL": "https://en.techtec.co.jp/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "An education curriculum on Japan’s most popular learning platform.",
+  "logo": "/img/proof-of-learning.svg",
+  "website": "https://en.techtec.co.jp/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

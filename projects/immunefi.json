@@ -1,18 +1,23 @@
 {
   "name": "ImmuneFi",
   "slug": "immunefi",
-  "summary": "The leading bug bounty and security services platform for DeFi.",
   "longSummary": "",
-  "imageURL": "/img/immunefi.svg",
   "tags": [
     "defi",
     "security"
   ],
-  "websiteURL": "https://immunefi.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "The leading bug bounty and security services platform for DeFi.",
+  "logo": "/img/immunefi.svg",
+  "website": "https://immunefi.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,18 +1,23 @@
 {
   "name": "Frax",
   "slug": "frax",
-  "summary": "The first fractional-algorithmic stablecoin protocol.",
   "longSummary": "",
-  "imageURL": "/img/frax.svg",
   "tags": [
     "stablecoin",
     "defi"
   ],
-  "websiteURL": "https://frax.finance/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "The first fractional-algorithmic stablecoin protocol.",
+  "logo": "/img/frax.svg",
+  "website": "https://frax.finance/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

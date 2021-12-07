@@ -1,17 +1,22 @@
 {
   "name": "Shopping.io",
   "slug": "shopping-io",
-  "summary": "A crypto e-commerce platform.",
   "longSummary": "",
-  "imageURL": "/img/shopping-io.jpeg",
   "tags": [
     "payments"
   ],
-  "websiteURL": "https://shopping.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A crypto e-commerce platform.",
+  "logo": "/img/shopping-io.jpeg",
+  "website": "https://shopping.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

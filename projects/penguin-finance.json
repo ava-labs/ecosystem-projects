@@ -1,17 +1,22 @@
 {
   "name": "Penguin Finance",
   "slug": "penguin-finance",
-  "summary": "A protocol bringing yield-farming, staking and more functionalities to the Avalanche platform.",
   "longSummary": "",
-  "imageURL": "/img/penguin-finance.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://www.penguinfinance.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A protocol bringing yield-farming, staking and more functionalities to the Avalanche platform.",
+  "logo": "/img/penguin-finance.png",
+  "website": "https://www.penguinfinance.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

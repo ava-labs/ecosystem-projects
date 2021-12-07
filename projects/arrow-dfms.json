@@ -1,17 +1,22 @@
 {
   "name": "Arrow DFMs",
   "slug": "arrow-dfms",
-  "summary": "A low-level protocol for creating and settling options on publicly available asset prices.",
   "longSummary": "",
-  "imageURL": "/img/arrow-dfms.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://www.arrowdfms.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A low-level protocol for creating and settling options on publicly available asset prices.",
+  "logo": "/img/arrow-dfms.svg",
+  "website": "https://www.arrowdfms.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "Halborn",
   "slug": "halborn",
-  "summary": "A cybersecurity team that offers audit, penetration testing, and security products to blockchains.",
   "longSummary": "",
-  "imageURL": "/img/halborn.svg",
   "tags": [
     "security"
   ],
-  "websiteURL": "https://halborn.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A cybersecurity team that offers audit, penetration testing, and security products to blockchains.",
+  "logo": "/img/halborn.svg",
+  "website": "https://halborn.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

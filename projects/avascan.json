@@ -1,18 +1,23 @@
 {
   "name": "Avascan",
   "slug": "avascan",
-  "summary": "An independent blockchain explorer for Avalanche.",
   "longSummary": "",
-  "imageURL": "/img/avascan.svg",
   "tags": [
     "explorer",
     "tooling"
   ],
-  "websiteURL": "https://avascan.info/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "An independent blockchain explorer for Avalanche.",
+  "logo": "/img/avascan.svg",
+  "website": "https://avascan.info/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

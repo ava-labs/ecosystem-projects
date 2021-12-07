@@ -1,17 +1,22 @@
 {
   "name": "Onomy",
   "slug": "onomy",
-  "summary": "A protocol that mints, trades, and lends stablecoin representations of national currencies.",
   "longSummary": "",
-  "imageURL": "/img/onomy.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://onomy.io/#home",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A protocol that mints, trades, and lends stablecoin representations of national currencies.",
+  "logo": "/img/onomy.svg",
+  "website": "https://onomy.io/#home",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "ParaSwap",
   "slug": "paraswap",
-  "summary": "Aggregating decentralized exchanges in one comprehensive interface.",
   "longSummary": "",
-  "imageURL": "/img/paraswap.png",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://paraswap.io/#/?network=avalanche",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Aggregating decentralized exchanges in one comprehensive interface.",
+  "logo": "/img/paraswap.png",
+  "website": "https://paraswap.io/#/?network=avalanche",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

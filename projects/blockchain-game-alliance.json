@@ -1,17 +1,22 @@
 {
   "name": "Blockchain Game Alliance",
   "slug": "blockchain-game-alliance",
-  "summary": "Committed to promoting blockchain within the game industry.",
   "longSummary": "",
-  "imageURL": "/img/blockchain-game-alliance.svg",
   "tags": [
     "ecosystem"
   ],
-  "websiteURL": "https://www.blockchaingamealliance.org/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Committed to promoting blockchain within the game industry.",
+  "logo": "/img/blockchain-game-alliance.svg",
+  "website": "https://www.blockchaingamealliance.org/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

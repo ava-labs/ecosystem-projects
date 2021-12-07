@@ -1,19 +1,24 @@
 {
   "name": "Velox",
   "slug": "velox",
-  "summary": "A fully scalable, automated trading assistant for ERC20 tokens.",
   "longSummary": "",
-  "imageURL": "/img/velox.svg",
   "tags": [
     "tooling",
     "defi",
     "trading-bot"
   ],
-  "websiteURL": "https://velox.global/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A fully scalable, automated trading assistant for ERC20 tokens.",
+  "logo": "/img/velox.svg",
+  "website": "https://velox.global/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

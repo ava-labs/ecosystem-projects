@@ -1,17 +1,22 @@
 {
   "name": "Tenderly",
   "slug": "tenderly",
-  "summary": "A developer platform for teams and companies building innovative blockchain products.",
   "longSummary": "",
-  "imageURL": "/img/tenderly.jpeg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://tenderly.co/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A developer platform for teams and companies building innovative blockchain products.",
+  "logo": "/img/tenderly.jpeg",
+  "website": "https://tenderly.co/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

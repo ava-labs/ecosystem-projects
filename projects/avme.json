@@ -1,18 +1,23 @@
 {
   "name": "AVME",
   "slug": "avme",
-  "summary": "Desktop Wallet for Avalanche, built in C++. Decentralized and Trustless security suite.",
   "longSummary": "",
-  "imageURL": "/img/avme.png",
   "tags": [
     "nft",
     "wallet"
   ],
-  "websiteURL": "https://avme.io",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Desktop Wallet for Avalanche, built in C++. Decentralized and Trustless security suite.",
+  "logo": "/img/avme.png",
+  "website": "https://avme.io",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

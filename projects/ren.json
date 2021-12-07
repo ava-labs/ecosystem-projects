@@ -1,17 +1,22 @@
 {
   "name": "Ren",
   "slug": "ren",
-  "summary": "An‌ ‌open‌ ‌protocol‌ ‌that‌ ‌enables‌ ‌the‌ ‌movement‌ ‌of‌ ‌value‌ ‌between‌ ‌blockchains.‌ ‌",
   "longSummary": "",
-  "imageURL": "/img/ren.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://renproject.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "An‌ ‌open‌ ‌protocol‌ ‌that‌ ‌enables‌ ‌the‌ ‌movement‌ ‌of‌ ‌value‌ ‌between‌ ‌blockchains.‌ ‌",
+  "logo": "/img/ren.svg",
+  "website": "https://renproject.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

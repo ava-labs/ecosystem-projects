@@ -1,17 +1,22 @@
 {
   "name": "Bitfinex",
   "slug": "bitfinex",
-  "summary": "A digital asset trading platform offering services for traders and global liquidity providers.",
   "longSummary": "",
-  "imageURL": "/img/bitfinex.svg",
   "tags": [
     "exchange"
   ],
-  "websiteURL": "https://www.bitfinex.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A digital asset trading platform offering services for traders and global liquidity providers.",
+  "logo": "/img/bitfinex.svg",
+  "website": "https://www.bitfinex.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

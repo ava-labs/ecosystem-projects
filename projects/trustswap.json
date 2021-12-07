@@ -1,17 +1,22 @@
 {
   "name": "TrustSwap",
   "slug": "trustswap",
-  "summary": "Professional support and guidance through the token launch process for top-tier projects.",
   "longSummary": "",
-  "imageURL": "/img/trustswap.svg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://trustswap.org/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Professional support and guidance through the token launch process for top-tier projects.",
+  "logo": "/img/trustswap.svg",
+  "website": "https://trustswap.org/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

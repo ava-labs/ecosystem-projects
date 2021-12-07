@@ -1,17 +1,22 @@
 {
   "name": "Encode Club",
   "slug": "encode-club",
-  "summary": "A community of university students, researchers and developers building in blockchain.",
   "longSummary": "",
-  "imageURL": "/img/encode-club.svg",
   "tags": [
     "ecosystem"
   ],
-  "websiteURL": "https://www.encode.club/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A community of university students, researchers and developers building in blockchain.",
+  "logo": "/img/encode-club.svg",
+  "website": "https://www.encode.club/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "BiFrost",
   "slug": "bifrost",
-  "summary": "The universal multichain middleware.",
   "longSummary": "",
-  "imageURL": "/img/bifrost.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://thebifrost.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "The universal multichain middleware.",
+  "logo": "/img/bifrost.svg",
+  "website": "https://thebifrost.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

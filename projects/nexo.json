@@ -1,17 +1,22 @@
 {
   "name": "Nexo",
   "slug": "nexo",
-  "summary": "The world's leading regulated digital assets institution",
   "longSummary": "",
-  "imageURL": "/img/nexo.svg",
   "tags": [
     "defi"
   ],
-  "websiteURL": "https://nexo.io/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "The world's leading regulated digital assets institution",
+  "logo": "/img/nexo.svg",
+  "website": "https://nexo.io/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

@@ -1,17 +1,22 @@
 {
   "name": "DSLA Protocol",
   "slug": "dsla-protocol",
-  "summary": "A developer risk management framework.",
   "longSummary": "",
-  "imageURL": "/img/dsla-protocol.svg",
   "tags": [
     "tooling"
   ],
-  "websiteURL": "https://stacktical.com/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "A developer risk management framework.",
+  "logo": "/img/dsla-protocol.svg",
+  "website": "https://stacktical.com/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }

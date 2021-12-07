@@ -1,17 +1,22 @@
 {
   "name": "Blockchain Research Institute",
   "slug": "blockchain-research-institute",
-  "summary": "Researching the impact of blockchain technology.",
   "longSummary": "",
-  "imageURL": "/img/blockchain-research-institute.svg",
   "tags": [
     "ecosystem"
   ],
-  "websiteURL": "https://www.blockchainresearchinstitute.org/",
-  "twitterURL": "",
-  "discordURL": "",
-  "githubURL": "",
-  "telegramURL": "",
   "status": "",
-  "contact": ""
+  "contact": "",
+  "highlight": "Researching the impact of blockchain technology.",
+  "logo": "/img/blockchain-research-institute.svg",
+  "website": "https://www.blockchainresearchinstitute.org/",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
 }
