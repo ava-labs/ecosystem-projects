@@ -26,3 +26,10 @@ jobs:
         with: 
           author_name: CI bot
           push: true
+      - uses: wow-actions/auto-comment@v1
+          with:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            pullRequestOpened: |
+              👋 @{{ author }}
+              Thank you for submitting your project.
+              Please make sure you fill out https://yleojkzxfvm.typeform.com/avaxproject so we have your contact information. 
