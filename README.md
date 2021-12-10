@@ -1,3 +1,6 @@
+![AvalancheLogoRed](https://user-images.githubusercontent.com/91836041/145524214-bf21f7ae-8ae4-4a89-86f0-7630e5220cba.png)
+
+
 
 # Avalanche Ecosystem
 
@@ -9,7 +12,7 @@ If you are interested in adding your project to the Avalanche Ecosystem page, pl
 
 # Submission Guidelines
 
-The are 3 steps to submit a project. Create a pull request composed of two files. And submit a typeform.
+The are 3 steps to submit a project. Create a pull request composed of two filesgs. And submit a typeform.
   1. In the `projects` directory include the project info listed below. Name the file {{slug}}.json
   2. In the `img` directory include an image to represent your project.
   3. Submit the project's information via the following link https://admin.typeform.com/form/zVdwa3z0/create?block=2e46ebb7-b240-4c58-b1fe-21abe4dab804. 
