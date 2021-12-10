@@ -3,23 +3,27 @@
     {
       "name": "Aave",
       "slug": "aave",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
       "status": "",
       "contact": "",
-      "highlight": "",
+      "highlight": "Open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
+      "logo": "/img/aave.svg",
+      "website": "https://aave.com/",
+      "twitter": "https://twitter.com/aaveaave",
+      "telegram": "https://t.me/Aavesome",
+      "github": "https://github.com/aave/aave-protocol",
+      "discord": "https://discord.com/invite/CvKUrqM",
+      "summary": "",
       "docs": "",
       "cmc": "",
       "date": "",
-      "token": "",
-      "summary": ""
+      "token": ""
     },
     {
       "name": "Ablock",
       "slug": "ablock",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -41,7 +45,6 @@
     {
       "name": "Aleph.Im",
       "slug": "aleph-im",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -63,7 +66,6 @@
     {
       "name": "Algorder",
       "slug": "algorder",
-      "longSummary": "",
       "tags": [
         "infrastructure"
       ],
@@ -85,7 +87,6 @@
     {
       "name": "Alliance Block",
       "slug": "alliance-block",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -107,7 +108,6 @@
     {
       "name": "Allnodes",
       "slug": "allnodes",
-      "longSummary": "",
       "tags": [
         "nodes"
       ],
@@ -129,7 +129,6 @@
     {
       "name": "Ankr",
       "slug": "ankr",
-      "longSummary": "",
       "tags": [
         "nodes"
       ],
@@ -151,7 +150,6 @@
     {
       "name": "Anyswap",
       "slug": "anyswap",
-      "longSummary": "",
       "tags": [
         "infrastructure"
       ],
@@ -173,7 +171,6 @@
     {
       "name": "Ape Board",
       "slug": "ape-board",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -195,7 +192,6 @@
     {
       "name": "Arrow DFMs",
       "slug": "arrow-dfms",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -217,7 +213,6 @@
     {
       "name": "Avado",
       "slug": "avado",
-      "longSummary": "",
       "tags": [
         "nodes"
       ],
@@ -239,7 +234,6 @@
     {
       "name": "Avalanche Explorer",
       "slug": "avalanche-explorer",
-      "longSummary": "",
       "tags": [
         "explorer"
       ],
@@ -261,7 +255,6 @@
     {
       "name": "Avalaunch",
       "slug": "avalaunch",
-      "longSummary": "",
       "tags": [
         "defi",
         "ecosystem",
@@ -285,7 +278,6 @@
     {
       "name": "Avascan",
       "slug": "avascan",
-      "longSummary": "",
       "tags": [
         "explorer",
         "tooling"
@@ -308,7 +300,6 @@
     {
       "name": "Avaware",
       "slug": "avaware",
-      "longSummary": "",
       "tags": [
         "defi",
         "nft"
@@ -331,7 +322,6 @@
     {
       "name": "AVAX Duels",
       "slug": "avax-duels",
-      "longSummary": "",
       "tags": [
         "play-to-earn"
       ],
@@ -353,7 +343,6 @@
     {
       "name": "Avaxtars",
       "slug": "avaxtars",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -375,7 +364,6 @@
     {
       "name": "AVME",
       "slug": "avme",
-      "longSummary": "",
       "tags": [
         "nft",
         "wallet"
@@ -398,7 +386,6 @@
     {
       "name": "Axelar",
       "slug": "axelar",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -420,7 +407,6 @@
     {
       "name": "Baguette",
       "slug": "baguette",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -442,7 +428,6 @@
     {
       "name": "Barnbridge",
       "slug": "barnbridge",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -464,7 +449,6 @@
     {
       "name": "BENQI",
       "slug": "benqi",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -486,7 +470,6 @@
     {
       "name": "BiFrost",
       "slug": "bifrost",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -508,7 +491,6 @@
     {
       "name": "BiLira",
       "slug": "bilira",
-      "longSummary": "",
       "tags": [
         "stablecoin"
       ],
@@ -530,7 +512,6 @@
     {
       "name": "Binance",
       "slug": "binance",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -552,7 +533,6 @@
     {
       "name": "Bitfinex",
       "slug": "bitfinex",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -574,7 +554,6 @@
     {
       "name": "BitMart",
       "slug": "bitmart",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -596,7 +575,6 @@
     {
       "name": "Bitpanda",
       "slug": "bitpanda",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -618,7 +596,6 @@
     {
       "name": "Blockchain Academy Chile",
       "slug": "blockchain-academy-chile",
-      "longSummary": "",
       "tags": [
         "ecosystem"
       ],
@@ -640,7 +617,6 @@
     {
       "name": "Blockchain Game Alliance",
       "slug": "blockchain-game-alliance",
-      "longSummary": "",
       "tags": [
         "ecosystem"
       ],
@@ -662,7 +638,6 @@
     {
       "name": "Blockchain Research Institute",
       "slug": "blockchain-research-institute",
-      "longSummary": "",
       "tags": [
         "ecosystem"
       ],
@@ -684,7 +659,6 @@
     {
       "name": "Blocknet",
       "slug": "blocknet",
-      "longSummary": "",
       "tags": [
         "infrastructure"
       ],
@@ -706,7 +680,6 @@
     {
       "name": "Bloq",
       "slug": "bloq",
-      "longSummary": "",
       "tags": [
         "nodes"
       ],
@@ -728,7 +701,6 @@
     {
       "name": "Boring DAO",
       "slug": "boring-dao",
-      "longSummary": "",
       "tags": [
         "infrastructure"
       ],
@@ -750,7 +722,6 @@
     {
       "name": "BtcTurk",
       "slug": "btcturk",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -772,7 +743,6 @@
     {
       "name": "Bware Labs",
       "slug": "bware-labs",
-      "longSummary": "",
       "tags": [
         "infrastructure"
       ],
@@ -794,7 +764,6 @@
     {
       "name": "bZx",
       "slug": "bzx",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -816,7 +785,6 @@
     {
       "name": "Canary Exchange",
       "slug": "canary-exchange",
-      "longSummary": "",
       "tags": [
         "defi",
         "exchange",
@@ -840,7 +808,6 @@
     {
       "name": "Cartesi",
       "slug": "cartesi",
-      "longSummary": "",
       "tags": [
         "tooling",
         "oracle"
@@ -863,7 +830,6 @@
     {
       "name": "Celer Network",
       "slug": "cbridge",
-      "longSummary": "",
       "tags": [
         "infrastructure"
       ],
@@ -885,7 +851,6 @@
     {
       "name": "Ceramic",
       "slug": "ceramic",
-      "longSummary": "",
       "tags": [
         "identity"
       ],
@@ -907,7 +872,6 @@
     {
       "name": "Chainlink",
       "slug": "chainlink",
-      "longSummary": "",
       "tags": [
         "oracle",
         "defi"
@@ -930,7 +894,6 @@
     {
       "name": "ChartEx",
       "slug": "chartex",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -952,7 +915,6 @@
     {
       "name": "Coin98 Wallet",
       "slug": "coin98-wallet",
-      "longSummary": "",
       "tags": [
         "wallet"
       ],
@@ -974,7 +936,6 @@
     {
       "name": "Coinbase",
       "slug": "coinbase",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -996,7 +957,6 @@
     {
       "name": "Coinone",
       "slug": "coinone",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -1018,7 +978,6 @@
     {
       "name": "Complus Network",
       "slug": "complus-network",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -1040,7 +999,6 @@
     {
       "name": "Copper",
       "slug": "copper",
-      "longSummary": "",
       "tags": [
         "security",
         "infrastructure"
@@ -1063,7 +1021,6 @@
     {
       "name": "Covalent",
       "slug": "covalent",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -1085,7 +1042,6 @@
     {
       "name": "Crabada",
       "slug": "crabada",
-      "longSummary": "",
       "tags": [
         "gaming-2"
       ],
@@ -1107,7 +1063,6 @@
     {
       "name": "CryptoRefills",
       "slug": "cryptorefills",
-      "longSummary": "",
       "tags": [
         "payments"
       ],
@@ -1129,7 +1084,6 @@
     {
       "name": "Curate",
       "slug": "curate",
-      "longSummary": "",
       "tags": [
         "defi",
         "nft"
@@ -1152,7 +1106,6 @@
     {
       "name": "Curve",
       "slug": "curve-fi",
-      "longSummary": "",
       "tags": [
         "defi",
         "exchange"
@@ -1175,7 +1128,6 @@
     {
       "name": "CyberFi",
       "slug": "cyberfi",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -1197,7 +1149,6 @@
     {
       "name": "DappRadar",
       "slug": "dappradar",
-      "longSummary": "",
       "tags": [
         "ecosystem",
         "tooling"
@@ -1220,7 +1171,6 @@
     {
       "name": "DCTDao",
       "slug": "dctdao",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -1242,7 +1192,6 @@
     {
       "name": "DeBank",
       "slug": "debank",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -1264,7 +1213,6 @@
     {
       "name": "Decentology",
       "slug": "decentology",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -1286,7 +1234,6 @@
     {
       "name": "DeFi Yield Protocol (DYP)",
       "slug": "defi-yield-protocol-dyp",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -1308,7 +1255,6 @@
     {
       "name": "DEX Guru",
       "slug": "dex-guru",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -1330,7 +1276,6 @@
     {
       "name": "DSLA Protocol",
       "slug": "dsla-protocol",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -1352,7 +1297,6 @@
     {
       "name": "DxSale",
       "slug": "dxsale",
-      "longSummary": "",
       "tags": [
         ""
       ],
@@ -1374,7 +1318,6 @@
     {
       "name": "E-Money",
       "slug": "e-money",
-      "longSummary": "",
       "tags": [
         "stablecoin",
         "defi"
@@ -1397,7 +1340,6 @@
     {
       "name": "Elk Finance",
       "slug": "elk-finance",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -1419,7 +1361,6 @@
     {
       "name": "Encode Club",
       "slug": "encode-club",
-      "longSummary": "",
       "tags": [
         "ecosystem"
       ],
@@ -1441,7 +1382,6 @@
     {
       "name": "Figment Network",
       "slug": "figment-network",
-      "longSummary": "",
       "tags": [
         "infrastructure"
       ],
@@ -1463,7 +1403,6 @@
     {
       "name": "Flashback",
       "slug": "flashback",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -1485,7 +1424,6 @@
     {
       "name": "Frax",
       "slug": "frax",
-      "longSummary": "",
       "tags": [
         "stablecoin",
         "defi"
@@ -1508,7 +1446,6 @@
     {
       "name": "Frontier",
       "slug": "frontier",
-      "longSummary": "",
       "tags": [
         "defi",
         "wallet"
@@ -1531,7 +1468,6 @@
     {
       "name": "FTX",
       "slug": "ftx",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -1553,7 +1489,6 @@
     {
       "name": "Gameswap",
       "slug": "gameswap",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -1575,7 +1510,6 @@
     {
       "name": "Gravity Protocol",
       "slug": "gravity-protocol",
-      "longSummary": "",
       "tags": [
         "oracle"
       ],
@@ -1597,7 +1531,6 @@
     {
       "name": "HackenProof",
       "slug": "hackenproof",
-      "longSummary": "",
       "tags": [
         "security",
         "tooling"
@@ -1620,7 +1553,6 @@
     {
       "name": "Halborn",
       "slug": "halborn",
-      "longSummary": "",
       "tags": [
         "security"
       ],
@@ -1642,7 +1574,6 @@
     {
       "name": "HAPI",
       "slug": "hapi",
-      "longSummary": "",
       "tags": [
         "security"
       ],
@@ -1664,7 +1595,6 @@
     {
       "name": "Hardhat",
       "slug": "hardhat",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -1686,7 +1616,6 @@
     {
       "name": "Hodo Network",
       "slug": "hodo-network",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -1708,7 +1637,6 @@
     {
       "name": "Hummingbot",
       "slug": "hummingbot",
-      "longSummary": "",
       "tags": [
         "defi",
         "trading-bot"
@@ -1731,7 +1659,6 @@
     {
       "name": "Huobi",
       "slug": "huobi",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -1753,7 +1680,6 @@
     {
       "name": "HurricaneSwap",
       "slug": "hurricaneswap",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -1775,7 +1701,6 @@
     {
       "name": "ImmuneFi",
       "slug": "immunefi",
-      "longSummary": "",
       "tags": [
         "defi",
         "security"
@@ -1798,7 +1723,6 @@
     {
       "name": "Injective Protocol",
       "slug": "injective-protocol",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -1820,7 +1744,6 @@
     {
       "name": "InsurAce",
       "slug": "insurace-2",
-      "longSummary": "",
       "tags": [
         "security",
         "defi"
@@ -1843,7 +1766,6 @@
     {
       "name": "InsurAce",
       "slug": "insurace",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -1865,7 +1787,6 @@
     {
       "name": "Jelly Swap",
       "slug": "jelly-swap",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -1887,7 +1808,6 @@
     {
       "name": "JulWallet",
       "slug": "julwallet",
-      "longSummary": "",
       "tags": [
         "wallet"
       ],
@@ -1909,7 +1829,6 @@
     {
       "name": "Kalao",
       "slug": "kalao",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -1931,7 +1850,6 @@
     {
       "name": "Knit Finance",
       "slug": "knit-finance",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -1953,7 +1871,6 @@
     {
       "name": "Kurtosis",
       "slug": "kurtosis",
-      "longSummary": "",
       "tags": [
         "security",
         "tooling"
@@ -1976,7 +1893,6 @@
     {
       "name": "KUU",
       "slug": "kuu",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -1998,7 +1914,6 @@
     {
       "name": "Kyber",
       "slug": "kyber",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2020,7 +1935,6 @@
     {
       "name": "KYVE",
       "slug": "kyve",
-      "longSummary": "",
       "tags": [
         "infrastructure"
       ],
@@ -2042,7 +1956,6 @@
     {
       "name": "LACChain",
       "slug": "lacchain",
-      "longSummary": "",
       "tags": [
         "ecosystem"
       ],
@@ -2064,7 +1977,6 @@
     {
       "name": "Ledger",
       "slug": "ledger",
-      "longSummary": "",
       "tags": [
         "wallet"
       ],
@@ -2086,7 +1998,6 @@
     {
       "name": "Lydia Finance",
       "slug": "lydia-finance",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2108,7 +2019,6 @@
     {
       "name": "Magic",
       "slug": "magic",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -2130,7 +2040,6 @@
     {
       "name": "Marginswap",
       "slug": "marginswap",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2152,7 +2061,6 @@
     {
       "name": "Markr",
       "slug": "markr",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2174,7 +2082,6 @@
     {
       "name": "Math Wallet",
       "slug": "math-wallet",
-      "longSummary": "",
       "tags": [
         "wallet"
       ],
@@ -2196,7 +2103,6 @@
     {
       "name": "Metamask",
       "slug": "metamask",
-      "longSummary": "",
       "tags": [
         "wallet"
       ],
@@ -2218,7 +2124,6 @@
     {
       "name": "Money Dance",
       "slug": "money-dance",
-      "longSummary": "",
       "tags": [
         ""
       ],
@@ -2240,7 +2145,6 @@
     {
       "name": "Moralis",
       "slug": "moralis",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -2262,7 +2166,6 @@
     {
       "name": "MyCointainer",
       "slug": "mycointainer",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2284,7 +2187,6 @@
     {
       "name": "Nansen",
       "slug": "nansen",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -2306,7 +2208,6 @@
     {
       "name": "Nash",
       "slug": "nash",
-      "longSummary": "",
       "tags": [
         "wallet"
       ],
@@ -2328,7 +2229,6 @@
     {
       "name": "Nexo",
       "slug": "nexo",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2350,7 +2250,6 @@
     {
       "name": "NFT Stars",
       "slug": "nft-stars",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -2372,7 +2271,6 @@
     {
       "name": "NFTrade",
       "slug": "nftrade",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -2394,7 +2292,6 @@
     {
       "name": "Niftyx Protocol",
       "slug": "niftyx-protocol",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -2416,7 +2313,6 @@
     {
       "name": "OIN",
       "slug": "oin",
-      "longSummary": "",
       "tags": [
         "stablecoin",
         "defi"
@@ -2439,7 +2335,6 @@
     {
       "name": "Okcoin",
       "slug": "okcoin",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -2461,7 +2356,6 @@
     {
       "name": "OKEx",
       "slug": "okex",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -2483,7 +2377,6 @@
     {
       "name": "Onomy",
       "slug": "onomy",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2505,7 +2398,6 @@
     {
       "name": "OpenOcean",
       "slug": "openocean",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2527,7 +2419,6 @@
     {
       "name": "Orion Protocol",
       "slug": "orion-protocol",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2549,7 +2440,6 @@
     {
       "name": "Pangolin",
       "slug": "pangolin",
-      "longSummary": "",
       "tags": [
         "exchange",
         "defi"
@@ -2572,7 +2462,6 @@
     {
       "name": "ParaSwap",
       "slug": "paraswap",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2594,7 +2483,6 @@
     {
       "name": "Paribu",
       "slug": "paribu",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -2616,7 +2504,6 @@
     {
       "name": "Pendle",
       "slug": "pendle",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2638,7 +2525,6 @@
     {
       "name": "Penguin Finance",
       "slug": "penguin-finance",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2660,7 +2546,6 @@
     {
       "name": "Polyient Games",
       "slug": "polyient-games",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -2682,7 +2567,6 @@
     {
       "name": "Poolz",
       "slug": "poolz",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2704,7 +2588,6 @@
     {
       "name": "Proof of Learning (PoL)",
       "slug": "proof-of-learning",
-      "longSummary": "",
       "tags": [
         "ecosystem",
         "tooling"
@@ -2727,7 +2610,6 @@
     {
       "name": "Prosper",
       "slug": "prosper",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2749,7 +2631,6 @@
     {
       "name": "Protocoh",
       "slug": "protocoh",
-      "longSummary": "",
       "tags": [
         "tooling",
         "infrastructure"
@@ -2772,7 +2653,6 @@
     {
       "name": "Quadency",
       "slug": "quadency",
-      "longSummary": "",
       "tags": [
         "wealth-management"
       ],
@@ -2794,7 +2674,6 @@
     {
       "name": "Quantstamp",
       "slug": "quantstamp",
-      "longSummary": "",
       "tags": [
         "security"
       ],
@@ -2816,7 +2695,6 @@
     {
       "name": "Reef",
       "slug": "reef",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2838,7 +2716,6 @@
     {
       "name": "Ren",
       "slug": "ren",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2860,7 +2737,6 @@
     {
       "name": "Rome Terminal",
       "slug": "rome-terminal",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -2882,7 +2758,6 @@
     {
       "name": "Router Protocol",
       "slug": "router-protocol",
-      "longSummary": "",
       "tags": [
         ""
       ],
@@ -2904,7 +2779,6 @@
     {
       "name": "Securitize",
       "slug": "securitize",
-      "longSummary": "",
       "tags": [
         "digital-securities",
         "exchange"
@@ -2927,7 +2801,6 @@
     {
       "name": "Shopping.io",
       "slug": "shopping-io",
-      "longSummary": "",
       "tags": [
         "payments"
       ],
@@ -2949,7 +2822,6 @@
     {
       "name": "SIMBA Chain",
       "slug": "simba-chain",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -2971,7 +2843,6 @@
     {
       "name": "Simplex",
       "slug": "simplex",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -2993,7 +2864,6 @@
     {
       "name": "Snowball",
       "slug": "snowball",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -3015,7 +2885,6 @@
     {
       "name": "StackOS",
       "slug": "stackos",
-      "longSummary": "",
       "tags": [
         "infrastructure"
       ],
@@ -3037,7 +2906,6 @@
     {
       "name": "Sushiswap",
       "slug": "sushiswap",
-      "longSummary": "",
       "tags": [
         "exchange",
         "defi"
@@ -3060,7 +2928,6 @@
     {
       "name": "Tenderly",
       "slug": "tenderly",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -3082,7 +2949,6 @@
     {
       "name": "Tether",
       "slug": "tether",
-      "longSummary": "",
       "tags": [
         "stablecoin",
         "defi"
@@ -3105,7 +2971,6 @@
     {
       "name": "The Club Deportivo Guadalajara (\"Chivas\")",
       "slug": "the-club-deportivo-guadalajara",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -3127,7 +2992,6 @@
     {
       "name": "The Graph",
       "slug": "the-graph",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -3149,7 +3013,6 @@
     {
       "name": "Tin Network",
       "slug": "tin-network",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -3171,7 +3034,6 @@
     {
       "name": "Topps NFTs",
       "slug": "topps-nfts",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -3193,7 +3055,6 @@
     {
       "name": "Torus",
       "slug": "torus",
-      "longSummary": "",
       "tags": [
         "infrastructure",
         "security",
@@ -3217,7 +3078,6 @@
     {
       "name": "Trader Joe",
       "slug": "trader-joe",
-      "longSummary": "",
       "tags": [
         "defi",
         "exchange"
@@ -3240,7 +3100,6 @@
     {
       "name": "TrueUSD",
       "slug": "trueusd",
-      "longSummary": "",
       "tags": [
         "stablecoin",
         "defi"
@@ -3263,7 +3122,6 @@
     {
       "name": "TrustSwap",
       "slug": "trustswap",
-      "longSummary": "",
       "tags": [
         "tooling"
       ],
@@ -3285,7 +3143,6 @@
     {
       "name": "Unifty.io",
       "slug": "unifty-io",
-      "longSummary": "",
       "tags": [
         "nft"
       ],
@@ -3307,7 +3164,6 @@
     {
       "name": "Union",
       "slug": "union",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -3329,7 +3185,6 @@
     {
       "name": "Velox",
       "slug": "velox",
-      "longSummary": "",
       "tags": [
         "tooling",
         "defi",
@@ -3353,7 +3208,6 @@
     {
       "name": "Venly",
       "slug": "venly",
-      "longSummary": "",
       "tags": [
         "infrastructure"
       ],
@@ -3375,7 +3229,6 @@
     {
       "name": "Verso Finance",
       "slug": "verso-finance",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -3397,7 +3250,6 @@
     {
       "name": "Voyager",
       "slug": "voyager",
-      "longSummary": "",
       "tags": [
         "exchange"
       ],
@@ -3419,7 +3271,6 @@
     {
       "name": "Vscout",
       "slug": "vscout",
-      "longSummary": "",
       "tags": [
         "explorer",
         "tooling"
@@ -3442,7 +3293,6 @@
     {
       "name": "Whiteblock",
       "slug": "whiteblock",
-      "longSummary": "",
       "tags": [
         "security"
       ],
@@ -3464,7 +3314,6 @@
     {
       "name": "Wyre",
       "slug": "wyre",
-      "longSummary": "",
       "tags": [
         "stablecoin",
         "defi",
@@ -3488,7 +3337,6 @@
     {
       "name": "Yay Games",
       "slug": "yay-games",
-      "longSummary": "",
       "tags": [
         "defi",
         "play-to-earn"
@@ -3511,7 +3359,6 @@
     {
       "name": "YetiSwap",
       "slug": "yetiswap",
-      "longSummary": "",
       "tags": [
         "nft",
         "defi"
@@ -3534,7 +3381,6 @@
     {
       "name": "Yield Yak",
       "slug": "yield-yak",
-      "longSummary": "",
       "tags": [
         "defi"
       ],
@@ -3556,7 +3402,6 @@
     {
       "name": "Yield",
       "slug": "yield",
-      "longSummary": "",
       "tags": [
         "wealth-management",
         "defi"
@@ -3579,7 +3424,6 @@
     {
       "name": "Zapper",
       "slug": "zapper",
-      "longSummary": "",
       "tags": [
         "wealth-management"
       ],
