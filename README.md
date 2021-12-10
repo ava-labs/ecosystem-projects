@@ -62,7 +62,7 @@ If your project already exists in the `projects` direct, don't re-submit the pro
   "highlight": "Avalanche's official bridge- providing a fast, low cost, and secure means to move assets between chains.",
   "logo": "/img/avalanche-bridge.png",
   "tags": ["ava-labs","bridge","multi-chain"],
-  "status": "Live",
+  "status": "live",
   "website": "https://bridge.avax.network/",
   "twitter": "https://twitter.com/avalancheavax",
   "summary": "The Avalanche Bridge (AB) is a low cost, low latency, and secure way to transfer assets from one blockchain to another. Leveraging Intel SGX and built on the back of Avalanche’s low energy and high TPS consensus algorithm, the AB provides users a smooth, quick, and inexpensive experience. Currently supporting the movement of ERC20’s from Ethereum onto the Avalanche C-Chain and back, Ava Labs has plans to advance the bridge further and increase the number of connected chains. Ava Labs designed the Avalanche Bridge on the principles that transactions across the bridge will be secure and finality will be swift. This makes Avalanche’s official bridge one of the best options to move assets onto the Avalanche C-Chain. Good Bridging.",
