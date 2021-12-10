@@ -1,3 +1,7 @@
+![AvalancheLogoRed](https://user-images.githubusercontent.com/91836041/145524214-bf21f7ae-8ae4-4a89-86f0-7630e5220cba.png)
+
+
+
 # Avalanche Ecosystem
 
 Welcome to The Avalanche Ecosystem- This repository is the source data for The Avalanche Ecosystem, located here <https://ecosystem.avax.network/>.
