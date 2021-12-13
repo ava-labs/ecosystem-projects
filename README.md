@@ -77,7 +77,6 @@ If your project already exists in the `projects` direct, don't re-submit the pro
 ```
 
 ### Tags
-git
 Currently available categories to classify the project are listed below. Please only use one of the options and avoid typos.
 
 ```text
