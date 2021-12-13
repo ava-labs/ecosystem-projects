@@ -25,7 +25,7 @@
       "name": "Ablock",
       "slug": "ablock",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -46,7 +46,7 @@
       "name": "Aleph.Im",
       "slug": "aleph-im",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -258,7 +258,7 @@
       "tags": [
         "defi",
         "ecosystem",
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -280,7 +280,7 @@
       "slug": "avascan",
       "tags": [
         "explorer",
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -387,7 +387,7 @@
       "name": "Axelar",
       "slug": "axelar",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -788,7 +788,7 @@
       "tags": [
         "defi",
         "exchange",
-        "wealth-management"
+        "portfolio"
       ],
       "status": "",
       "contact": "",
@@ -809,7 +809,7 @@
       "name": "Cartesi",
       "slug": "cartesi",
       "tags": [
-        "tooling",
+        "tools",
         "oracle"
       ],
       "status": "",
@@ -1022,7 +1022,7 @@
       "name": "Covalent",
       "slug": "covalent",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -1151,7 +1151,7 @@
       "slug": "dappradar",
       "tags": [
         "ecosystem",
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -1214,7 +1214,7 @@
       "name": "Decentology",
       "slug": "decentology",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -1277,7 +1277,7 @@
       "name": "DSLA Protocol",
       "slug": "dsla-protocol",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -1533,7 +1533,7 @@
       "slug": "hackenproof",
       "tags": [
         "security",
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -1596,7 +1596,7 @@
       "name": "Hardhat",
       "slug": "hardhat",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -1639,7 +1639,7 @@
       "slug": "hummingbot",
       "tags": [
         "defi",
-        "trading-bot"
+        "bot-dapp"
       ],
       "status": "",
       "contact": "",
@@ -1724,7 +1724,7 @@
       "name": "Injective Protocol",
       "slug": "injective-protocol",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -1873,7 +1873,7 @@
       "slug": "kurtosis",
       "tags": [
         "security",
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -2020,7 +2020,7 @@
       "name": "Magic",
       "slug": "magic",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -2146,7 +2146,7 @@
       "name": "Moralis",
       "slug": "moralis",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -2188,7 +2188,7 @@
       "name": "Nansen",
       "slug": "nansen",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -2590,7 +2590,7 @@
       "slug": "proof-of-learning",
       "tags": [
         "ecosystem",
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -2632,7 +2632,7 @@
       "name": "Protocoh",
       "slug": "protocoh",
       "tags": [
-        "tooling",
+        "tools",
         "infrastructure"
       ],
       "status": "",
@@ -2654,7 +2654,7 @@
       "name": "Quadency",
       "slug": "quadency",
       "tags": [
-        "wealth-management"
+        "portfolio"
       ],
       "status": "",
       "contact": "",
@@ -2823,7 +2823,7 @@
       "name": "SIMBA Chain",
       "slug": "simba-chain",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -2929,7 +2929,7 @@
       "name": "Tenderly",
       "slug": "tenderly",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -2993,7 +2993,7 @@
       "name": "The Graph",
       "slug": "the-graph",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -3058,7 +3058,7 @@
       "tags": [
         "infrastructure",
         "security",
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -3123,7 +3123,7 @@
       "name": "TrustSwap",
       "slug": "trustswap",
       "tags": [
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -3186,9 +3186,9 @@
       "name": "Velox",
       "slug": "velox",
       "tags": [
-        "tooling",
+        "tools",
         "defi",
-        "trading-bot"
+        "bot-dapp"
       ],
       "status": "",
       "contact": "",
@@ -3273,7 +3273,7 @@
       "slug": "vscout",
       "tags": [
         "explorer",
-        "tooling"
+        "tools"
       ],
       "status": "",
       "contact": "",
@@ -3403,7 +3403,7 @@
       "name": "Yield",
       "slug": "yield",
       "tags": [
-        "wealth-management",
+        "portfolio",
         "defi"
       ],
       "status": "",
@@ -3425,7 +3425,7 @@
       "name": "Zapper",
       "slug": "zapper",
       "tags": [
-        "wealth-management"
+        "portfolio"
       ],
       "status": "",
       "contact": "",
