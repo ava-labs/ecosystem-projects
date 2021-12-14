@@ -52,7 +52,7 @@ If your project already exists in the `projects` direct, don't re-submit the pro
 - The image should be round for the best display result. A round mask will be applied when deployed, so non-round images will have edges cut off.
 
 
-### Example File- Dev needs to decide on how to format this with info they have. Fill in example
+### Example File 
 
 ```json
 {
