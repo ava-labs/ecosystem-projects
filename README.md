@@ -84,8 +84,8 @@ accelerator
 amm
 api
 art
-ava-labs
-avalanche-native
+ava labs
+avalanche native
 bridge
 cex
 culture
@@ -95,11 +95,11 @@ dapp
 dashboard
 defi
 dex
-digital-securities
+digital securities
 ecosystem
 exchange
 explorer
-fiat-ramp
+fiat ramp
 funds
 gaming
 governance
@@ -130,8 +130,8 @@ tools
 trading
 utility
 wallet
-wealth-management
-yield-farming
+wealth management
+yield farming
 ```
 
 ## Questions
