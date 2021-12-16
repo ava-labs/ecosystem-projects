@@ -13,6 +13,7 @@ jobs:
       - name: Create comment
         uses: peter-evans/create-or-update-comment@v1
         with:
+          issue-number: ${{ github.event.pull_request.number }}
           body: |
             Thank you for submitting your project.
             Please make sure you fill out https://yleojkzxfvm.typeform.com/avaxproject so we have your contact information. 
