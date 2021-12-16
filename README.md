@@ -4,8 +4,6 @@
 
 # Avalanche Ecosystem
 
-Need Image from design team
-
 Welcome to The Avalanche Ecosystem- This repository is the source data for The Avalanche Ecosystem, located here <https://ecosystem.avax.network/>.
 
 If you are interested in adding your project to the Avalanche Ecosystem page, please follow the guidelines below. Please ensure complete accuracy with all form questions. Inaccurate or incomplete submissions will not be accepted.
