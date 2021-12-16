@@ -10,10 +10,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: wow-actions/auto-comment@v1
+      - name: Create comment
+        uses: peter-evans/create-or-update-comment@v1
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          pullRequestOpened: |
-            👋 @{{ author }}
+          body: |
             Thank you for submitting your project.
             Please make sure you fill out https://yleojkzxfvm.typeform.com/avaxproject so we have your contact information. 
