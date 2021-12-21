@@ -22,27 +22,6 @@
       "token": ""
     },
     {
-      "name": "Ablock",
-      "slug": "ablock",
-      "tags": [
-        "tools"
-      ],
-      "status": "",
-      "contact": "",
-      "highlight": "A professional community-centric validator service.",
-      "logo": "/img/ablock.svg",
-      "website": "https://ablock.io/avalanche",
-      "twitter": "",
-      "telegram": "",
-      "github": "",
-      "discord": "",
-      "summary": "",
-      "docs": "",
-      "cmc": "",
-      "date": "",
-      "token": ""
-    },
-    {
       "name": "Aleph.Im",
       "slug": "aleph-im",
       "tags": [
@@ -53,27 +32,6 @@
       "highlight": "A cross-blockchain layer-2 network.",
       "logo": "/img/aleph-im.svg",
       "website": "https://aleph.im/#/chains",
-      "twitter": "",
-      "telegram": "",
-      "github": "",
-      "discord": "",
-      "summary": "",
-      "docs": "",
-      "cmc": "",
-      "date": "",
-      "token": ""
-    },
-    {
-      "name": "Algorder",
-      "slug": "algorder",
-      "tags": [
-        "infrastructure"
-      ],
-      "status": "",
-      "contact": "",
-      "highlight": "A Decentralized Order Management System build on Avalanche.",
-      "logo": "/img/algorder.png",
-      "website": "https://algorder.app/",
       "twitter": "",
       "telegram": "",
       "github": "",
@@ -1796,27 +1754,6 @@
       "highlight": "A decentralized Multi-chain insurance platform to protect users' funds against various risks.",
       "logo": "/img/insurace.svg",
       "website": "",
-      "twitter": "",
-      "telegram": "",
-      "github": "",
-      "discord": "",
-      "summary": "",
-      "docs": "",
-      "cmc": "",
-      "date": "",
-      "token": ""
-    },
-    {
-      "name": "Jelly Swap",
-      "slug": "jelly-swap",
-      "tags": [
-        "exchange"
-      ],
-      "status": "",
-      "contact": "",
-      "highlight": "A dApp for cross-chain swaps allowing value transfer between different networks.",
-      "logo": "/img/jelly-swap.svg",
-      "website": "https://jelly.market/",
       "twitter": "",
       "telegram": "",
       "github": "",
