@@ -1023,7 +1023,7 @@
       "name": "Crabada",
       "slug": "crabada",
       "tags": [
-        "gaming-2"
+        "gaming"
       ],
       "status": "",
       "contact": "",
@@ -1711,28 +1711,6 @@
       "highlight": "Exchange protocol that improves decentralized derivatives and borderless DeFi.",
       "logo": "/img/injective-protocol.svg",
       "website": "https://injectiveprotocol.com/",
-      "twitter": "",
-      "telegram": "",
-      "github": "",
-      "discord": "",
-      "summary": "",
-      "docs": "",
-      "cmc": "",
-      "date": "",
-      "token": ""
-    },
-    {
-      "name": "InsurAce",
-      "slug": "insurace-2",
-      "tags": [
-        "security",
-        "defi"
-      ],
-      "status": "",
-      "contact": "",
-      "highlight": "Decentralized Multi-chain insurance platform to protect users' funds against various risks.",
-      "logo": "/img/insurace-2.svg",
-      "website": "https://www.insurace.io/",
       "twitter": "",
       "telegram": "",
       "github": "",
