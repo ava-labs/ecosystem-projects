@@ -95,6 +95,7 @@ defi
 dex
 digital securities
 ecosystem
+enterprise
 exchange
 explorer
 fiat ramp
@@ -103,7 +104,6 @@ gaming
 governance
 government
 incubators
-industry
 infrastructure
 institutional 
 launchpads
