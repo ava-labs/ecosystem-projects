@@ -1,0 +1,19 @@
+{
+  "name": "Fireblocks",
+  "slug": "fireblocks",
+  "tags": ["custory", "portfolio", "institutional"],
+  "status": "live",
+  "contact": "",
+  "highlight": "A leading provider of custody and settlement solutions for digital assets to more than 650 banks, hedge funds, and financial institutions.",
+  "logo": "/img/fireblocks.svg",
+  "website": "https://www.fireblocks.com/blog/avalanche-x-fireblocks/",
+  "twitter": "https://twitter.com/FireblocksHQ",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "Fireblocks is a leading enterprise-grade platform delivering a secure infrastructure for moving, storing, and issuing digital assets. Fireblocks enables banks, fintechs, exchanges, liquidity providers, OTCs, and hedge funds to securely manage digital assets across a wide range of products and services. The technology consists of the Fireblocks Network and MPC-based Wallet Infrastructure. Fireblocks serves over 200 financial institutions and has secured over $400 billion in digital assets. Fireblocks has a unique insurance policy that covers assets in storage & transit and offers 24/7 global support.",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
