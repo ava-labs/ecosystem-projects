@@ -1,0 +1,19 @@
+{
+  "name": "Mastercard",
+  "slug": "mastercard",
+  "tags": ["enterprise"],
+  "status": "live",
+  "contact": "",
+  "highlight": "Connect your crypto start-up to our ecosystem of banks, merchants, partners and digital players across the globe.",
+  "logo": "/img/mastercard.jpeg",
+  "website": "https://developer.mastercard.com/programs/start-path-crypto/",
+  "twitter": "https://twitter.com/mastercard",
+  "telegram": "https://t.me/iomarkr",
+  "github": "",
+  "discord": "",
+  "summary": "Through Mastercard's Start Paty Crypto Program, founders of crypto, blockchain and digital assets startups come to us looking to address a host of pain points – asset tokenization, data accuracy, digital security, seamless access between the traditional and digital economy, and more. Leveraging our expertise helps their continued growth and development. \nStart Path Crypto is the first Start Path program to focus on the unique needs of crypto/blockchain companies. Rather than individual sponsors for six months, the startups will be introduced to relevant teams, customers and partners as a group over three months.\nOur aim is to bring innovative companies into our network with less emphasis on commercial outcomes, with a right to invest in a future equity round.",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}

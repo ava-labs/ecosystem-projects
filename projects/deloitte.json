@@ -1,0 +1,19 @@
+{
+  "name": "Deloitte",
+  "slug": "deloitte",
+  "tags": ["government"],
+  "status": "live",
+  "contact": "",
+  "highlight": "The Close As You Go™ (CAYG) platform helps state and local government officials simplify and streamline disaster reimbursement applications to the FEMA",
+  "logo": "/img/deloitte.jpeg",
+  "website": "https://www2.deloitte.com/us/en/pages/public-sector/solutions/fema-public-assistance-documentation.html",
+  "twitter": "https://twitter.com/Deloitte",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "Deloitte’s Close as You Go (CAYG) is a secure, cloud-based software platform built to help state and local government agencies manage recovery documentation to demonstrate eligibility for FEMA Public Assistance expenditures. CAYG helps reduce the likelihood of submitting ineligible expenses, referencing outdated contracts, or following improper procurement practices that cause federal clawbacks down the line. CAYG helps you navigate the process so you can focus on recovery.",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
