@@ -1,13 +1,10 @@
 {
   "name": "Securitize",
   "slug": "securitize",
-  "tags": [
-    "digital-securities",
-    "exchange"
-  ],
+  "tags": ["digital securities", "enterprise"],
   "status": "",
   "contact": "",
-  "highlight": "Iissuance and compliance platform for digital securities and SEC-registered transfer agents.",
+  "highlight": "Issuance and compliance platform for digital securities and SEC-registered transfer agents.",
   "logo": "/img/securitize.svg",
   "website": "https://securitize.io/",
   "twitter": "https://twitter.com/Securitize?utm_source=Markets&utm_medium=referral",
