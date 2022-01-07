@@ -75,7 +75,7 @@ If your project already exists in the `projects` direct, don't re-submit the pro
 ```
 
 ### Tags
-Currently available categories to classify the project are listed below. Please only use maximum 4 of the options and avoid typos.
+Currently available categories to classify the project are listed below. Please only use a maximum of 4 of the options and avoid typos.
 
 ```text
 accelerator
