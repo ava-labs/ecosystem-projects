@@ -7,7 +7,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
       "logo": "/img/aave.svg",
       "website": "https://aave.com/",
@@ -28,7 +27,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A cross-blockchain layer-2 network.",
       "logo": "/img/aleph-im.svg",
       "website": "https://aleph.im/#/",
@@ -49,7 +47,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized blockchain-agnostic layer 2 that converts any digital asset to a bankable product.",
       "logo": "/img/alliance-block.svg",
       "website": "https://allianceblock.io/",
@@ -70,7 +67,6 @@
         "nodes"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A non-custodial platform for hosting masternodes and full nodes, as well as full staking services.",
       "logo": "/img/allnodes.svg",
       "website": "https://www.allnodes.com/",
@@ -91,7 +87,6 @@
         "nodes"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Makes participating in, building on, and using blockchains and protocols easy and accessible.",
       "logo": "/img/ankr.svg",
       "website": "https://www.ankr.com/",
@@ -112,7 +107,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A unified ecosystem for full circulation of digital assets, bringing more liquidity to the market.",
       "logo": "/img/anyswap.svg",
       "website": "https://anyswap.exchange/dashboard#/router",
@@ -133,7 +127,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Cross-chain DeFi Dashboard. Built by apes, for apes.",
       "logo": "/img/ape-board.png",
       "website": "https://apeboard.finance/dashboard",
@@ -154,7 +147,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A low-level protocol for creating and settling options on publicly available asset prices.",
       "logo": "/img/arrow-dfms.svg",
       "website": "https://www.arrow.markets/",
@@ -175,7 +167,6 @@
         "nodes"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Plug-and-play hardware nodes for Avalanche.",
       "logo": "/img/avado.svg",
       "website": "https://ava.do/",
@@ -218,7 +209,6 @@
         "explorer"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An analytics tool that enables people to search the Avalanche blockchain.",
       "logo": "/img/avalanche-explorer.svg",
       "website": "https://explorer.avax.network/",
@@ -241,7 +231,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A launchpad for new and innovative projects to prepare for launch with fair and broad distribution.",
       "logo": "/img/avalaunch.svg",
       "website": "https://avalaunch.app/",
@@ -263,7 +252,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An independent blockchain explorer for Avalanche.",
       "logo": "/img/avascan.svg",
       "website": "https://avascan.info/",
@@ -285,7 +273,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Farming, Launchpad, and NFT Staking.",
       "logo": "/img/avaware.png",
       "website": "https://avaware.network/",
@@ -306,7 +293,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A P2E blockchain game using NFTs as gaming assets and has its own Tokenomics.",
       "logo": "/img/avaxtars.png",
       "website": "https://avaxtars.com/",
@@ -328,7 +314,6 @@
         "wallet"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Desktop Wallet for Avalanche, built in C++. Decentralized and Trustless security suite.",
       "logo": "/img/avme.png",
       "website": "https://avme.io/",
@@ -349,7 +334,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A cross-chain communication network that connects Avalanche with other leading platforms.",
       "logo": "/img/axelar.svg",
       "website": "https://axelar.network/",
@@ -370,7 +354,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized exchange on the Avalanche network.",
       "logo": "/img/baguette.png",
       "website": "https://baguette.exchange/",
@@ -391,7 +374,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A risk tokenizing protocol that lets you leverage or hedge your DeFi positions.",
       "logo": "/img/barnbridge.svg",
       "website": "https://barnbridge.com/",
@@ -412,7 +394,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A non-custodial algorithmic liquidity market protocol.",
       "logo": "/img/benqi.svg",
       "website": "https://benqi.fi/",
@@ -433,7 +414,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "The universal multichain middleware.",
       "logo": "/img/bifrost.svg",
       "website": "https://thebifrost.io/",
@@ -454,7 +434,6 @@
         "stablecoin"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A Turkish Lira stablecoin on Avalanche.",
       "logo": "/img/bilira.svg",
       "website": "https://www.bilira.co/",
@@ -475,7 +454,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "The worlds biggest crypto exchange in the world by volume.",
       "logo": "/img/binance.svg",
       "website": "https://www.binance.com/en",
@@ -496,7 +474,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A digital asset trading platform offering services for traders and global liquidity providers.",
       "logo": "/img/bitfinex.svg",
       "website": "https://www.bitfinex.com/",
@@ -519,7 +496,6 @@
         "institutional"
       ],
       "status": "live",
-      "contact": "",
       "highlight": "Enables our clients to navigate the complex landscape of digital assets with a connected, compliant, and secure suite of solutions.",
       "logo": "/img/bitgo.webp",
       "website": "https://allianceblock.io/",
@@ -540,7 +516,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A crypto exchange with secure crypto products and services.",
       "logo": "/img/bitmart.png",
       "website": "https://www.bitmart.com/",
@@ -561,7 +536,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Gives new users easy access to digital assets and regular users control over their portfolio.",
       "logo": "/img/bitpanda.svg",
       "website": "https://www.bitpanda.com/en",
@@ -582,7 +556,6 @@
         "ecosystem"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A blockchain training and education platform for LATAM.",
       "logo": "/img/blockchain-academy-chile.svg",
       "website": "https://www.blockchainacademy.cl/",
@@ -603,7 +576,6 @@
         "ecosystem"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Committed to promoting blockchain within the game industry.",
       "logo": "/img/blockchain-game-alliance.svg",
       "website": "https://www.blockchaingamealliance.org/",
@@ -624,7 +596,6 @@
         "ecosystem"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Researching the impact of blockchain technology.",
       "logo": "/img/blockchain-research-institute.svg",
       "website": "https://www.blockchainresearchinstitute.org/",
@@ -645,7 +616,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Infrastructure and cross-chain dApps to interact with Avalanche subnets and smart contracts.",
       "logo": "/img/blocknet.svg",
       "website": "https://blocknet.co/",
@@ -666,7 +636,6 @@
         "nodes"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A suite of multi-blockchain infrastructure services built to grow as your business grows.",
       "logo": "/img/bloq.svg",
       "website": "https://www.bloq.com/",
@@ -687,7 +656,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized bridge that connects all blockchain assets.",
       "logo": "/img/boring-dao.svg",
       "website": "https://www.boringdao.com/",
@@ -708,7 +676,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Turkey's first and the world’s fourth cryptocurrency exchange platform.",
       "logo": "/img/btcturk.svg",
       "website": "https://www.btcturk.com/",
@@ -729,7 +696,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An interface for Blockchain APIs consumers and node providers.",
       "logo": "/img/bware-labs.jpeg",
       "website": "https://bwarelabs.com/",
@@ -750,7 +716,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A protocol that offers open finance margin trading & lending on Avalanche.",
       "logo": "/img/bzx.svg",
       "website": "https://bzx.network/",
@@ -773,7 +738,6 @@
         "portfolio"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Canary is a DEX which runs on Avalanche with yield farming with very high APRs and staking features.",
       "logo": "/img/canary-exchange.png",
       "website": "https://canary.exchange/",
@@ -795,7 +759,6 @@
         "oracle"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Layer-2 infrastructure to enable a Linux environment on Avalanche.",
       "logo": "/img/cartesi.svg",
       "website": "https://cartesi.io/",
@@ -816,7 +779,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Bridging Ethereum sidechains such as Polygon, Arbitrum, Optimism and BSC.",
       "logo": "/img/cbridge.png",
       "website": "https://cbridge.celer.network/#/transfer",
@@ -837,7 +799,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "The decentralized network for data stream processing.",
       "logo": "/img/ceramic.svg",
       "website": "https://ceramic.network/",
@@ -859,7 +820,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized oracle network that enables smart contracts to securely access various data sources.",
       "logo": "/img/chainlink.svg",
       "website": "https://chain.link/",
@@ -880,7 +840,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A leading provider of full candlestick charting.",
       "logo": "/img/chartex.png",
       "website": "https://www.chartex.pro/dashboard",
@@ -901,7 +860,6 @@
         "wallet"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A simple and secure non-custodial crypto wallet.",
       "logo": "/img/coin98-wallet.svg",
       "website": "https://coin98.com/",
@@ -922,7 +880,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrency",
       "logo": "/img/coinbase.svg",
       "website": "https://www.coinbase.com/price/avalanche",
@@ -943,7 +900,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A financial service company for asset management.",
       "logo": "/img/coinone.svg",
       "website": "https://coinone.co.kr/?__cf_chl_jschl_tk__=im6Ph6DQa2kvtJdR.lbmT6ml7aXMzTWAumtp_WXsv8Y-1640364491-0-gaNycGzNC_0",
@@ -964,7 +920,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A multichain decentralized trading protocol.",
       "logo": "/img/complus-network.svg",
       "website": "https://complus.exchange/",
@@ -986,7 +941,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "The institutional gateway to digital asset investing.",
       "logo": "/img/copper.svg",
       "website": "https://copper.co/",
@@ -1007,7 +961,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A leading provider of indexing solutions for blockchains.",
       "logo": "/img/covalent.svg",
       "website": "https://www.covalenthq.com/",
@@ -1028,7 +981,6 @@
         "gaming"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A Fully Decentralized Play-and-Earn Idle Game on Avalanche",
       "logo": "/img/crabada.png",
       "website": "https://www.crabada.com/",
@@ -1049,7 +1001,6 @@
         "payments"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Enable people all over the world to spend cryptocurrency for their everyday needs.",
       "logo": "/img/cryptorefills.svg",
       "website": "https://www.cryptorefills.com/",
@@ -1071,7 +1022,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A DeFi shopping experience.",
       "logo": "/img/curate.svg",
       "website": "https://curate.style/",
@@ -1093,7 +1043,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An exchange liquidity pool designed for extremely efficient stablecoin trading.",
       "logo": "/img/curve-fi.svg",
       "website": "https://avax.curve.fi/",
@@ -1114,7 +1063,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An automation-focused asset management platform.",
       "logo": "/img/cyberfi.svg",
       "website": "https://cyberfi.tech/6/",
@@ -1136,7 +1084,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "The Dapp discovery platform.",
       "logo": "/img/dappradar.svg",
       "website": "https://dappradar.com/",
@@ -1157,7 +1104,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A quantum-resistant cross-chain DEX.",
       "logo": "/img/dctdao.png",
       "website": "https://dctdao.org/",
@@ -1178,7 +1124,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A DeFi wallet for managaging and tracking your DeFi portfolio.",
       "logo": "/img/debank.png",
       "website": "https://dctdao.org/",
@@ -1199,7 +1144,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Empowering developers to create full-stack Avalanche dApps in less than 15 minutes.",
       "logo": "/img/decentology.png",
       "website": "https://www.decentology.com/",
@@ -1220,7 +1164,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A yield farming platform.",
       "logo": "/img/defi-yield-protocol-dyp.jpeg",
       "website": "https://dyp.finance/",
@@ -1241,7 +1184,6 @@
         "government"
       ],
       "status": "live",
-      "contact": "",
       "highlight": "The Close As You Go™ (CAYG) platform helps state and local government officials simplify and streamline disaster reimbursement applications to the FEMA",
       "logo": "/img/deloitte.png",
       "website": "https://www2.deloitte.com/us/en/pages/public-sector/solutions/fema-public-assistance-documentation.html",
@@ -1262,7 +1204,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Unparalleled coverage of on-chain markets integrated into one place and delivered in real-time.",
       "logo": "/img/dex-guru.jpeg",
       "website": "https://dex.guru/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7-avalanche",
@@ -1283,7 +1224,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A developer risk management framework.",
       "logo": "/img/dsla-protocol.svg",
       "website": "https://stacktical.com/",
@@ -1304,7 +1244,6 @@
         "launchpads"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Decentralized Token Creation, Launchpad, Locker, platform",
       "logo": "/img/dxsale.png",
       "website": "https://dxsale.app/",
@@ -1326,7 +1265,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An issuer of transparent, interest-bearing, currency-backed stablecoins.",
       "logo": "/img/e-money.svg",
       "website": "https://www.e-money.com/",
@@ -1347,7 +1285,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized network for cross-chain liquidity.",
       "logo": "/img/elk-finance.png",
       "website": "https://elk.finance/",
@@ -1368,7 +1305,6 @@
         "ecosystem"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A community of university students, researchers and developers building in blockchain.",
       "logo": "/img/encode-club.svg",
       "website": "https://www.encode.club/",
@@ -1389,7 +1325,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Protocol infrastructure for developers.",
       "logo": "/img/figment-network.svg",
       "website": "https://www.figment.io/datahub/avalanche",
@@ -1412,7 +1347,6 @@
         "institutional"
       ],
       "status": "live",
-      "contact": "",
       "highlight": "A leading provider of custody and settlement solutions for digital assets to more than 650 banks, hedge funds, and financial institutions.",
       "logo": "/img/fireblocks.jpeg",
       "website": "https://www.fireblocks.com/blog/avalanche-x-fireblocks/",
@@ -1433,7 +1367,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Bespoke ticketing experience that bridges art, event organizers, and people.",
       "logo": "/img/flashback.jpeg",
       "website": "https://flashback.one/",
@@ -1455,7 +1388,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "The first fractional-algorithmic stablecoin protocol.",
       "logo": "/img/frax.svg",
       "website": "https://frax.finance/",
@@ -1477,7 +1409,6 @@
         "wallet"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A chain-agnostic DeFi aggregator that allows users to manage their DeFi applications and assets.",
       "logo": "/img/frontier.svg",
       "website": "https://www.frontier.xyz/",
@@ -1498,7 +1429,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A leading cryptocurrency derivatives exchange built by traders, for traders.",
       "logo": "/img/ftx.svg",
       "website": "https://ftx.com/",
@@ -1519,7 +1449,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized P2P exchange and NFT marketplace with a core focus on in-game assets.",
       "logo": "/img/gameswap.svg",
       "website": "https://www.gameswap.org/",
@@ -1541,7 +1470,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A bug bounty and vulnerability coordination platform.",
       "logo": "/img/hackenproof.svg",
       "website": "https://hackenproof.com/",
@@ -1562,7 +1490,6 @@
         "security"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A cybersecurity team that offers audit, penetration testing, and security products to blockchains.",
       "logo": "/img/halborn.svg",
       "website": "https://halborn.com/",
@@ -1583,7 +1510,6 @@
         "security"
       ],
       "status": "",
-      "contact": "",
       "highlight": "On-chain cybersecurity protocol.",
       "logo": "/img/hapi.svg",
       "website": "https://www.hapi.one/",
@@ -1604,7 +1530,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A next-generation EVM tooling, works out of the box with Avalanche.",
       "logo": "/img/hardhat.svg",
       "website": "https://hardhat.org/",
@@ -1625,7 +1550,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A marketplace for Georeferenced Non-Fungible Tokens (gNFTs).",
       "logo": "/img/hodo-network.png",
       "website": "https://hodo.network/#/",
@@ -1647,7 +1571,6 @@
         "bot-dapp"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A liquidity mining program for Avalanche.",
       "logo": "/img/hummingbot.svg",
       "website": "https://hummingbot.io/en/",
@@ -1668,7 +1591,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A digital asset trading platform providing secure and convenient trading services.",
       "logo": "/img/huobi.svg",
       "website": "https://www.huobi.com/en-us/",
@@ -1689,7 +1611,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "HurricaneSwap is a cross-chain liquidity DEX based on Avalanche.",
       "logo": "/img/hurricaneswap.png",
       "website": "https://hurricaneswap.com/#/",
@@ -1711,7 +1632,6 @@
         "security"
       ],
       "status": "",
-      "contact": "",
       "highlight": "The leading bug bounty and security services platform for DeFi.",
       "logo": "/img/immunefi.svg",
       "website": "https://immunefi.com/",
@@ -1732,7 +1652,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Exchange protocol that improves decentralized derivatives and borderless DeFi.",
       "logo": "/img/injective-protocol.svg",
       "website": "https://injectiveprotocol.com/",
@@ -1753,7 +1672,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized Multi-chain insurance platform to protect users' funds against various risks.",
       "logo": "/img/insurace.svg",
       "website": "https://www.insurace.io/",
@@ -1774,7 +1692,6 @@
         "wallet"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A streamlined, browser-based wallet for decentralized finance.",
       "logo": "/img/julwallet.svg",
       "website": "https://justliquidity.org/",
@@ -1795,7 +1712,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "The ultimate next generation NFTs marketplace.",
       "logo": "/img/kalao.svg",
       "website": "https://www.kalao.io/",
@@ -1816,7 +1732,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized protocol for creating cross-chain wrappers for the top-200 assets.",
       "logo": "/img/knit-finance.svg",
       "website": "https://knit.finance/",
@@ -1838,7 +1753,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A complete testing platform to accelerate development on Avalanche.",
       "logo": "/img/kurtosis.svg",
       "website": "https://www.kurtosistech.com/",
@@ -1859,7 +1773,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An on-chain liquidity underwriter.",
       "logo": "/img/kuu.svg",
       "website": "https://app.kuu.finance/",
@@ -1880,7 +1793,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A DEX protocol that provides frictionless crypto liquidity with high flexibility and capital efficiency.",
       "logo": "/img/kyber.png",
       "website": "https://kyber.network/",
@@ -1901,7 +1813,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized archiving and caching solution.",
       "logo": "/img/kyve.jpeg",
       "website": "https://www.kyve.network/",
@@ -1922,7 +1833,6 @@
         "ecosystem"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Accelerating the growth of the blockchain ecosystem in Latin America & the Caribbean.",
       "logo": "/img/lacchain.jpeg",
       "website": "https://www.lacchain.net/home",
@@ -1943,7 +1853,6 @@
         "wallet"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A leader in security and infrastructure solutions.",
       "logo": "/img/ledger.svg",
       "website": "https://www.ledger.com/",
@@ -1964,7 +1873,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An automated market maker, yield farming, staking and launchpad platform.",
       "logo": "/img/lydia-finance.svg",
       "website": "https://www.lydia.finance/",
@@ -1985,7 +1893,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A passwordless login and key management system.",
       "logo": "/img/magic.svg",
       "website": "https://magic.link/",
@@ -2006,7 +1913,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Protocol that natively supports spot and cross margin swapping of assets on AMMs.",
       "logo": "/img/marginswap.svg",
       "website": "https://app.marginswap.exchange/swap",
@@ -2027,7 +1933,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Portfolio management and tracker tool for #dApp users.",
       "logo": "/img/markr.jpeg",
       "website": "https://markr.io/#/pools",
@@ -2048,7 +1953,6 @@
         "enterprise"
       ],
       "status": "live",
-      "contact": "",
       "highlight": "Connect your crypto start-up to our ecosystem of banks, merchants, partners and digital players across the globe.",
       "logo": "/img/mastercard.jpeg",
       "website": "https://developer.mastercard.com/programs/start-path-crypto/",
@@ -2069,7 +1973,6 @@
         "wallet"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A multi-platform universal crypto wallet.",
       "logo": "/img/math-wallet.png",
       "website": "https://mathwallet.org/en-us/",
@@ -2090,7 +1993,6 @@
         "wallet"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A crypto wallet & gateway to blockchain apps.",
       "logo": "/img/metamask.svg",
       "website": "https://metamask.io/",
@@ -2111,7 +2013,6 @@
         ""
       ],
       "status": "",
-      "contact": "",
       "highlight": "A Virtual Hackathon, Summit and Demo Day.",
       "logo": "/img/money-dance.svg",
       "website": "https://www.moneydance.io/",
@@ -2132,7 +2033,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A premier blockchain middleware service.",
       "logo": "/img/moralis.svg",
       "website": "https://moralis.io/",
@@ -2153,7 +2053,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An online automatic staking and masternode staking platform.",
       "logo": "/img/mycointainer.svg",
       "website": "https://www.mycointainer.com/",
@@ -2174,7 +2073,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A crypto analytics platform that enriches on-chain data with millions of wallets labels.",
       "logo": "/img/nansen.png",
       "website": "https://www.nansen.ai/",
@@ -2195,7 +2093,6 @@
         "wallet"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A fast, user-friendly platform for decentralized financial services.",
       "logo": "/img/nash.svg",
       "website": "https://nash.io/",
@@ -2216,7 +2113,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "The world's leading regulated digital assets institution",
       "logo": "/img/nexo.svg",
       "website": "https://nexo.io/?v=t4",
@@ -2237,7 +2133,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A new multi-chain NFT marketplace.",
       "logo": "/img/nft-stars.svg",
       "website": "https://nftstars.app/en/",
@@ -2258,7 +2153,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A cross-chain and blockchain-agnostic NFT platform. An aggregator of all NFT marketplaces.",
       "logo": "/img/nftrade.jpeg",
       "website": "https://nftrade.com/",
@@ -2279,7 +2173,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A community-driven decentralised protocol for trading and minting NFT assets.",
       "logo": "/img/niftyx-protocol.svg",
       "website": "https://niftyx.org/",
@@ -2301,7 +2194,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A stablecoin and staking derivatives issuance platform.",
       "logo": "/img/oin.svg",
       "website": "https://oin.finance/",
@@ -2322,7 +2214,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A cryptocurrency exchange for users to transfer between crypto and fiat currencies.",
       "logo": "/img/okcoin.svg",
       "website": "https://www.okcoin.com/",
@@ -2343,7 +2234,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A fully customizable cryptocurrency exchange for traders at every level.",
       "logo": "/img/okex.svg",
       "website": "https://www.okex.com/",
@@ -2364,7 +2254,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A protocol that mints, trades, and lends stablecoin representations of national currencies.",
       "logo": "/img/onomy.svg",
       "website": "https://onomy.io/#home",
@@ -2385,7 +2274,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A full aggregation protocol for crypto trading.",
       "logo": "/img/openocean.png",
       "website": "https://openocean.finance/",
@@ -2406,7 +2294,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A non-custodial gateway to the entire digital asset market.",
       "logo": "/img/orion-protocol.svg",
       "website": "https://www.orionprotocol.io/",
@@ -2428,7 +2315,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized exchange that supports all Avalanche and Ethereum tokens.",
       "logo": "/img/pangolin.svg",
       "website": "https://pangolin.exchange/",
@@ -2449,7 +2335,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Aggregating decentralized exchanges in one comprehensive interface.",
       "logo": "/img/paraswap.png",
       "website": "https://paraswap.io/#/?network=avalanche",
@@ -2470,7 +2355,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A centralized exchange based in Turkey.",
       "logo": "/img/paribu.jpeg",
       "website": "https://www.paribu.com/?__cf_chl_jschl_tk__=0Mwy9HREbMNF5zy.E5680mvMw6kBdxRmEYZY90MAZz8-1641181937-0-gaNycGzNCdE#/",
@@ -2491,7 +2375,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "The protocol to trade DeFi yield.",
       "logo": "/img/pendle.png",
       "website": "https://app.pendle.finance/market",
@@ -2512,7 +2395,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A protocol bringing yield-farming, staking and more functionalities to the Avalanche platform.",
       "logo": "/img/penguin-finance.png",
       "website": "https://www.penguinfinance.io/",
@@ -2533,7 +2415,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A NFT-focused decentralized exchange.",
       "logo": "/img/polyient-games.svg",
       "website": "https://www.polyientx.com/",
@@ -2554,7 +2435,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized cross-chain IDO platform.",
       "logo": "/img/poolz.png",
       "website": "https://www.poolz.finance/",
@@ -2576,7 +2456,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An education curriculum on Japan’s most popular learning platform.",
       "logo": "/img/proof-of-learning.svg",
       "website": "https://en.techtec.co.jp/",
@@ -2597,7 +2476,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A non-custodial crosschain prediction market and hedging platform.",
       "logo": "/img/prosper.svg",
       "website": "https://prosper.so/",
@@ -2619,7 +2497,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A team passionate about bringing the world closer with technology and infrastructure.",
       "logo": "/img/protocoh.svg",
       "website": "https://protocoh.com/",
@@ -2640,7 +2517,6 @@
         "portfolio"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A multi-exchange trading and automation platform.",
       "logo": "/img/quadency.svg",
       "website": "https://quadency.com/",
@@ -2661,7 +2537,6 @@
         "security"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A blockchain security firm that conducts audits in order to enhance the security of your dApp.",
       "logo": "/img/quantstamp.svg",
       "website": "https://quantstamp.com/",
@@ -2682,7 +2557,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A cross-chain DeFi operating system with a smart liquidity aggregator which enables traders.",
       "logo": "/img/reef.svg",
       "website": "https://reef.io/",
@@ -2703,7 +2577,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An‌ ‌open‌ ‌protocol‌ ‌that‌ ‌enables‌ ‌the‌ ‌movement‌ ‌of‌ ‌value‌ ‌between‌ ‌blockchains.‌ ‌",
       "logo": "/img/ren.svg",
       "website": "https://renproject.io/",
@@ -2724,7 +2597,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A multi-network, multi-dApp trading terminal.",
       "logo": "/img/rome-terminal.jpeg",
       "website": "https://rometerminal.io/",
@@ -2745,7 +2617,6 @@
         "bridge"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Enables the bridging infrastructure for contract level data flow across various blockchains.",
       "logo": "/img/router-protocol.svg",
       "website": "https://www.routerprotocol.com/",
@@ -2767,7 +2638,6 @@
         "enterprise"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Issuance and compliance platform for digital securities and SEC-registered transfer agents.",
       "logo": "/img/securitize.svg",
       "website": "https://securitize.io/",
@@ -2788,7 +2658,6 @@
         "payments"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A crypto e-commerce platform.",
       "logo": "/img/shopping-io.jpeg",
       "website": "https://shopping.io/",
@@ -2809,7 +2678,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A fault tolerant, secure environment focused on scalable production applications.",
       "logo": "/img/simba-chain.svg",
       "website": "https://simbachain.com/",
@@ -2830,7 +2698,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Enabling users to access cryptocurrencies and digital assets with fiat currencies.",
       "logo": "/img/simplex.svg",
       "website": "https://www.simplex.com/",
@@ -2851,7 +2718,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Combines multiple DeFi protocols to build interconnectedness, swap stablecoins and deposit liquidity.",
       "logo": "/img/snowball.svg",
       "website": "https://www.snowball.network/",
@@ -2872,7 +2738,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized cloud for deploying full-stack applications, blockchain privatenets and mainnet nodes.",
       "logo": "/img/stackos.png",
       "website": "https://www.home.stackos.io/",
@@ -2894,7 +2759,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A comprehensive, decentralized trading platform for the future of finance.",
       "logo": "/img/sushiswap.svg",
       "website": "https://sushi.com/",
@@ -2915,7 +2779,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A developer platform for teams and companies building innovative blockchain products.",
       "logo": "/img/tenderly.jpeg",
       "website": "https://tenderly.co/",
@@ -2937,7 +2800,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A global, fast and secure stablecoin.",
       "logo": "/img/tether.svg",
       "website": "https://tether.to/",
@@ -2958,7 +2820,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Mexico’s most popular soccer club.",
       "logo": "/img/the-club-deportivo-guadalajara.svg",
       "website": "https://www.chivasdecorazon.com.mx/nft/",
@@ -2979,7 +2840,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "The indexing and query layer of the decentralized web.",
       "logo": "/img/the-graph.svg",
       "website": "https://thegraph.com/en/",
@@ -3000,7 +2860,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A simple dashboard for DeFi.",
       "logo": "/img/tin-network.png",
       "website": "https://tin.network/en/dashboard",
@@ -3021,7 +2880,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A diversified NFT marketplace with a multi-platform product portfolio.",
       "logo": "/img/topps-nfts.svg",
       "website": "https://toppsnfts.com/",
@@ -3044,7 +2902,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "SDK to combine passwordless authentication with private key management.",
       "logo": "/img/torus.svg",
       "website": "https://toruswallet.io/",
@@ -3066,7 +2923,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A one-stop decentralized trading platform on Avalanche.",
       "logo": "/img/trader-joe.png",
       "website": "https://traderjoexyz.com/#/home",
@@ -3088,7 +2944,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A stablecoin that is 1:1 to the US dollar with live attestations and on-chain Proof of Reserves.",
       "logo": "/img/trueusd.svg",
       "website": "https://www.trusttoken.com/",
@@ -3109,7 +2964,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Professional support and guidance through the token launch process for top-tier projects.",
       "logo": "/img/trustswap.svg",
       "website": "https://trustswap.com/",
@@ -3130,7 +2984,6 @@
         "nft"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A decentralized multi-chain infrastructure platform focused on NFT’s.",
       "logo": "/img/unifty-io.svg",
       "website": "https://www.unifty.com/",
@@ -3151,7 +3004,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Merging bundled protection & a liquid secondary market with a multi-token model.",
       "logo": "/img/union.jpg",
       "website": "https://www.unn.finance/",
@@ -3174,7 +3026,6 @@
         "bot-dapp"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A fully scalable, automated trading assistant for ERC20 tokens.",
       "logo": "/img/velox.svg",
       "website": "https://velox.global/",
@@ -3195,7 +3046,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A provider of multi-blockchain wallet and NFT products.",
       "logo": "/img/venly.png",
       "website": "https://www.venly.io/",
@@ -3216,7 +3066,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Money flow between service providers, financial institutions and their customers.",
       "logo": "/img/verso-finance.png",
       "website": "https://verso.finance/",
@@ -3237,7 +3086,6 @@
         "exchange"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A crypto-asset broker providing retail and institutional investors with a turnkey solution to trade.",
       "logo": "/img/voyager.svg",
       "website": "https://www.investvoyager.com/",
@@ -3259,7 +3107,6 @@
         "tools"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A tool to explore Avalanche Network and to monitor individual node metrics.",
       "logo": "/img/vscout.svg",
       "website": "https://vscout.io/",
@@ -3282,7 +3129,6 @@
         "infrastructure"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A payments infrastructure provider in crypto.",
       "logo": "/img/wyre.svg",
       "website": "https://www.sendwyre.com/",
@@ -3304,7 +3150,6 @@
         "play-to-earn"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Play to earn crypto marketplace for in-game mining, farming and trading.",
       "logo": "/img/yay-games.png",
       "website": "https://play.yay.games/",
@@ -3326,7 +3171,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "DEX and NFT marketplace with royalties.",
       "logo": "/img/yetiswap.png",
       "website": "https://www.yetiswap.app/",
@@ -3347,7 +3191,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "An easy-to-use tool to earn more yield from DeFi farming on the Avalanche network.",
       "logo": "/img/yield-yak.png",
       "website": "https://yieldyak.com/",
@@ -3369,7 +3212,6 @@
         "defi"
       ],
       "status": "",
-      "contact": "",
       "highlight": "A licensed FinTech company that enables anyone to invest in decentralized finance.",
       "logo": "/img/yield.svg",
       "website": "https://www.yield.app/",
@@ -3390,7 +3232,6 @@
         "portfolio"
       ],
       "status": "",
-      "contact": "",
       "highlight": "Track all your DeFi portfolio from one place. Invest into the latest opportunities in open finance.",
       "logo": "/img/zapper.jpeg",
       "website": "https://zapper.fi/dashboard",
