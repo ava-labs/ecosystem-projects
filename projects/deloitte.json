@@ -1,9 +1,10 @@
 {
   "name": "Deloitte",
   "slug": "deloitte",
-  "tags": ["government"],
+  "tags": [
+    "government"
+  ],
   "status": "live",
-  "contact": "",
   "highlight": "The Close As You Go™ (CAYG) platform helps state and local government officials simplify and streamline disaster reimbursement applications to the FEMA",
   "logo": "/img/deloitte.png",
   "website": "https://www2.deloitte.com/us/en/pages/public-sector/solutions/fema-public-assistance-documentation.html",

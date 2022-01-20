@@ -1,9 +1,12 @@
 {
   "name": "Bitgo",
   "slug": "bitgo",
-  "tags": ["custody", "portfolio", "institutional"],
+  "tags": [
+    "custody",
+    "portfolio",
+    "institutional"
+  ],
   "status": "live",
-  "contact": "",
   "highlight": "Enables our clients to navigate the complex landscape of digital assets with a connected, compliant, and secure suite of solutions.",
   "logo": "/img/bitgo.webp",
   "website": "https://allianceblock.io/",

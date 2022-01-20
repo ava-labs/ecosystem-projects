@@ -10,18 +10,19 @@ const migrateFields = (item) => {
     twitter: 'twitterURL',
   };
 
-  const newField = ['contact', 'summary', 'docs', 'cmc', 'date', 'token'];
-  const deleteField = ['longSummary'];
-  Object.entries(fieldMapper).map(([dest, from]) => {
-    item[dest] = item[from];
-    delete item[from];
-  });
-  newField.forEach((name) => {
-    item[name] = '';
-  });
+  const newField = [];
+  const deleteField = ['contact'];
+  // Object.entries(fieldMapper).map(([dest, from]) => {
+  //   item[dest] = item[from];
+  //   delete item[from];
+  // });
+  // newField.forEach((name) => {
+  //   item[name] = '';
+  // });
   deleteField.forEach((name) => {
     delete item[name];
   });
+  return item;
 };
 
 const migrateTags = (item) => {
@@ -36,4 +37,4 @@ const migrateTags = (item) => {
   };
 };
 
-mapProjects(migrateTags);
+mapProjects(migrateFields);

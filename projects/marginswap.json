@@ -5,7 +5,6 @@
     "defi"
   ],
   "status": "",
-  "contact": "",
   "highlight": "Protocol that natively supports spot and cross margin swapping of assets on AMMs.",
   "logo": "/img/marginswap.svg",
   "website": "https://app.marginswap.exchange/swap",
