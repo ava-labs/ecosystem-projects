@@ -1,9 +1,12 @@
 {
   "name": "Fireblocks",
   "slug": "fireblocks",
-  "tags": ["custody", "portfolio", "institutional"],
+  "tags": [
+    "custody",
+    "portfolio",
+    "institutional"
+  ],
   "status": "live",
-  "contact": "",
   "highlight": "A leading provider of custody and settlement solutions for digital assets to more than 650 banks, hedge funds, and financial institutions.",
   "logo": "/img/fireblocks.jpeg",
   "website": "https://www.fireblocks.com/blog/avalanche-x-fireblocks/",

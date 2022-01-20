@@ -1,9 +1,10 @@
 {
   "name": "Mastercard",
   "slug": "mastercard",
-  "tags": ["enterprise"],
+  "tags": [
+    "enterprise"
+  ],
   "status": "live",
-  "contact": "",
   "highlight": "Connect your crypto start-up to our ecosystem of banks, merchants, partners and digital players across the globe.",
   "logo": "/img/mastercard.jpeg",
   "website": "https://developer.mastercard.com/programs/start-path-crypto/",
