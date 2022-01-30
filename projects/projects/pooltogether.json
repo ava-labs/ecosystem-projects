@@ -1,0 +1,23 @@
+{
+  "name": "PoolTogether",
+  "slug": "pooltogether",
+  "tags": [
+    "defi",
+    "dao",
+    "dapp",
+    "infrastructure"
+  ],
+  "status": "live",
+  "highlight": "PoolTogether is an open source and decentralized protocol for Prize-Linked Savings. Save, pool funds, & win prizes together! 🌊🏆",
+  "logo": "/img/trader-joe.png",
+  "website": "https://app.pooltogether.com",
+  "twitter": "https://twitter.com/pooltogether_",
+  "telegram": "https://t.me/PoolTogetherTelegram",
+  "github": "https://github.com/pooltogether/",
+  "discord": "https://pooltogether.com/discord/",
+  "summary": "",
+  "docs": "https://docs.pooltogether.com",
+  "cmc": "",
+  "date": "2021-12-21",
+  "token": ""
+}
