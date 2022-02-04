@@ -855,6 +855,26 @@
       "token": ""
     },
     {
+      "name": "Chainstack",
+      "slug": "chainstack",
+      "date": "2022-02-04",
+      "highlight": "Managed blockchain services making it simple to launch and scale decentralized networks and apps.",
+      "logo": "/img/chainstack.png",
+      "tags": [
+        "infrastructure"
+      ],
+      "status": "live",
+      "website": "https://chainstack.com/",
+      "twitter": "https://twitter.com/ChainstackHQ",
+      "summary": "",
+      "telegram": "https://t.me/chainstack",
+      "discord": "https://discord.gg/Cymtg2f7pX",
+      "docs": "",
+      "github": "",
+      "token": "",
+      "cmc": ""
+    },
+    {
       "name": "ChartEx",
       "slug": "chartex",
       "tags": [
