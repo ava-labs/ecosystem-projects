@@ -1,0 +1,19 @@
+{
+  "name": "TaleCraft",
+  "slug": "talecraft",
+  "date": "2022-02-04",
+  "highlight": "TaleCraft is a PVP, play-to-earn card board game, driven by a unique mint and craft mechanic.",
+  "logo": "/img/talecraft.png",
+  "tags": ["culture", "gaming"],
+  "status": "live",
+  "website": "https://talecraft.io",
+  "twitter": "https://twitter.com/talecraftio",
+  "summary": "",
+  "telegram": "https://t.me/talecraft",
+  "discord": "https://discord.com/invite/dYjRtRqYK6",
+  "docs":"",
+  "github":"",
+  "token":"",
+  "cmc":""
+  
+}
