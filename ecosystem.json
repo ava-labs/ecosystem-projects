@@ -854,6 +854,29 @@
       "token": ""
     },
     {
+      "name": "Chikn",
+      "slug": "chikn",
+      "date": "2022--02-04",
+      "highlight": "10,000 algorithmically generated, unique chikn NFTs that lay $egg",
+      "logo": "/img/chikn.png",
+      "tags": [
+        "culture",
+        "gaming",
+        "play-to-earn",
+        "nft"
+      ],
+      "status": "live",
+      "website": "https://chikn.farm/",
+      "twitter": "https://twitter.com/chikn_nft",
+      "summary": "",
+      "telegram": "",
+      "discord": "https://discord.gg/9znHkBYjra",
+      "docs": "",
+      "github": "",
+      "token": "",
+      "cmc": ""
+    },
+    {
       "name": "Coin98 Wallet",
       "slug": "coin98-wallet",
       "tags": [
