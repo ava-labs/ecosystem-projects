@@ -161,6 +161,27 @@
       "token": ""
     },
     {
+      "name": "Atlantis World",
+      "slug": "atlantisworld",
+      "date": "2022-02-04",
+      "highlight": "Building the Web3 social metaverse by connecting Web3 with social, gaming and education in one lightweight virtual world that's accessible to everybody.",
+      "logo": "/img/atlantisworld.png",
+      "tags": [
+        "culture",
+        "gaming"
+      ],
+      "status": "live",
+      "website": "http://atlantis.world",
+      "twitter": "https://twitter.com/atlantis0x",
+      "summary": "",
+      "telegram": "https://t.me/atlwrld",
+      "discord": "https://discord.gg/atlantisworld",
+      "docs": "",
+      "github": "",
+      "token": "",
+      "cmc": ""
+    },
+    {
       "name": "Avado",
       "slug": "avado",
       "tags": [
