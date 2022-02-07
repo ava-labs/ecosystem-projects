@@ -1,0 +1,20 @@
+{
+  "name": "Cook Finance",
+  "slug": "cook-finance",
+  "tags": [
+    "defi"
+  ],
+  "status": "live",
+    "highlight": "Defi index and structured strategy execution platform",
+    "logo": "/img/cook-finance.png",
+    "website": "https://app.cook.finance/",
+    "twitter": "https://twitter.com/cook_finance",
+    "telegram": "https://t.me/cook_english",
+    "github": "https://github.com/CookFinance",
+    "discord": "https://discord.com/invite/YQtzkrUSuh",
+    "summary": "Cook Finance is a non custodial protocol that provides an on-chain composable index creation, portfolio management and structured strategy execution platform. It operates in both persmissionedless and permissioned environments according to the participants’ needs. Through holding of index tokens the participants can access to DeFi index yield in an efficient manner, and token holders maintain the ability to fully redeem investment.",
+    "docs": "",
+    "cmc": "",
+    "date": "",
+    "token": ""
+}
