@@ -1,0 +1,13 @@
+{
+  "name": "LetsExchange",
+  "slug": "letsexchange",
+  "date": "2021-03-01",
+  "highlight": "LetsExchange is a one-stop multicurrency exchange service free of registration, limits, and complications.",
+  "logo": "/img/lets-exchange.png",
+  "tags": ["exchange","trading","multi-chain"],
+  "status": "live",
+  "website": "https://letsexchange.io/",
+  "twitter": "https://twitter.com/letsexchange_io",
+  "summary": "LetsExchange is a one-stop multicurrency exchange service free of registration, limits, and complications. Built by a team of crypto visionaries with 10+ years of experience in the blockchain space and fintech, LetsExchange saves your time at each step of a crypto swap and amplifies your trading revenue.",
+  "telegram": "https://t.me/letsexchange_io"
+}
