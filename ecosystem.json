@@ -861,7 +861,8 @@
       "highlight": "Managed blockchain services making it simple to launch and scale decentralized networks and apps.",
       "logo": "/img/chainstack.png",
       "tags": [
-        "infrastructure"
+        "infrastructure",
+        "nodes"
       ],
       "status": "live",
       "website": "https://chainstack.com/",
