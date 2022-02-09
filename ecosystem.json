@@ -1384,6 +1384,26 @@
       "token": ""
     },
     {
+      "name": "Ethernal",
+      "slug": "ethernal",
+      "tags": [
+        "tools"
+      ],
+      "status": "live",
+      "highlight": "Open-soure block explorer for private EVM-based chains",
+      "logo": "/img/ethernal.png",
+      "website": "https://www.tryethernal.com",
+      "twitter": "https://twitter.com/tryethernal",
+      "telegram": "https://t.me/antoinedc",
+      "github": "https://github.com/tryethernal",
+      "discord": "https://discord.gg/jEAprf45jj",
+      "summary": "Block explorer that can connect to any chain, locals (Hardhat/Ganache) or remote. Also provide some tooling such as automatic UI generation for contracts, transaction tracing, balance changes between blocks, token transfers display, storage reading, account impersonification.",
+      "docs": "https://doc.tryethernal.com",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Figment Network",
       "slug": "figment-network",
       "tags": [
