@@ -1283,6 +1283,27 @@
       "token": ""
     },
     {
+      "name": "Domi Online",
+      "slug": "domi-online",
+      "date": "2021-12-15",
+      "highlight": "Domi Online is a play to earn 3D Blockchain MMORPG underpinned by NFTs.",
+      "logo": "/img/domi-online.png",
+      "tags": [
+        "gaming",
+        "defi",
+        "multi-chain"
+      ],
+      "status": "live",
+      "website": "https://domionline.io/",
+      "twitter": "https://twitter.com/domionline",
+      "summary": "Domi Online is a play to earn 3D Blockchain MMORPG underpinned by NFTs. Assembled a team of some of the best in the buisness with our lead developer coming from the worlds biggest free MMORPG 'Runescape', blockchain experts from Chainguardians, sound and SFX by Pellek (League of legends, Magic: The gatering, power rangers, path of exile, polkeapets and more. Starting this journey with a fully completed game design, fully assembled team and a working, beautiful functioning game!",
+      "telegram": "https://t.me/domionlineofficial",
+      "discord": "https://discord.com/invite/mbUF8jgR8Z",
+      "docs": "https://domionline.io/Whitepaper_DomiOnline.pdf",
+      "token": "DOMI",
+      "cmc": "https://coinmarketcap.com/currencies/domi-online/"
+    },
+    {
       "name": "DSLA Protocol",
       "slug": "dsla-protocol",
       "tags": [
