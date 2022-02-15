@@ -1,0 +1,17 @@
+{
+  "name": "Haku Swap",
+  "slug": "hakuswap",
+  "date": "2022-02-07",
+  "highlight": "HakuSwap is a crypto world for users to trade, earn, and game. It is the premier choice for projects on Avalanche with features including AMM, NFT, and GameFi..",
+  "logo": "/img/hakuswap.png",
+  "tags": ["amm","dex","nft","play-to-earn"],
+  "status": "live",
+  "website": "https://hakuswap.com/",
+  "twitter": "https://twitter.com/hakuswap",
+  "summary": "HakuSwap is a crypto world for users to trade, earn, & game on Avalanche C-Chain powered by the HAKU token",
+  "telegram": "https://t.me/hakuswap",
+  "discord": "http://discord.gg/hakuswap",
+  "docs":"https://docs.hakuswap.com/",
+  "token":"HAKU",
+  "cmc":"https://coinmarketcap.com/currencies/hakuswap/"  
+}
