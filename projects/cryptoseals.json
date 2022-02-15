@@ -1,0 +1,23 @@
+{
+  "name": "CryptoSeals",
+  "slug": "cryptoseals",
+  "tags": [
+    "art",
+    "nft",
+    "gaming",
+    "play-to-earn"
+  ],
+  "status": "live",
+  "highlight": "CryptoSeals is the first generative NFT collection built on Avalanche. P2E browser game is coming soon!",
+  "logo": "/img/cryptoseals.png",
+  "website": "https://cryptoseals.art/",
+  "twitter": "https://cryptoseals.art/",
+  "telegram": "https://cryptoseals.art/",
+  "github": "https://github.com/Cryptoseals",
+  "discord": "https://discord.gg/UC34aJYdh9",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": "0x0540e4ee0c5cdba347c2f0e011acf8651bb70eb9"
+}
