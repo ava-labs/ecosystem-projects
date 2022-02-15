@@ -1,0 +1,26 @@
+{
+  "name": "XP.network NFT Multi-Chain Bridge",
+  "slug": "xp-network-bridge",
+  "date": "2021-10-31",
+  "highlight": "XP.network's official NFT bridge, providing a fast, low cost, and secure means to move NFTs between Avalanche & 15+ EVM & Non-EVM chains.",
+  "logo": "/img/XPlogo.png",
+  "tags": [
+    "nft",
+    "bridge",
+    "multi-chain",
+    "dapp",
+    "api",
+    "gaming",
+    "tools"
+  ],
+  "status": "live",
+  "website": "https://bridge.xp.network/",
+  "twitter": "https://twitter.com/xpnetwork_",
+  "summary": "The Biggest & safest NFT Multi-Chain Bridge, conecting 15+ EVM & Non-EVM chains.",
+  "telegram": "https://t.me/xp_network",
+  "discord": "https://discord.gg/g3vkcsmd38",
+  "docs": "https://docs.xp.network/",
+  "github": "https://github.com/xp-network/",
+  "token": "XPNET",
+  "cmc": "https://coinmarketcap.com/currencies/xp-network/"
+}
