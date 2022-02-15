@@ -1670,6 +1670,27 @@
       "token": ""
     },
     {
+      "name": "Heroes Chained",
+      "slug": "heroes-chained",
+      "tags": [
+        "nft",
+        "defi"
+      ],
+      "status": "live",
+      "highlight": "Heroes Chained (HC) is a fantasy action RPG game where the player becomes a Guild Master and gathers heroes.",
+      "logo": "/img/heroes-chained.png",
+      "website": "https://heroeschained.com/",
+      "twitter": "https://twitter.com/HeroesChained",
+      "telegram": "https://t.me/HeroesChainedOfficial",
+      "github": "",
+      "discord": "",
+      "summary": "Heroes Chained (HC) is a fantasy action RPG game where the player becomes a Guild Master and gathers heroes. Every item valuable in the game is an NFT item. HeC is the only token of the game. It is both the in game currency and the governance token. HeC supply is fixed at 100,000,000 tokens.",
+      "docs": "",
+      "cmc": "",
+      "date": "2022-01-14",
+      "token": ""
+    },
+    {
       "name": "Hodo Network",
       "slug": "hodo-network",
       "tags": [
