@@ -1,0 +1,22 @@
+{
+  "name": "Seed Hub",
+  "slug": "seed-hub",
+  "tags": [
+    "defi",
+    "ecosystem",
+    "tools"
+  ],
+  "status": "",
+  "highlight": "Multichain Toolbox for Blockchain Crowdfunding",
+  "logo": "/img/seedhub.png",
+  "website": "https://seedhub.network/",
+  "twitter": "https://twitter.com/seedhubnetwork",
+  "telegram": "http://t.me/seedhub",
+  "github": "https://github.com/SeedHubNetwork/",
+  "discord": "",
+  "summary": "",
+  "docs": "https://docs.seedhub.network/",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
