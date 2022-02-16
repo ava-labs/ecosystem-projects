@@ -1,6 +1,26 @@
 {
   "projects": [
     {
+      "name": "1inch",
+      "slug": "1inch",
+      "date": "2022-02-16",
+      "highlight": "A distributed network for various protocols, enabling the most protected operations in DeFi",
+      "logo": "/img/1inch.png",
+      "tags": [
+        "defi"
+      ],
+      "status": "live",
+      "website": "https://app.1inch.io/#/43114/swap/AVAX/USDT.e",
+      "twitter": "https://twitter.com/1inch",
+      "summary": "",
+      "telegram": "https://t.me/OneInchNetworkNews",
+      "discord": "https://discord.com/invite/1inch",
+      "docs": "",
+      "github": "https://github.com/1inch",
+      "token": "",
+      "cmc": ""
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "tags": [
