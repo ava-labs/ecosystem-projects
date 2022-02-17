@@ -1,0 +1,19 @@
+{
+  "name": "Arweave",
+  "slug": "arweave",
+  "date": "2021-01-01",
+  "highlight": "With the Arweave-Avalanche integration, you can now pay for Arweave storage in AVAX.",
+  "logo": "/img/arweave.svg",
+  "tags": ["bridge","multi-chain","nft", "art"],
+  "status": "live",
+  "website": "https://arweave.org/",
+  "twitter": "https://twitter.com/arweaveteam",
+  "summary": "Arweave storage is now natively available on Avalanche. Users can now pay for permanent storage using Avalanche wallets and AVAX tokens. This opens a new design space for building truly decentralized applications on Avalanche, where everything from the UI to the smart contracts to the database is decentralized. Happy building!",
+  "telegram": "https://t.me/arweave",
+  "discord": "https://discord.gg/bWPEgSAc",
+  "docs":"https://www.arweave.org/build",
+  "github":"https://github.com/ArweaveTeam/arweave",
+  "token":"AR",
+  "cmc":"https://coinmarketcap.com/currencies/arweave/"
+  
+}
