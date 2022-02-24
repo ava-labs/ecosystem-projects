@@ -1100,6 +1100,28 @@
       "token": ""
     },
     {
+      "name": "CryptoMKT",
+      "slug": "cryptomkt",
+      "date": "2016-01-01",
+      "highlight": "The best platform to buy cryptocurrencies in Latin America",
+      "logo": "/img/cryptomkt.png",
+      "tags": [
+        "exchange",
+        "security",
+        "wallet"
+      ],
+      "status": "live",
+      "website": "https://www.cryptomkt.com/",
+      "twitter": "https://twitter.com/CryptoMKT",
+      "summary": "",
+      "telegram": "https://t.me/CryptoMKT_Latam",
+      "discord": "",
+      "docs": "",
+      "github": "",
+      "token": "",
+      "cmc": ""
+    },
+    {
       "name": "CryptoRefills",
       "slug": "cryptorefills",
       "tags": [
