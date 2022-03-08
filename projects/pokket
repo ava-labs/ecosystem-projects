@@ -1,0 +1,21 @@
+{
+  "name": "Pokket",
+  "slug": "pokket",
+  "tags": [
+    "Portfolio",
+    "Wealth Management"
+  ],
+  "status": "live",
+  "highlight": "A financial platform provides fixed deposits for AVAX HODL.",
+  "logo": "/img/pokket.svg",
+  "website": "https://pokket.com/",
+  "twitter": "https://twitter.com/POKKETOfficial",
+  "telegram": "",
+  "github": "",
+  "discord": "https://discord.gg/d32Gggq6",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "2019-07-01",
+  "token": ""
+}
