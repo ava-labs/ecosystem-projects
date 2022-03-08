@@ -1,0 +1,14 @@
+{
+  "name": "Token Tool by Bitbond",
+  "slug": "token-tool",
+  "date": "2022-02-28",
+  "highlight": "Create, manage and distribute tokens effortlessly on Avalanche",
+  "logo": "/img/token-tool.png",
+  "tags": ["tools","digital securities","launchpads","multi-chain"],
+  "status": "live",
+  "website": "https://tokentool.bitbond.com/",
+  "twitter": "https://twitter.com/bitbond",
+  "summary": "Token Tool by Bitbond enables users to effortlessly configure, launch and manage smart contracts for various tokens across leading EVM chains (Ethereum, Polygon, Avalanche, BNB Chain). Features include minting/burning, managing contract ownership. multisend, creating liquidity pools and more. Token Tool offers wallet connectivity for Metamask, Wallet Connect, Coinbase Wallet and Ledger.",
+  "telegram": "https://t.me/TokenToolBitbond",
+  "docs":"https://docs.bitbond.com/asset-tokenization-suite/token-tool/"
+}
