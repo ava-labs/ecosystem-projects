@@ -1,0 +1,19 @@
+{
+  "name": "DEXKIT",
+  "slug": "dexkit-defi",
+  "date": "2022-03-15",
+  "highlight": "DEXKIT provides Open Source DeFi tools for everyone.",
+  "logo": "/img/dexkit.png",
+  "tags": ["dashboard","defi","tools","gaming"],
+  "status": "live",
+  "website": "https://dexkit.com/",
+  "twitter": "https://twitter.com/dexkit",
+  "summary": "DEXKIT is aiming to develop all kind of tools for DeFi, including wallet management, multi-chain swap solutions and now developing blockchain games using crypto data feeds.",
+  "telegram": "https://t.me/dexkit",
+  "discord": "https://discord.com/invite/GJCRu4CYFH",
+  "docs":"https://dexkit.com/faq/",
+  "github":"https://github.com/DexKit",
+  "token":"KIT",
+  "cmc":"https://coinmarketcap.com/currencies/dexkit/"
+  
+}
