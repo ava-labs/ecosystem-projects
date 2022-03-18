@@ -1,0 +1,20 @@
+{
+  "name": "Wrapped",
+  "date": "2021-10-01",
+  "slug": "wrapped",
+  "tags": [
+    "bridge",
+    "enterprise",
+    "institutional",
+    "multi-chain"
+  ],
+  "status": "live",
+  "highlight": "A cross-chain institutional bridge, designed for high-performance and speed",
+  "logo": "/img/wrapped.svg",
+  "website": "https://wrapped.com",
+  "twitter": "https://twitter.com/wrappedfi",
+  "telegram": "http://t.me/wrappedfi",
+  "github": "https://github.com/wrappedfi",
+  "summary": "Wrapped.com lets investors use their digital assets to lend, borrow, and trade on all major DeFi platforms. Each wrapped asset is fully-collateralized and held with a qualified custodian.",
+  "docs": "https://docs.wrapped.com/"
+}
