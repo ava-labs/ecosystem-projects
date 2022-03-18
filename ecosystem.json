@@ -2907,6 +2907,30 @@
       "token": ""
     },
     {
+      "name": "ROCO",
+      "slug": "ROCO",
+      "date": "2022-02-16",
+      "highlight": "ROCO is a decentralized GAMEFI platform which provide blockchain services to game developers, content creators and player communities through the blockchain network",
+      "logo": "/img/roco.png",
+      "tags": [
+        "gaming",
+        "defi",
+        "dapp",
+        "nft",
+        "launchpads"
+      ],
+      "status": "live",
+      "website": "https://roco.finance",
+      "twitter": "https://twitter.com/rocofinance",
+      "summary": "",
+      "telegram": "https://t.me/rocofinance",
+      "discord": "https://discord.com/invite/Fxbf4PVtua",
+      "docs": "https://docs.roco.finance/rocofinance/",
+      "github": "https://github.com/rocofinance",
+      "token": "https://snowtrace.io/token/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+      "cmc": "https://coinmarketcap.com/currencies/roco-finance/"
+    },
+    {
       "name": "Rome Terminal",
       "slug": "rome-terminal",
       "tags": [
