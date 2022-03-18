@@ -1,0 +1,16 @@
+{
+  "name": "Colony",
+  "slug": "colony",
+  "date": "2022-03-16",
+  "highlight": "Community-driven Avalanche ecosystem accelerator.",
+  "logo": "/img/colony.svg",
+  "tags": ["accelerator","dao","ecosystem","funds"],
+  "status": "live",
+  "website": "https://www.colonylab.io/",
+  "twitter": "https://twitter.com/Colonylab",
+  "summary": "Colony is a Community-driven Avalanche ecosystem accelerator, powered by Colony’s CLY token. In simple terms, Colony: Provides early-stage funding to Avalanche built projects, Provides Liquidity to existing Avalanche DeFi protocols ,Purchases and stakes Avalanche (AVAX) and upcoming subnets tokens, Purchases selected Avalanche projects to form an Index. CLY token holders receive: Full governance — determine the distribution and allocation of funds, Avalanche staking rewards, Liquidity provider rewards ,Tokens via airdrop of early-stage Colony funded projects",
+  "telegram": "https://t.me/colonyavax",
+  "github":"https://github.com/ColonyLab/ColonyAppV1",
+  "token":"CLY",
+  "cmc":"https://coinmarketcap.com/currencies/colony/"
+}
