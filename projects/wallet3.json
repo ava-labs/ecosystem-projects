@@ -1,0 +1,20 @@
+{
+  "name": "Wallet 3",
+  "slug": "wallet3",
+  "tags": [
+    "wallet"
+  ],
+  "status": "",
+  "highlight": "A Secure Wallet with built-in Web3 browser, supporting multi-chain Tokens and NFTs.",
+  "logo": "/img/wallet3.svg",
+  "website": "https://wallet3.io/",
+  "twitter": "https://twitter.com/wallet3_io",
+  "telegram": "",
+  "github": "https://github.com/wallet3",
+  "discord": "",
+  "summary": "",
+  "docs": "https://docs.wallet3.io/",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
