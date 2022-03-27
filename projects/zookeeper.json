@@ -1,0 +1,19 @@
+{
+  "name": "ZooKeeper",
+  "slug": "zookeeper",
+  "date": "2022-04-03",
+  "highlight": "ZooKeeper is an innovative dApp using ZooNFTs to boost liquidity mining. It was created in order to fuel the ZooEcosystem with liquidity.",
+  "logo": "/img/zookeeper.svg",
+  "tags": ["defi","gaming","multi-chain","yield farming"],
+  "status": "coming soon",
+  "website": "https://www.zookeeper.finance",
+  "twitter": "https://twitter.com/ZooEcosystem",
+  "summary": "ZooKeeper is an innovative dApp using ZooNFTs to boost liquidity mining. It was created in order to fuel the ZooEcosystem with liquidity.",
+  "telegram": "https://t.me/ZooEcosystem",
+  "discord": "https://discord.gg/ZooEcosystem",
+  "docs":"https://docs.zookeeper.finance",
+  "github":"https://github.com/zoofarming",
+  "token":"ZOO",
+  "cmc":"https://coinmarketcap.com/currencies/zookeeper/"
+  
+}
