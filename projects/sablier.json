@@ -1,0 +1,23 @@
+{
+  "name": "Sablier",
+  "slug": "sablier",
+  "date": "2022-03-29",
+  "highlight": "The protocol for real-time finance.",
+  "logo": "/img/sablier.svg",
+  "tags": [
+    "defi",
+	"payments",
+	"multi-chain",
+	"dapp"
+  ],
+  "status": "live",
+  "website": "https://sablier.finance",
+  "twitter": "https://twitter.com/sablierhq",
+  "summary": "",
+  "telegram": "",
+  "discord": "https://discord.gg/bSwRCwWRsT",
+  "docs": "https://docs.sablier.finance",
+  "github": "https://github.com/sablierhq",
+  "token": "",
+  "cmc": ""
+}
