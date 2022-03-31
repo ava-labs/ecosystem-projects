@@ -1,0 +1,23 @@
+{
+    "name": "Lootex",
+    "slug": "lootex",
+    "date": "2022-03-31",
+    "highlight": "Lootex is a multi-chain game asset marketplace for the Metaverse. There are 500+ games listed on Lootex. players can easily browse and trade the most popular game assets.",
+    "logo": "/img/lootex-logo.svg",
+    "tags": [
+        "gaming",
+        "launchpads",
+        "nft",
+        "marketplace"
+    ],
+    "status": "live",
+    "website": "https://lootex.io/",
+    "twitter": "https://twitter.com/lootexio",
+    "summary": "Our platform is designed with an array of tools to ensure that gamers have the best purchasing experience. Lootex provides a fraud-free, cross-blockchain ecosystem that allows for transparent trading powered by smart contracts. Game developers and gamers alike can design and build their own branded stores to sell the rare items that they collect. If you are interested in GameFi, play-to-earn games, or the Metaverse, Lootex is the place to be.",
+    "telegram": "https://t.me/lootex",
+    "discord": "https://discord.gg/mbKBARJRBR",
+    "docs": "https://portal.lootex.io/en/support/home",
+    "github": "https://github.com/lootex-io",
+    "token": "LOOT",
+    "cmc:": "https://coinmarketcap.com/zh-tw/currencies/lootex/"
+}
