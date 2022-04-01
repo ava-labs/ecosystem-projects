@@ -1,0 +1,18 @@
+{
+  "name": "inSure DeFi",
+  "slug": "insure-defi",
+  "date": "2018-12-15",
+  "highlight": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations.",
+  "logo": "/img/logo-grey-circle-80.png",
+  "tags": ["dao","defi","ecosystem","infrastructure"],
+  "status": "live",
+  "website": "https://insuretoken.net",
+  "twitter": "https://twitter.com/InsureToken",
+  "summary": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations.  inSure DeFi Ecosystem is DAO-based and community-governed, ensuring all matters are voted on by community members. Generous staking rewards for contributors help incentivize the Liquidity Pool depth - boosting the stability of SURE tokens. The community funds are continuously distributed, meaning, capital is reinvested and ecosystem stability is ensured. inSure DeFi underwrites Centralized Exchange asset risks as well as NFT, DeFi, and Metaverse ecosystem risks over multiple blockchains.",
+  "telegram": "https://t.me/insuredefi",
+  "docs":"https://insuretoken.net/whitepaper.html",
+  "github":"https://github.com/inSureToken",
+  "token":"SURE",
+  "cmc":"https://coinmarketcap.com/currencies/insure"
+  
+}
