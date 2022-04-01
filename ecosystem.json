@@ -734,6 +734,21 @@
       "token": ""
     },
     {
+      "name": "Bridge Wallet",
+      "slug": "bridge-wallet",
+      "date": "2020-01-01",
+      "highlight": "The ultimate mobile wallet for Avalanche",
+      "logo": "/img/bridge-wallet.svg",
+      "tags": [
+        "wallet"
+      ],
+      "status": "live",
+      "website": "https://www.mtpelerin.com/bridge-wallet/avalanche-wallet",
+      "twitter": "https://twitter.com/mtpelerin",
+      "summary": "Bridge Wallet is the ultimate self-custodial mobile app to explore and manage Avalanche assets on your phone. Buy AVAX and USDC directly on Avalanche C-Chain, exchange tokens on ParaSwap and withdraw funds in 20+ currencies back on your bank account in 171 countries.",
+      "telegram": "https://t.me/mtpelerinchat"
+    },
+    {
       "name": "BtcTurk",
       "slug": "btcturk",
       "tags": [
@@ -2361,6 +2376,26 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Mt Pelerin",
+      "slug": "mtpelerin",
+      "date": "2018-09-27",
+      "highlight": "Your crypto-fiat gateway for Avalanche",
+      "logo": "/img/mtpelerin.svg",
+      "tags": [
+        "fiat-ramp",
+        "exchange"
+      ],
+      "status": "live",
+      "website": "https://www.mtpelerin.com/",
+      "twitter": "https://twitter.com/mtpelerin",
+      "summary": "Buy AVAX and USDC directly on your own Avalanche wallet in minutes, no KYC required. Cash them out from your wallet and withdraw funds in 20+ currencies on your bank account in 171 countries. Get the live market rates, the lowest fees and no hidden costs. Integrate our crypto-fiat gateway to your website or mobile app in a few clicks. Mt Pelerin is an authorized financial intermediary regulated and audited in Switzerland.",
+      "telegram": "https://t.me/mtpelerinchat",
+      "docs": "https://developers.mtpelerin.com/",
+      "github": "https://github.com/MtPelerin",
+      "token": "MPS",
+      "cmc": "https://www.coingecko.com/en/coins/mt-pelerin-shares"
     },
     {
       "name": "MyCointainer",
