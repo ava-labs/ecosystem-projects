@@ -1,0 +1,19 @@
+{
+  "name": "DuoCash",
+  "slug": "duocash",
+  "date": "2022-04-02",
+  "highlight": "Next generation open-source and trustless asset lockers.",
+  "logo": "/img/duocash.jpg",
+  "tags": [
+    "defi",
+    "nft",
+    "multi-chain"
+  ],
+  "status": "live",
+  "website": "http://duo.cash/",
+  "twitter": "https://twitter.com/duocash",
+  "summary": "An open-source tool to lock and tokenize assets. Timelock your tokens, NFTs and ownership of contracts. Ownership is managed by NFTs, allowing you to sell your locked assets and/or ownership of contracts on any marketplace.",
+  "telegram": "https://t.me/duo_cash",
+  "docs": "https://docs.duo.cash/",
+  "github": "https://github.com/duocash"
+}
