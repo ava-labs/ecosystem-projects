@@ -1,0 +1,17 @@
+{
+  "name": "Blackbullswap Finance",
+  "slug": "blackbullswap-finance",
+  "date": "2022-04-06",
+  "highlight": "Earn tokens in Farms, Pools and Staking. Your AMM on Avalanche C-Chain.",
+  "logo": "/img/blackbullswap-finance.png",
+  "tags": ["defi","dex","yield farming"],
+  "status": "live",
+  "website": "https://blackbullswap.finance/",
+  "twitter": "https://twitter.com/blackbullswapB",
+  "summary": "Blackbullswap is a liquidity acquisition yield farm and AMM decentralized exchange running on Avalanche C-Chain with lots of unique and creative features that let you earn and win.",
+  "telegram": "https://t.me/blackbullswap",
+  "discord": "https://discord.com/invite/7WgMugV69u/",
+  "docs":"https://docs.blackbullswap.finance/",
+  "github":"https://github.com/blackbullswap",
+  "token":"BULL"  
+}
