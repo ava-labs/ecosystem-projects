@@ -1,0 +1,17 @@
+{
+  "name": "Futureswap",
+  "slug": "avalanche-futureswap-dex",
+  "date": "2022-04-26",
+  "highlight": "Futureswap, a decentralized, permissionless, AMM-based leveraged trading protocol offers trading on Avalanche through the Trader Joe AMM.",
+  "logo": "/img/FutureswapAvalancheLogo.png",
+  "tags": ["trading","dex","defi","swap"],
+  "status": "coming soon",
+  "website": "https://www.futureswap.com",
+  "twitter": "https://twitter.com/futureswapx",
+  "summary": "Futureswap, the first decentralized, AMM-based trading protocol that aims to offer leverage on any AMM-backed pair, now expands the exchange’s presence with version 4.1 onto Avalanche using the Trader Joe AMM with the JOE-USDC pair, allowing traders to earn $FST and $AVAX rewards simultaneously. Starting with $JOE, Futureswap is working to onboard new pairs from the Avalanche network, while staying composable and permissionless.",
+  "discord": "https://discord.gg/futureswap",
+  "docs":"https://docs.futureswap.com",
+  "github":"https://github.com/futureswap",
+  "token":"FST",
+  "cmc":"https://coinmarketcap.com/currencies/futureswap/"
+}
