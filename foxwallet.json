@@ -1,3 +1,4 @@
+{
   "name": "FoxWallet",
   "slug": "foxwallet",
   "date": "2021-11-15",
@@ -11,4 +12,5 @@
   "telegram": "https://t.me/FoxWallet_EN",
   "discord": "https://discord.com/invite/JVjVbe3Zth",
   "docs":"https://hc.foxwallet.com/docs",
-  "github":"https://github.com/madfoxoO/FoxWallet#foxwallet"
+  "github":"https://github.com/madfoxoO/FoxWallet#foxwallet",
+}
