@@ -1098,6 +1098,29 @@
       "token": ""
     },
     {
+      "name": "Copper Platform",
+      "slug": "copper-platform",
+      "tags": [
+        "defi",
+        "launchpad",
+        "infrastructure",
+        "multichain"
+      ],
+      "status": "live",
+      "highlight": "A platform for open, transparent, and user-friendly participation in Liquidity Bootstrapping Pools.",
+      "logo": "/img/copper-platform.png",
+      "website": "https://copperlaunch.com/",
+      "twitter": "https://twitter.com/copperplatform",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.alchemist.wtf",
+      "summary": "Copper is an open, transparent, and user-friendly platform for interacting with Liquidity Bootstrapping Pools (LBP), an innovative method that allows the market to determine the fair price of a token. Copper's key features enable price discovery, permissionless participation, fair distribution, capital efficiency, while also preventing sniper bots or whales from dominating an LBP. No gas wars, no whitelists, no allocation games.",
+      "docs": "https://docs.alchemist.wtf/copper",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Copper",
       "slug": "copper",
       "tags": [
@@ -1938,6 +1961,29 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Imperium Empires",
+      "slug": "imperium-empires",
+      "date": "2021-10-03",
+      "highlight": "AAA-quality MMORTS space metaverse on Avalanche, built by accomplished game devs with 10+ yrs experience. It revolutionizes blockchain games through high quality graphics and gameplay, well-thought-out tokenomics, team-to-earn guild mechanics and deep DeFi integration.",
+      "logo": "/img/imperium-empires.svg",
+      "tags": [
+        "avalanche native",
+        "gaming",
+        "nft",
+        "play-to-earn"
+      ],
+      "status": "coming soon",
+      "website": "https://imperiumempires.com/",
+      "twitter": "https://twitter.com/avalancheavax",
+      "summary": "Imperium Empires is the first AAA-quality MMORTS space metaverse on Avalanche, built by accomplished game devs with 10+ yrs experience. Funded by top-tier VCs such as GBV Capital and Three Arrows Capital, Imperium Empires is set to revolutionize blockchain gaming through its AAA-quality graphics and gameplay, well-thought-out tokenomics design, guild mechanics and deep DeFi integration. Imperium Empires solves 4 major problems commonly seen in other blockchain games: (i) low-quality graphics and limited gameplay - simply put, no fun for play-to-earn; (ii) hyperinflationary and unsustainable tokenomics - with no NFT burn mechanisms, NFT supply inflates exponentially through breeding, so play-to-earn rewards drain fast and collapse as the number of players grows; (iii) lack of guild-based gameplay that bonds guild members together and retain players in the long term; and (iv) lack of deep DeFi integration except for liquidity-mining-styled single sided staking.",
+      "telegram": "https://t.me/ImperiumEmpiresofficial",
+      "discord": "http://discord.gg/ImperiumEmpires",
+      "docs": "https://docs.imperiumempires.com/",
+      "github": "",
+      "token": "IME",
+      "cmc": "https://coinmarketcap.com/currencies/imperium-empires/"
     },
     {
       "name": "Injective Protocol",
