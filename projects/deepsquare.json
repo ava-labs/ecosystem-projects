@@ -1,0 +1,15 @@
+{
+  "name": "DeepSquare",
+  "slug": "deepsquare",
+  "date": "2022-03-16",
+  "highlight": "An ecosystem to provide Web2, Web3, dApps and High Performance Computing a true decentralised sustainable enterprise class cloud as an alternative to centralised large-tech.",
+  "logo": "/img/deepsquare.png",
+  "tags": [
+    "utility","infrastructure","ecosystem","dapp"
+  ],
+  "status": "live",
+  "website": "https://deepsquare.io/",
+  "twitter": "https://twitter.com/DeepSQUAREio",
+  "summary": "The DeepSquare project is building an interoperability layer allowing anyone to request professional grade compute resources anywhere in the world. This is the web used as it should be: borderless and actor agnostic.",
+  "telegram": "https://t.me/DeepSquareProject"
+}
