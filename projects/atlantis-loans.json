@@ -2,7 +2,10 @@
   "name": "Atlantis Loans",
   "slug": "atlantis-loans",
   "tags": [
-    "defi"
+    "defi",
+    "lending",
+    "dapp",
+    "governance"
   ],
   "status": "",
   "highlight": "Open source and non-custodial cross-chain liquidity protocol for earning interest on deposits and borrowing assets.",
