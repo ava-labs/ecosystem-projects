@@ -1,0 +1,23 @@
+{
+  "name": "solaunch",
+  "slug": "solaunch",
+  "date": "2022-04-12",
+  "highlight": "The first contagious launchpad for DeFi, art and games.",
+  "logo": "/img/solaunch.png",
+  "tags": [
+    "launchpads",
+    "defi",
+    "gaming",
+    "nft"
+  ],
+  "status": "coming soon",
+  "website": "https://solaunch.io",
+  "twitter": "https://twitter.com/solaunch_io",
+  "summary": "",
+  "telegram": "https://t.me/Solaunch",
+  "discord": "https://discord.com/invite/RnShbvKjU4",
+  "docs": "",
+  "github": "https://github.com/solaunch",
+  "token": "",
+  "cmc": ""
+}
