@@ -1,0 +1,13 @@
+{
+    "name": "Ava Trades",
+    "slug": "avatrades",
+    "date": "2022-01-26",
+    "highlight": "API for auctioning X-Chain assets with royalty support",
+    "logo": "/img/avatrades.png",
+    "tags": ["marketplace","nft", "tools", "trading"],
+    "status": "coming soon",
+    "website": "https://www.rhizomenetworking.com/avatrades",
+    "twitter": "https://twitter.com/rhizomenetwork",
+    "summary": "What if artists could auction off and collect royalties from their Avalanche Wallet collectibles? And drop NFTs without writing smart contracts? Ava Trades makes this possible! With our API, developers can easily integrate X-Chain asset trading into their applications. Let's tap into the full potential of the X-Chain together!",
+    "docs":"https://docs.rhizomenetworking.com/"    
+  }
