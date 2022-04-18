@@ -1,9 +1,7 @@
 {
   "name": "Avalanche Explorer",
   "slug": "avalanche-explorer",
-  "tags": [
-    "explorer"
-  ],
+  "tags": ["explorer"],
   "status": "",
   "highlight": "An analytics tool that enables people to search the Avalanche blockchain.",
   "logo": "/img/avalanche-explorer.svg",
@@ -12,7 +10,7 @@
   "telegram": "https://t.me/avalancheavax",
   "github": "https://github.com/ava-labs",
   "discord": "https://discord.com/invite/RwXY7P6",
-  "summary": "",
+  "summary": " ",
   "docs": "",
   "cmc": "",
   "date": "",
