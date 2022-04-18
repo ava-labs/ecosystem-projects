@@ -4,6 +4,8 @@ name: Build List
 
 on:
   pull_request_target:
+    types:
+      - opened
   workflow_dispatch:
 
 jobs:
@@ -17,4 +19,4 @@ jobs:
           body: |
             Hi @${{ github.event.sender.login }}!
             Thank you for submitting your project.
-            Please make sure you fill out https://yleojkzxfvm.typeform.com/avaxproject so we have your contact information. 
+            Please make sure you fill out https://avalancheavax.typeform.com/avaxprojects so we have your contact information. 
