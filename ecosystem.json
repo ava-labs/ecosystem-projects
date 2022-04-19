@@ -1654,6 +1654,26 @@
       "token": ""
     },
     {
+      "name": "FoxWallet",
+      "slug": "foxwallet",
+      "date": "2021-11-15",
+      "highlight": "FoxWallet is a safe and easy-to-use decentralized Web3 wallet, dedicated to creating an entrance and connection to the Web3 world.",
+      "logo": "img/foxwallet.svg ",
+      "tags": [
+        "wallet",
+        "tools",
+        "security",
+        "digital securities"
+      ],
+      "status": "live",
+      "website": "https://foxwallet.com/en",
+      "twitter": "https://twitter.com/FoxWallet",
+      "summary": "FoxWallet secures and provides a reliable industry-leading storage solution with encryption while your digital assets are totally under your control. At the same time, FoxWallet supports importing multiple sets of private keys and seed words as well as flexible switching among different accounts.",
+      "telegram": "https://t.me/FoxWallet_EN",
+      "discord": "https://discord.com/invite/JVjVbe3Zth",
+      "docs": "https://hc.foxwallet.com/docs"
+    },
+    {
       "name": "Frax",
       "slug": "frax",
       "tags": [
