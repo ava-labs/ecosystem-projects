@@ -1,0 +1,17 @@
+{
+  "name": "PinkSale",
+  "slug": "pinksale",
+  "date": "2021-06-06",
+  "highlight": "The Launchpad Protocol for Everyone!",
+  "logo": "/img/pinksale.png",
+  "tags": ["launchpads, tools"],
+  "status": "live",
+  "website": "https://pinksale.finance",
+  "twitter": "https://twitter.com/pinkmoonfinance",
+  "summary": "PinkSale helps everyone to create their own tokens and token sales in few seconds. Tokens created on PinkSale will be verified and published on explorer websites.",
+  "telegram": "https://t.me/pinkmoonfinance",
+  "docs":"https://docs.pinksale.finance",
+  "github":"https://github.com/pinkmoonfinance",
+  "token":"PinkSale",
+  "cmc":"https://coinmarketcap.com/currencies/pinksale/"
+}
