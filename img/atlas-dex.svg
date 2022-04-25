@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.341" y1="0.266" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6c21"/>
+      <stop offset="0.498" stop-color="#6939a5"/>
+      <stop offset="1" stop-color="#403fd8"/>
+    </linearGradient>
+    <clipPath id="clip-logo-80-color">
+      <rect width="80" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="logo-80-color" clip-path="url(#clip-logo-80-color)">
+    <path id="Union_40" data-name="Union 40" d="M697-19188.91v0l24.412-32.561,2.167,5.186-17.789,23.3,32.8,4.078Zm52.951-.23-40.864-5.383,3.336-4.436,29.126,3.793-12.776-30.76Zm-49.128-7.729L722.755-19235l15.515,37.334-5.339-.656-11.248-26.941Z" transform="translate(-683.476 19246.955)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
