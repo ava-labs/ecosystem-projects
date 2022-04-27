@@ -1,0 +1,17 @@
+{
+  "name": "deBridge",
+  "slug": "debridge",
+  "date": "2021-04-17",
+  "highlight": "deBridge is a generic messaging and cross-chain interoperability protocol that enables decentralized transfers of arbitrary data and assets between various blockchains.",
+  "logo": "/img/debridge.png",
+  "tags": ["bridge","defi","infrastructure","multi-chain"],
+  "status": "live",
+  "website": "https://debridge.finance",
+  "twitter": "https://twitter.com/deBridgeFinance",
+  "summary": "deBridge is a generic messaging protocol and decentralized infrastructure that enables any arbitrary cross-chain interactions in a single transaction. Due to the ability to simultaneously send arbitrary assets and data, deBridge acts as a unified framework for all cross-chain needs and is capable of interconnecting any smart contract on any blockchain.",
+  "telegram": "https://t.me/deBridge_finance",
+  "discord": "https://discord.gg/debridge",
+  "docs":"https://docs.debridge.finance",
+  "github":"https://github.com/debridge-finance",
+  
+}
