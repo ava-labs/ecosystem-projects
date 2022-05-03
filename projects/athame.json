@@ -1,0 +1,21 @@
+{
+  "name": "Athame Finance",
+  "slug": "athame-finance",
+  "tags": [
+    "defi",
+    "daas"
+  ],
+  "status": "live",
+  "highlight": "An all-in-one DeFi solution platform, powered by community governance.",
+  "logo": "/img/athame-finance.svg",
+  "website": "https://athame.finance/",
+  "twitter": "https://twitter.com/athamefinance",
+  "telegram": "https://t.me/athamefinance",
+  "github": "https://github.com/athamefinance",
+  "discord": "https://discord.gg/C7FFvpry4p",
+  "summary": "Athame Finance is a DAAS or DeFi As A Service protocol",
+  "docs": "https://docs.athame.finance/",
+  "cmc": "",
+  "date": "2022-04-27",
+  "token": "ATHF"
+}
