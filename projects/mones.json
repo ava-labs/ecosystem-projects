@@ -1,0 +1,19 @@
+{
+    "name": "Mones",
+    "slug": "mones",
+    "date": "2021-10-10",
+    "highlight": "Mones is a new generation P2E RPG game on Avalanche where you not only enjoy the exciting gameplay, but also connect with other players through social features and earn long-term profits from a player-driven economy.",
+    "logo": "/img/mones.png",
+    "tags": ["play-to-earn","nft","marketplace", "gaming"],
+    "status": "coming soon",
+    "website": "https://mones.io/",
+    "twitter": "https://twitter.com/MonesNFTs",
+    "summary": "With tagline “Here for the P2E revolution”, Mones is a new generation P2E RPG game on Avalanche where you not only enjoy the exciting gameplay, but also connect with other players through social features and earn long-term profits from a player-driven economy.",
+    "telegram": "https://t.me/mones_chat",
+    "discord": "https://discord.gg/monesnfts",
+    "docs":"https://whitepaper.mones.io/",
+    "github":"https://github.com/mones-game",
+    "token":"MONES,NES",
+    "cmc":"https://coinmarketcap.com/currencies/mones/"
+    
+  }
