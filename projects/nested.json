@@ -1,0 +1,18 @@
+{
+    "name": "Nested",
+    "slug": "nested",
+    "date": "2021-09-01",
+    "highlight": "The one-stop SocialFi app to build, manage, replicate and monetize portfolios.",
+    "logo": "/img/nested.svg",
+    "tags": ["defi","nft","multi-chain","portfolio"],
+    "status": "live",
+    "website": "https://nested.fi/",
+    "twitter": "https://twitter.com/NestedFi",
+    "summary": "Nested is a social trading platform aimed at democratizing and socializing DeFi. Multi-chain and built to scale, Nested allows users to build a profile and then create, copy, manage, update, send and share financial portfolios. These financial portfolios — the 'Nested portfolios'— are represented as non-fungible tokens (NFTs), reflecting sets of tokens.",
+    "telegram": "https://t.me/NestedFinanceChannel",
+    "discord": "https://discord.com/invite/VW8ZZsACzd",
+    "docs":"https://docs.nested.fi/",
+    "github":"https://github.com/NestedFi/nested-core-lego",
+    "token":"NST",
+    "cmc": ""
+}
