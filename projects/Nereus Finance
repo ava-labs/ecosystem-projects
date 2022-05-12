@@ -1,0 +1,19 @@
+{
+  "name": "Nereus Finance",
+  "slug": "nereus-finance",
+  "date": "2022-02-23",
+  "highlight": "On Nereus you can easly supply, borrow, and earn.",
+  "logo": "/img/nereus-finance.svg",
+  "tags": [“defi”, “NFT”, “governance”, “Stablecoin”],
+  "status": "live",
+  "website": "https://nereus.finance",
+  "twitter": "https://twitter.com/nereusfinance",
+  "summary": "Nereus Finance is defi protocol for lend, borrow, stake, lock, with fantastic NFT collection and the best stable coin",
+  "telegram": "",
+  "discord": "https://discord.gg/G7J6asSt5n",
+  "docs":"https://docs.nereus.finance",
+  "github":"https://github.com/nereusfinance",
+  "token":"WXT",
+  "cmc":"https://coinmarketcap.com/currencies/wirex-token/"
+  
+}
