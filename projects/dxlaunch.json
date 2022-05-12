@@ -1,0 +1,19 @@
+{
+  "name": "DxLaunch",
+  "slug": "dxlaunch",
+  "date": "2022-06-03",
+  "highlight": "The Reinvention Of Early Access. The first DAO Launchpad in DeFi.",
+  "logo": "/img/dxlaunch.png",
+  "tags": ["launchpads","dao","multi-chain"],
+  "status": "coming soon",
+  "website": "https://dxlaunch.fi/",
+  "twitter": "https://twitter.com/dxlaunch_fi",
+  "summary": "DxLaunch is a decentralized launchpad protocol. We provide a reliable platform for developers and teams to pitch their projects and communicate directly to investors and a secure and governed platform for investors to discover the next successful DeFi project.",
+  "telegram": "https://t.me/DxLaunch",
+  "discord": "https://discord.gg/NMS6HMVM9v",
+  "docs":"https://dxlaunch-1.gitbook.io/welcome-to-dxlaunch/",
+  "github":"",
+  "token":"DXL",
+  "cmc":""
+  
+}
