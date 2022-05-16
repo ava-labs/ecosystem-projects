@@ -1,0 +1,16 @@
+{
+  "name": "Diverse Eth Calculator",
+  "slug": "diverse-eth-calculator",
+  "date": "2022-04-16",
+  "highlight": "Ease unit calculations & utility tools , deployed on netlify for anyone to use with PWA support hence you can install it on windows/mac/linux",
+  "logo": "/img/diverse-eth-calculator.png",
+  "tags": [
+    "tools",
+    "utility"
+  ],
+  "status": "live",
+  "website": "https://ethcalculator.dsolutions.mn/",
+  "twitter": "https://twitter.com/0xMnkhod",
+  "github": "https://github.com/DiverseSolutions/Diverse-Eth-Calculator",
+  "summary": "Created with the goal of helping ethereum/solidity developers with ease unit calculations & utility tools."
+}
