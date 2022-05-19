@@ -3,7 +3,7 @@
     "slug": "synapse-protocol",
     "date": "2021-10-1",
     "highlight": "Synapse Protocol is a cross-chain communications network used to seamlessly interconnect all blockchains.",
-    "logo": "/yn logo.png",
+    "logo": "img/synapse.png",
     "tags": ["swap","bridge","multi-chain","amm"],
     "status": "live",
     "website": "https://synapseprotocol.com",
