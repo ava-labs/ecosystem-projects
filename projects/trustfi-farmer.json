@@ -1,0 +1,20 @@
+{
+  "name": "TrustFi Farmer",
+  "slug": "trustfi-farmer",
+  "date": "2022-04-08",
+  "highlight": "TrustFi Farmer is the first Automated Farm Pools (AFP) for Web3",
+  "logo": "/img/trustfi-farmer.png",
+  "tags": [
+    "defi",
+    "staking",
+    "multi-chain"
+  ],
+  "status": "live",
+  "website": "https://farmer.trustfi.org/",
+  "twitter": "https://twitter.com/trustfiorg",
+  "summary": "TrustFi Farmer is an autonomous liquidity mining and pool creation platform powered by the Automated Farm Pools (AFP) algorithm built on Web3.0. Via TrustFi Farmer, any project can create liquidity farming pools in 60 seconds using our audited smart contract and platform. Through application, projects can create their sovereign DeFi Spaces with custom subdomain and design.",
+  "telegram": "https://t.me/trustfi_fans",
+  "docs": "https://docs.trustfi.org/trustfi-products/trustfi-farmer",
+  "github": "https://github.com/TrustFiNetwork",
+  "cmc": "https://coinmarketcap.com/currencies/trustfi-network/"
+}
