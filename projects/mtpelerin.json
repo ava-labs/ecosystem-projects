@@ -1,0 +1,17 @@
+{
+  "name": "Mt Pelerin",
+  "slug": "mtpelerin",
+  "date": "2018-09-27",
+  "highlight": "Your crypto-fiat gateway for Avalanche",
+  "logo": "/img/mtpelerin.svg",
+  "tags": ["fiat-ramp","exchange"],
+  "status": "live",
+  "website": "https://www.mtpelerin.com/",
+  "twitter": "https://twitter.com/mtpelerin",
+  "summary": "Buy AVAX and USDC directly on your own Avalanche wallet in minutes, no KYC required. Cash them out from your wallet and withdraw funds in 20+ currencies on your bank account in 171 countries. Get the live market rates, the lowest fees and no hidden costs. Integrate our crypto-fiat gateway to your website or mobile app in a few clicks. Mt Pelerin is an authorized financial intermediary regulated and audited in Switzerland.",
+  "telegram": "https://t.me/mtpelerinchat",
+  "docs":"https://developers.mtpelerin.com/",
+  "github":"https://github.com/MtPelerin",
+  "token":"MPS",
+  "cmc":"https://www.coingecko.com/en/coins/mt-pelerin-shares"
+}

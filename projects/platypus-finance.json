@@ -1,0 +1,23 @@
+{
+    "name": "Platypus Finance",
+    "slug": "platypus-finance",
+    "tags": [
+      "defi",
+      "exchange",
+      "avalanche native",
+      "dex"
+    ],
+    "status": "live",
+    "highlight": "Platypus finance is a novel open-liquidity stableswap protocol native on Avalanche.",
+    "logo": "/img/platypus-finance.png",
+    "website": "https://platypus.finance/",
+    "twitter": "https://twitter.com/Platypusdefi",
+    "telegram": "https://t.me/Platypusdefi",
+    "github": "https://github.com/platypus-finance/",
+    "discord": "https://discord.com/invite/B6ThAvev2A?utm_source=Discord&utm_medium=Linktree",
+    "summary": "",
+    "docs": "https://docs.platypus.finance/",
+    "cmc": "https://coinmarketcap.com/currencies/platypus-finance/",
+    "date": "2022-01-16",
+    "token": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8"
+  }

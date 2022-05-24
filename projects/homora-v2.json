@@ -1,0 +1,19 @@
+{
+    "name": "Homora V2",
+    "slug": "homora-v2",
+    "date": "2021-10-21",
+    "highlight": "Homora V2 is the largest multichain lending and leveraged yield farming protocol",
+    "logo": "/img/homora-v2.png ",
+    "tags": ["defi","lending","yield farming","multi-chain"],
+    "status": "live",
+    "website": "https://homora-v2.alphafinance.io/",
+    "twitter": "https://twitter.com/Alpha_HomoraV2",
+    "summary": "Homora is the first flagship product incubated under Alpha Finance Lab deployed on the Ethereum network in October 2020. It is the largest multi-chain lending and leveraged yield farming protocol. Our long-term vision is to be the go-to protocol across key chains and L2s that offers the highest yields and the safest environments for you to boost your yields. Homora V2 is currently available on Ethereum, Avalanche, Fantom, and more coming soon.",
+    "telegram": "https://t.me/AlphaFinanceLab",
+    "discord": "https://discord.gg/8dfjautXj5",
+    "docs":"https://alphafinancelab.gitbook.io/homora-v2/v/homora-v2-avalanche/",
+    "github":"https://github.com/AlphaFinanceLab",
+    "token":"ALPHA.e",
+    "cmc":"https://coinmarketcap.com/currencies/alpha-finance-lab/"
+    
+  }
