@@ -1,0 +1,13 @@
+{
+  "name": "Bridge Wallet",
+  "slug": "bridge-wallet",
+  "date": "2020-01-01",
+  "highlight": "The ultimate mobile wallet for Avalanche",
+  "logo": "/img/bridge-wallet.svg",
+  "tags": ["wallet"],
+  "status": "live",
+  "website": "https://www.mtpelerin.com/bridge-wallet/avalanche-wallet",
+  "twitter": "https://twitter.com/mtpelerin",
+  "summary": "Bridge Wallet is the ultimate self-custodial mobile app to explore and manage Avalanche assets on your phone. Buy AVAX and USDC directly on Avalanche C-Chain, exchange tokens on ParaSwap and withdraw funds in 20+ currencies back on your bank account in 171 countries.",
+  "telegram": "https://t.me/mtpelerinchat"
+}

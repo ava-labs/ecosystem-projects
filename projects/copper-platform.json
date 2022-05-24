@@ -1,0 +1,23 @@
+{
+  "name": "Copper Platform",
+  "slug": "copper-platform",
+  "tags": [
+    "defi",
+    "launchpad",
+    "infrastructure",
+    "multichain"
+  ],
+  "status": "live",
+  "highlight": "A platform for open, transparent, and user-friendly participation in Liquidity Bootstrapping Pools.",
+  "logo": "/img/copper-platform.png",
+  "website": "https://copperlaunch.com/",
+  "twitter": "https://twitter.com/copperplatform",
+  "telegram": "",
+  "github": "",
+  "discord": "https://discord.alchemist.wtf",
+  "summary": "Copper is an open, transparent, and user-friendly platform for interacting with Liquidity Bootstrapping Pools (LBP), an innovative method that allows the market to determine the fair price of a token. Copper's key features enable price discovery, permissionless participation, fair distribution, capital efficiency, while also preventing sniper bots or whales from dominating an LBP. No gas wars, no whitelists, no allocation games.",
+  "docs": "https://docs.alchemist.wtf/copper",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Atlantis Loans",
+  "slug": "atlantis-loans",
+  "tags": [
+    "defi",
+    "lending",
+    "dapp",
+    "governance"
+  ],
+  "status": "",
+  "highlight": "Open source and non-custodial cross-chain liquidity protocol for earning interest on deposits and borrowing assets.",
+  "logo": "/img/atlantis-loans.svg",
+  "website": "https://atlantis.loans/",
+  "twitter": "https://twitter.com/atlantis_loans",
+  "telegram": "https://t.me/AtlantisLoans",
+  "github": "https://github.com/atlantis-loans",
+  "discord": "https://discord.gg/YZJtpRw4ty",
+  "summary": "",
+  "docs": "",
+  "cmc": "https://coinmarketcap.com/currencies/atlantis-loans/",
+  "date": "",
+  "token": ""
+}
