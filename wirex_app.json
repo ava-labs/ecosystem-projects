@@ -1,0 +1,15 @@
+{
+  "name": "Wirex App",
+  "slug": "wirex-app",
+  "date": "06-01-14",
+  "highlight": "Buy, store, exchange and spend fiat and more than 37 cryptocurrencies anytime, anywhere, using the Wirex app.",
+  "logo": "/img/wirex_app_logo.svg",
+  "tags": [
+    "fiat ramp", "payments", "cex"],
+  "status": "live",
+  "website": "https://https://wirexapp.com/",
+  "twitter": "https://twitter.com/wirexapp",
+  "summary": "Wirex is a worldwide digital payment platform and regulated institution, that has forged new rules in the digital payments space. In 2015, the firm developed the world’s first contactless payment card that gives users the ability to seamlessly spend crypto and traditional currencies in real life. Wirex’s mission is to bridge the gap between conventional and cryptocurrencies with an overall goal to usher in a cashless society and the mainstream adoption of the digital economy.",
+  "token":"WXT",
+  "cmc":"https://coinmarketcap.com/currencies/wirex-token/"
+}
