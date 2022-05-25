@@ -204,6 +204,28 @@
       "cmc": "https://coinmarketcap.com/currencies/arweave/"
     },
     {
+      "name": "Ascenders",
+      "slug": "ascenders",
+      "date": "2021-10-01",
+      "highlight": "Ascenders is the first Triple A open world Action RPG with a fully decentralized, player driven economy deployed on Avalanche.",
+      "logo": "/img/ascenders.png",
+      "tags": [
+        "ava-labs",
+        "gaming",
+        "play-to-earn"
+      ],
+      "status": "coming soon",
+      "website": "https://www.ascenders.gg/",
+      "twitter": "https://twitter.com/PlayAscenders",
+      "summary": "Ascenders is an original multiplayer open-world Action RPG that brings forward influences from Zelda: Breath of the Wild and Eve Online, forging them into a fresh and stunning immersive experience and catapults them into the dynamic crypto gaming scene. The result is a new multi-platform science-fantasy world filled with danger, adventure, and exotic horizons - all to be explored and mastered. Ascenders will feature a revolutionary game economy that reimagines what a multiplayer RPG would look like if fully decentralized, and built entirely around DeFi concepts. Players would be able to trade resources in a global marketplace, creating a user-driven, self-sustaining economy.",
+      "telegram": "",
+      "discord": "http://discord.gg/ascenders",
+      "docs": "",
+      "github": "",
+      "token": "AGC",
+      "cmc": ""
+    },
+    {
       "name": "Atlantis Loans",
       "slug": "atlantis-loans",
       "tags": [
@@ -3437,6 +3459,29 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Synapse Protocol",
+      "slug": "synapse-protocol",
+      "date": "2021-10-1",
+      "highlight": "Synapse Protocol is a cross-chain communications network used to seamlessly interconnect all blockchains.",
+      "logo": "img/synapse.png",
+      "tags": [
+        "swap",
+        "bridge",
+        "multi-chain",
+        "amm"
+      ],
+      "status": "live",
+      "website": "https://synapseprotocol.com",
+      "twitter": "https://twitter.com/SynapseProtocol",
+      "summary": " The Synapse Protocol is comprised of a messaging framework and an economically secure method to reach consensus on the validity of cross-chain transactions which developers can leverage to build truly native cross-chain applications.",
+      "telegram": "https://t.me/synapseprotocol",
+      "discord": "http://discord.gg/synapseprotocol",
+      "docs": "https://docs.synapseprotocol.com/",
+      "github": "https://github.com/synapsecns/synapse-contracts",
+      "token": "SYN",
+      "cmc": "https://coinmarketcap.com/currencies/synapse-2//"
     },
     {
       "name": "TaleCraft",
