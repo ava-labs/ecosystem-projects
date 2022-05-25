@@ -1,0 +1,17 @@
+{
+  "name": "Wirex Wallet",
+  "slug": "wirex-wallet",
+  "date": "2022-05-25",
+  "highlight": "Safest Mobile Wallet With No Key Management (MPC Signature)",
+  "logo": "/img/wirex_wallet.svg",
+  "tags": [
+    "wallet",
+    "multi-chain"
+  ],
+  "status": "live",
+  "website": "https://wirexapp.com/wirex-wallet",
+  "twitter": "https://twitter.com/wirexapp",
+  "summary": "The Wirex Wallet is an innovative keyless non-custodial crypto wallet for storing and earning rewards to your crypto assets and NFTs.",
+  "token": "WXT",
+  "cmc": "https://coinmarketcap.com/currencies/wirex-token/"
+}
