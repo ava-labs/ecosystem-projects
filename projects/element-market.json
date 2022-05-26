@@ -1,0 +1,14 @@
+{
+  "name": "Element NFT Marketplace",
+  "slug": "element-market",
+  "date": "2022-05-16",
+  "highlight": "An all-in-one multi-chain NFT marketplace with lowest trading fee, powerful trading utilities and intelligent&instant data service.",
+  "logo": "/img/element-market.png",
+  "tags": ["ava-labs","multi-chain","nft","launchpads"],
+  "status": "live",
+  "website": "https://www.element.market/avalanche",
+  "twitter": "https://twitter.com/Element_Market",
+  "summary": "Element Market, the all-in-one multi-chain NFT marketplace, provides users with high liquidity lowest transition fee, powerful trading utilities, and intelligent&instant data services. It provides a one-stop service from creating, discovering to exchanging NFTs, with more than 130,000 community users. Element now has aggregated 140million+NFTs from Ethereum, Polygon, BNB Chain, and Avalanche Chain.",
+  "docs": "https://docs.element.market/welcome-to-element",
+  "github": "https://github.com/element-market"  
+}
