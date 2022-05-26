@@ -1,0 +1,18 @@
+{
+  "name": "Degis",
+  "slug": "Degis",
+  "date": "2022-04-01",
+  "highlight": "Degis is the next generation all in one protection protocol, first on Avalanche",
+  "logo": "img/degis.svg",
+  "tags": ["defi", "digital security"],
+  "status":  "live",
+  "website": "https://degis.io",
+  "twitter": "https://twitter.com/ProjectDegis",
+  "summary": "Degis is the next-generation all-in-one protection protocol, the first on Avalanche. Degis will offer exhaustive protection to users and traders, offer a decentralized protection market and ultimately bring scalable risk management to the crypto world. Starting from token price protection, Degis will build smart contract protection, impermenant loss protection and finally build the protection meta market in the year of 2022",
+  "telegram": "https://t.me/ProjectDegis",
+  "discord": "https://discord.gg/UspHYsSG4c",
+  "docs": "https://docs.degis.io/about-degis/master",
+  "github": "https://github.com/Degis-Insurance",
+  "token": "DEG",
+  "cmc": "https://coinmarketcap.com/currencies/degis/"
+}
