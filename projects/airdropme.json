@@ -1,0 +1,22 @@
+{
+  "name": "AirdropMe",
+  "slug": "airdropme",
+  "tags": [
+    "tools",
+    "defi",
+    "multi-chain"
+  ],
+  "status": "live",
+  "highlight": "Distribute plenty of tokens & don't spend much on gas fees. Powered by Etherspot!",
+  "logo": "/img/airdropme.svg",
+  "website": "https://airdropme.io/",
+  "twitter": "https://twitter.com/airdropme_io",
+  "telegram": "https://t.me/etherspot",
+  "github": "https://github.com/etherspot/",
+  "discord": "https://discord.com/invite/PPB67JYyAp",
+  "summary": "Send plenty of crypto tokens & don't spend much on gas fees. Supports Avalanche, Ethereum, Polygon, Arbitrum, Optimism, Gnosis Chain  and more. Powered by Etherspot!",
+  "docs": "https://app.airdropme.io/tutorial",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
