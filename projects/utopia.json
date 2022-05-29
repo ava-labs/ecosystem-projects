@@ -1,0 +1,19 @@
+{
+    "name": "Utopia Labs",
+    "slug": "utopia",
+    "date": "2022-04-20",
+    "highlight": "The modern system for managing payroll, invoices, accounting and budgeting for DAO’s, built right on top of Gnosis SAFE",
+    "logo": "/img/utopia.svg",
+    "tags": ["DAOs","DAO tool","multi-chain"],
+    "status": "live",
+    "website": "https://www.utopialabs.com/",
+    "twitter": "https://twitter.com/utopialabs_",
+    "summary": "Utopia is a platform that allows DAOS to manage their payroll, expenses, and accounting straight from a Gnosis Safe treasury. Utopia also has a wealth of workflows to make running your DAO smoother than ever!",
+    "telegram": "",
+    "discord": "",
+    "docs":"",
+    "github":"",
+    "token":"",
+    "cmc":""
+    
+  }
