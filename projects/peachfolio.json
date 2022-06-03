@@ -1,0 +1,19 @@
+{
+  "name": "Peachfolio",
+  "slug": "Peachfolio",
+  "date": "2021-05-01",
+  "highlight": "Track all your DeFi tokens from the moment they launch",
+  "logo": "/img/peachfolio.png",
+  "tags": ["defi","wealth management","utility","portfolio"],
+  "status": "live",
+  "website": "https://www.peachfolio.app/",
+  "twitter": "https://twitter.com/peachfolio",
+  "summary": "Trade safer. Trade smarter. No matter your level of experience. Get cutting-edge tracking and analytics tools that help you tradentokens with confidence, whether you’re an experienced trader or new to DeFi. The Peachfolio ecosystem is the only multi-platform smart solution that delivers portfolio data, market analytics, crypto news, and financial tools right to your fingertips. The Peachfolio app is an easy-to-use wallet tracker app optimized for your DeFi portfolio. You can keep track of all your wallets, set price alerts, and get in-depth insights for all of your tokens, even brand-new ones.",
+  "telegram": "https://t.me/peachfolio",
+  "discord": "",
+  "docs":"",
+  "github":"https://github.com/Peachfolio",
+  "token":"PCHF",
+  "cmc":"https://coinmarketcap.com/currencies/peachfolio/"
+
+}
