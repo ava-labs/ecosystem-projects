@@ -1,0 +1,20 @@
+{
+  "name": "Coin Wallet",
+  "slug": "coin-wallet",
+  "tags": [
+    "wallet"
+  ],
+  "status": "live",
+  "highlight": "Non-custodial multicurrency wallet for multiple platforms.",
+  "logo": "/img/coin-wallet.svg",
+  "website": "https://coin.space",
+  "twitter": "https://twitter.com/CoinAppWallet",
+  "telegram": "",
+  "github": "https://github.com/CoinSpace/CoinSpace",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "2015-04-02",
+  "token": ""
+}
