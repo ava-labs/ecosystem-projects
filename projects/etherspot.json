@@ -1,0 +1,23 @@
+{
+  "name": "Etherspot",
+  "slug": "etherspot",
+  "tags": [
+    "tools",
+    "infrastructure",
+    "defi",
+    "multi-chain"
+  ],
+  "status": "live",
+  "highlight": "The only SDK you need to Go Multichain (batched transactions, NFTs, ENS, Payment Channels).",
+  "logo": "/img/etherspot.svg",
+  "website": "https://etherspot.io/",
+  "twitter": "https://twitter.com/etherspot",
+  "telegram": "https://t.me/etherspot",
+  "github": "https://github.com/etherspot/",
+  "discord": "https://discord.com/invite/PPB67JYyAp",
+  "summary": "Etherspot is a smart-contract SDK that gives projects access to multi-chain, non-custodial, Smart Wallet framework. It allows projects to access the best features (batched transactions, NFTs, ENS, Payment Channels) of the Ethereum blockchain and EVM compatible chains. Drive liquidity from other EVM chains to Avalanche based dApps.",
+  "docs": "https://docs.etherspot.dev",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
