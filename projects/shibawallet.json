@@ -1,0 +1,20 @@
+{
+    "name": "ShibaWallet",
+    "slug": "shibawallet",
+    "tags": [
+      "wallet"
+    ],
+    "status": "",
+    "highlight": "ShibaWallet is the best-in-class meme crypto wallet wallet for unified all your NFTs and meme coins in one app securely, self-governance and non-custodial entirely.",
+    "logo": "/img/shibawallet-cc.png",
+    "website": "https://shibawallet.cc/",
+    "twitter": "https://twitter.com/ShibaWalletPro",
+    "telegram": "https://t.me/ShibaWalletPro",
+    "github": "https://github.com/ShibaWallet",
+    "discord": "",
+    "summary": "",
+    "docs": "",
+    "cmc": "https://coinmarketcap.com/currencies/shiba-wallet/",
+    "date": "2021-10-05",
+    "token": "SHWA"
+}
