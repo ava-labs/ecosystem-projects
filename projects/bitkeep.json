@@ -1,0 +1,20 @@
+{
+  "name": "BitKeep Wallet",
+  "slug": "bitkeepwallet",
+  "tags": [
+    "wallet"
+  ],
+  "status": "",
+  "highlight": "BitKeep Wallet is an digital currency wallet and can send and receive SOL/SPL tokens.",
+  "logo": "/img/bitkeep.svg",
+  "website": "https://bitkeep.org/",
+  "twitter": "https://twitter.com/BitKeepOS",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
