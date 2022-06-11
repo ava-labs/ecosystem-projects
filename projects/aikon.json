@@ -1,0 +1,23 @@
+{
+    "name": "AIKON",
+    "slug": "aikon",
+    "date": "2017-07-14",
+    "highlight": "AIKON's ORE ID is a multi-chain Web3 auth and wallet creation solution that supports familiar social logins, SMS and email.",
+    "logo": "/img/aikon.svg",
+    "tags": [
+        "wallet",
+        "multi-chain",
+        "tools",
+        "enterprise"
+    ],
+    "status": "live",
+    "website": "https://developer.oreid.io/",
+    "twitter": "https://twitter.com/TeamAIKON",
+    "summary": "AIKON’s ORE ID is a multi-chain Web3 auth and wallet creation solution that is compatible with Avalanche. ORE ID enables developers to provide dApp users with a simple auth and transaction signing experience using familiar logins like GMail, Facebook, SMS and more. ORE ID supports all NFT smart contracts allowing users to mint, transfer, sell and buy NFTs. AIKON is also launching ORE Vault, a B2B cryptocurrency and NFT wallet with multi-signature features. Blizzard Fund, managed by Avalanche, is AIKON’s lead Series A investor.",
+    "telegram": "https://t.me/orecommunity",
+    "discord": "https://discord.ore.network",
+    "docs": "https://docs.oreid.io/ore-id/",
+    "github": "https://github.com/TeamAikon/oreid",
+    "token": "$ORE",
+    "cmc": "https://coinmarketcap.com/currencies/ore-network/"
+}
