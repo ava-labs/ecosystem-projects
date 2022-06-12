@@ -1,0 +1,22 @@
+{
+    "name": "OpenXSwap",
+    "slug": "openxswap",
+    "date": "2022-05-24",
+    "highlight": "A dex aggregator on Avalanche; finding the best routes on trades for the DeFi community.",
+    "logo": "/img/openxswap.png",
+    "tags": [
+      "defi",
+      "exchange",
+      "multi-chain"
+    ],
+    "status": "live",
+    "website": "https://avalanche.openxswap.app/",
+    "twitter": "https://twitter.com/OpenSwap_one",
+    "summary": "OpenXSwap is a multi-chain dex aggregator. Taking our elegant user interface and applying a chain's top liquidity to route orders in the most efficent manner.",
+    "telegram": "https://t.me/OpenSwap_Harmony",
+    "discord": "https://discord.gg/openswap",
+    "docs": "https://docs.openxswap.app/",
+    "github": "https://github.com/openXswap",
+    "token": "",
+    "cmc": ""
+  }
