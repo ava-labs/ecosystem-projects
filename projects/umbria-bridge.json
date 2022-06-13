@@ -1,0 +1,20 @@
+{
+  "name": "Umbria Network",
+  "slug": "umbrianetwork",
+  "tags": [
+    "bridge","multi-chain","defi","dex"
+  ],
+  "status": "live",
+  "highlight": "Cheapest and Fastest Cross-Chain Bridge Between Ethereum & Avalanche, Using a Novel Liquidity Provision Protocol.",
+  "logo": "/img/umbria-network.png",
+  "website": "https://umbria.network/",
+  "twitter": "https://twitter.com/networkumbria",
+  "telegram": "https://t.me/joinchat/GfvrGJJBNMksEwP2",
+  "github": "",
+  "discord": "https://discord.gg/5STPMdxp5u",
+  "summary": "Umbria Network is a DeFi ecosystem which enables the cheapest and fastest transfer of assets (bridging) between Ethereum and other networks, such as Avalanche. It reduces the cost of bridging by a factor of 10 by introducing a novel liquidity lending protocol. The Umbria Network bridge uses crowd-lended assets to facilitate bridging assets across cryptocurrency networks (such as Ethereum Mainnet ---> Avalanche Mainnet), and offers liquidity lenders extremely high APYs as a reward, with no impermanent loss. The liquidity lending protocol also reduces the cost of bridging by up to a factor of 10 by optimising the number of necessary on-chain operations required to securely bridge funds cross-chain.",
+  "docs": "https://bridge.umbria.network/docs/",
+  "cmc": "https://coinmarketcap.com/currencies/umbria-network/",
+  "date": "2020-10-01",
+  "token": "UMBR"
+}
