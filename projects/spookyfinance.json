@@ -1,0 +1,20 @@
+{
+  "name": "SpookyFinance",
+  "slug": "spookyfinance",
+  "tags": [
+    "defi"
+  ],
+  "status": "",
+  "highlight": "SpookyFinance Protocol is a fork of the successful DeFi project Fantasm.finance, aimed at developing and popularizing synthetic tokens for multiple L1 Ecosystems.",
+  "logo": "/img/spookyfinance.svg",
+  "website": "https://spooky.financial/",
+  "twitter": "https://twitter.com/Spooky_Fin",
+  "telegram": "",
+  "github": "https://github.com/spookyfinance",
+  "discord": "https://discord.gg/GCcrN2fg",
+  "summary": "",
+  "docs": "https://spookyfinance.gitbook.io/",
+  "cmc": "",
+  "date": "Fri Jun 17 2022 08:00:00 GMT",
+  "token": ""
+}
