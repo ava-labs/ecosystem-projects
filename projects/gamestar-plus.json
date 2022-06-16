@@ -1,0 +1,18 @@
+{
+  "name": "GameStar Plus",
+  "slug": "gamestar-plus",
+  "date": "2022-06-17",
+  "highlight": "Gamestar+ redefines social gaming by bringing game night onto the blockchain. As the first blockchain-enabled streaming gaming on demand (SGoD) platform, Gamestar+ offers play-to-earn features, NFT trading, and world-famous brands and games streamed into your living room.",
+  "logo": "/img/gamestarplus_logos.svg",
+  "tags": ["GameFi", "PlayToEarn", "P2E", "Gaming"],
+  "status": "live",
+  "website": "https://www.gamestarplus.com",
+  "twitter": "https://twitter.com/gamestarplus",
+  "summary": "Gamestar+ brings your game night into the future with the world’s first streaming gaming platform for interactive social gaming experiences and TV board games. Play games that include Jeopardy, Movie Scene It?, and Family Feud, updated with immersive on-demand streaming features that connect your game night to the metaverse. The Gamestar+ platform leverages Avalanche technology to facilitate play-to-earn features. Gamestar+ users play their favorite family game night games to earn blockchain tokens, NFTs, and other tokenized assets that can be traded within the Gamestar+ marketplace or for other cryptocurrencies.Gamestar+ is designed to revolutionize game night by bringing some of the most well-known brands and IPs onto the blockchain and into the metaverse. True online play reconnects friends and families through interactive gaming experiences with competitive play-to-earn elements.",
+  "telegram": "https://t.me/GamestarPlusOfficial",
+  "discord": "http://discord.gg/gamestarplus",
+  "docs":"https://gamestarplus.link/Litepaper",
+  "github":"https://github.com/GamestarInteractive/gstarplus-defi",
+  "token":"$GSTAR",
+  "cmc":""
+}
