@@ -1,0 +1,18 @@
+{
+    "name": "QuickNode",
+    "slug": "quicknode",
+    "tags": ["nodes", "infrastructure", "api", "nft"],
+    "status": "live",
+    "highlight": "We make it simple to power your blockchain applications and scale up as you grow.",
+    "logo": "/img/quicknode.svg",
+    "website": "https://www.quicknode.com/",
+    "twitter": "https://twitter.com/quicknode",
+    "telegram": "",
+    "github": "",
+    "discord": "https://discord.com/invite/DkdgEqE",
+    "summary": "Blockchain infrastructure for dApps and devs. Access Avalanche, Ethereum, Solana, BSC, Polygon, Bitcoin, Optimism, Fantom, Celo, Terra, Gnosis and more via API. Infra and tools to build + scale your Web3 app. From elastic APIs and dedicated nodes, to powerful tools and analytics, we make it simple to power your blockchain applications and scale up as you grow.",
+    "docs": "",
+    "cmc": "",
+    "date": "2022-05-05",
+    "token": ""
+  }
