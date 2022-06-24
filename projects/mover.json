@@ -1,0 +1,23 @@
+{
+  "name": "Mover",
+  "slug": "Mover",
+  "date": "2020-01-01",
+  "highlight": "Mover is allows for Avalanche DeFi primitives on Mover Card.",
+  "logo": "/img/mover.png",
+  "tags": [
+    "defi",
+    "infrsastructure",
+    "utility",
+    "fiat ramp"
+  ],
+  "status": "live",
+  "website": "https://viamover.com",
+  "twitter": "https://twitter.com/viamover",
+  "summary": "Mover Card is different from anything else you tried before. Use Avalanche native assets, use Avalanche protocols and primitives straight on the card.",
+  "telegram": "https://t.me/viaMover",
+  "discord": "https://discord.gg/mover",
+  "docs": "",
+  "github": "https://github.com/viamover",
+  "token": "MOVE",
+  "cmc": "https://coinmarketcap.com/currencies/mover/"
+}
