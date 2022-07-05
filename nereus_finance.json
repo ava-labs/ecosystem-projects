@@ -1,0 +1,19 @@
+{
+  "name": "Nereus Finance",
+  "slug": "nereus-finance",
+  "date": "2022-02-23",
+  "highlight": "DeFi protocol that provides lending, savings, and payment solutions",
+  "logo": "/img/Nereus_logo.svg",
+  "tags": [
+    "defi", "lending", "NFT", "stablecoin"],
+  "status": "live",
+  "website": "https://nereus.finance",
+  "twitter": "https://twitter.com/nereusfinance",
+  "summary": "Nereus is a DeFi protocol that provides lending, savings, and payment solutions. Nereus supports saving, farming, and lending strategies for everyone from the crypto novice to the crypto native. Variable Rate Lending (Liquidity Markets): With Nereus liquidity markets users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers can borrow tokens against over-collateralised positions at variable interest rates. 0% Interest Borrowing (NXUSD Borrowing): With NXUSD, the Nereus protocol native over-collateralised stablecoin, users can deposit their assets and borrow NXUSD against this collateral at 0% interest. NXUSD Payments: Through Nereus' partnership with Wirex, users can add NXUSD to their Wirex app and directly spend NXUSD using the Wirex crypto debit card.",
+  "discord": "https://discord.gg/G7J6asSt5n",
+  "docs":"https://docs.nereus.finance",
+  "github":"https://github.com/nereusfinance",
+  "token":"WXT",
+  "cmc":"https://coinmarketcap.com/currencies/wirex-token/"
+
+}
