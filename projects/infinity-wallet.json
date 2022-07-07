@@ -1,0 +1,30 @@
+{
+  "name": "Infinity Wallet",
+  "slug": "infinity-wallet",
+  "date": "2022-05-07",
+  "tags": [
+    "wallet",
+    "bridge",
+    "dapp",
+    "dashboard",
+    "defi",
+    "dex",
+    "exchange",
+    "infrastructure",
+    "multi-chain",
+    "portfolio",
+    "swap"
+  ],
+  "status": "live",
+  "highlight": "An all-in-one multi-chain non-custodial wallet providing sublime accessibility to DeFi, and browser-less access to the world of Web3 and DApps",
+  "logo": "/img/infinity-wallet.svg",
+  "website": "https://infinitywallet.io/",
+  "twitter": "https://twitter.com/InfinityWallet",
+  "telegram": "",
+  "github": "",
+  "discord": "https://discordapp.com/invite/SgNjKzF",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "token": ""
+}
