@@ -1,0 +1,24 @@
+{
+  "name": "CryptoCookies",
+  "slug": "cryptocookies",
+  "date": "2022-07-08",
+  "highlight": "Trading options has never been this fun and easy. Choose your cookie and pic the winner!",
+  "logo": "/img/cryptocookies.png",
+  "tags": [
+    "defi",
+    "gaming",
+    "dapp",
+    "multi-chain",
+    "trading"
+  ],
+  "status": "live",
+  "website": "https://cryptocookies.com",
+  "twitter": "https://twitter.com/crypcookies",
+  "summary": "CryptoCookies aims to bring crypto options trading to the masses by simplifying a currently complex domain and allowing\nnovice traders to get involved in an easy to understand and fun way.\n\nBuyers choose one of three 'Cookies' which represent a distance from the current market and allow them to\ntrade off the payout percentage vs the likelihood of that price level being reached (or not reached).",
+  "telegram": "https://t.me/+vtaWu3nNZxAxZDY0",
+  "discord": "https://discord.gg/WW8wBvgRcg",
+  "docs": "",
+  "github": "https://github.com/cryptocookies-dev",
+  "token": "",
+  "cmc": ""
+}
