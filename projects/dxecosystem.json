@@ -1,0 +1,25 @@
+{
+  "name": "Dx",
+  "slug": "dxecosystem",
+  "tags": [
+    "nft",
+    "launchpads",
+    "lockers",
+	"mint",
+    "dapp",
+    "dashboard"
+  ],
+  "status": "live",
+  "highlight": "Decentralized Token Creation, Launchpad, Locker, platform",
+  "logo": "/img/dxecosystem.svg",
+  "website": "https://dx.app/",
+  "twitter": "https://twitter.com/dxsale",
+  "telegram": "https://t.me/dxsale",
+  "github": "",
+  "discord": "https://discord.com/invite/ZztKCEZXhg",
+  "summary": "With currently 13 supported chains, Dx is the biggest IDO Launchpad in the crypto space. As a truly decentralized token management platform, we aim for a low-barrier approach to launching your project. Instead of a steep learning curve and cumbersome interfaces, our platform will provide all the necessary tools to create and launch your project with no prior coding skills required. Of course, you can also use our platform if you’re just here to invest in a project you deem interesting",
+  "docs": "https://docs.dxsale.network/",
+  "cmc": "https://coinmarketcap.com/currencies/dxsale-network/",
+  "date": "20.08.2020",
+  "token": "DxSale.Network"
+}
