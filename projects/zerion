@@ -1,0 +1,16 @@
+{
+  "name": "Zerion Wallet",
+  "slug": "zerion",
+  "date": "2022-07-12",
+  "highlight": "A smart and social wallet for Web3.",
+  "logo": "/img/zerion.svg",
+  "tags": ["wallet", "multi-chain", "dashboard", "dapp"],
+  "status": "live",
+  "website": "https://app.zerion.io/",
+  "twitter": "https://twitter.com/zerion_io",
+  "summary": "Zerion Wallet helps users manage their Avalanche portfolios and positions across DeFi protocols on Avalanche. Zerion’s built-in trading and bridging aggregator also helps users find the best deals. Zerion shares many of its tools to help other builders. The Websocket API lets developers integrate the whole of DeFi into their applications without running their own infrastructure. Zerion’s DeFi SDK, a set of open-source smart contracts, makes it easier to trade across networks, query assets, and interact with major DeFi protocols."
+  "discord": "https://zerion.io/discord",
+  "docs":"https://docs.zerion.io/",
+  "github":"https://github.com/zeriontech",
+
+}
