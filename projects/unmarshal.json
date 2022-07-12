@@ -1,0 +1,18 @@
+{
+  "name": "Unmarshal",
+  "slug": "unmarshal",
+  "date": "",
+  "highlight": "Unmarshal is a Multi-chain Web 3.0 data network aiming to deliver granular, reliable & real-time data to dApps, DeFi protocols, NFTs, Metaverse and GameFi solutions.",
+  "logo": "/img/unmarshal.svg",
+  "tags": ["multi-chain","api","infrastructure","explorer"],
+  "status": "live",
+  "website": "https://unmarshal.io/",
+  "twitter": "https://twitter.com/unmarshal",
+  "summary": "",
+  "telegram": "https://t.me/Unmarshal_Chat",
+  "discord": "https://discord.com/invite/SqhYdGYtEr",
+  "docs":"https://docs.unmarshal.io/",
+  "github":"https://github.com/eucrypt",
+  "token":"MARSH",
+  "cmc":"https://coinmarketcap.com/currencies/unmarshal/"
+}
