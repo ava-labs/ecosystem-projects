@@ -1,0 +1,18 @@
+{
+  "name": "HunnySwap",
+  "slug": "hunnyswap",
+  "date": "2022-04-11",
+  "highlight": "HunnySwap is an automated market-making (AMM) decentralized exchange (DEX) on the Avalanche Ecosystem.",
+  "logo": "/img/Hunny_Snow.png",
+  "tags": ["dex","ecosystem","exchange","launchpads"],
+  "status": "live",
+  "website": "https://hunnyswap.com",
+  "twitter": "https://twitter.com/hunnyfinance",
+  "summary": "HunnyFinance promises to be the most engaging and fun DeFi destination where every user can enjoy high yields and exciting games at the same time. Over the year, we have introduced: HunnyFinance Farm, HunnyPlay, HunnyPoker, HunnyDAO, HunnyJar, HunnyMarketplace and that's not all....we are now introducing the latest product from HunnyFinance; a Decentralised Exchange (DEX) on Avalanche. HunnySwap is an automated market-making (AMM) decentralized exchange (DEX) on the Avalanche Ecosystem. With our strong backing of supporters in the BSC and also the potential exposure in Avalanche to draw in new users, we believed that HunnyFinance is ready to be propelled to the next level.",
+  "telegram": "https://t.me/HunnyFinance",
+  "discord": "https://discord.com/invite/d4fxKZFxPv",
+  "docs":"https://docs.hunnyswap.com/",
+  "github":"https://github.com/HunnyFinance/hunnyswap",
+  "token":"XOXO",
+  "cmc":"https://coinmarketcap.com/currencies/hunnyswap/"
+}
