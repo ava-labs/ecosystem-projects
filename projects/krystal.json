@@ -1,0 +1,18 @@
+{
+  "name": "Krystal",
+  "slug": "Krystal",
+  "date": "2021-04-01",
+  "highlight": "Krystal is a multi-chain platform to easily access popular DeFi services and manage your assets including NFTs",
+  "logo": "https://user-images.githubusercontent.com/108636782/177260879-ac39d202-0c2e-49c0-b171-1274add496ae.png",
+  "tags": ["swap", "defi", "wallet", "launchpads"],
+  "status": "live",
+  "website": "https://krystal.app/",
+  "twitter": "https://twitter.com/KrystalDefi",
+  "summary": "Krystal DeFi is a multi-chain platform to easily access popular DeFi services and manage NFTs. Krystal is a convenient, single point of access to transact with leading protocols on multiple blockchains, including KyberSwap, Uniswap, Aave, Venus Protocol, PancakeSwap, SushiSwap et.al. To date, Krystal supports Wallet, Swap & Earn services on 10 blockchains - Ethereum mainnet, Binance Smart Chain, Polygon, Avalanche, Fantom, Cronos, Arbitrum, Aurora, Solana and Klaytn. Krystal brings users the best token swap rates via SmartSwap, its Smart Liquidity Aggregator that sources tokens from 40+ DEXes. Additionally, users can earn passive income, manage NFTs, participate in token sales via its launchpad KrystalGO, and access cutting edge portfolio management and market insights tools. Topping it off, Krystal’s one-of-a-kind rewards program earns users bonus incentives when they trade or successfully refer friends.",
+  "telegram": "https://t.me/KrystalDefi",
+  "discord": "",
+  "docs": "https://docs.krystal.app/",
+  "github": "https://github.com/KYRDTeam",
+  "token": "",
+  "cmc": ""
+}
