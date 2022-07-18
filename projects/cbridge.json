@@ -1,20 +1,18 @@
 {
-  "name": "Celer Network",
+  "name": "Celer cBridge",
   "slug": "cbridge",
-  "tags": [
-    "infrastructure"
-  ],
-  "status": "",
-  "highlight": "Bridging Ethereum sidechains such as Polygon, Arbitrum, Optimism and BSC.",
+  "tags": ["infrastructure","bridge","multi-chain"],
+  "status": "live",
+  "highlight": "Fast, secure and low-fee asset bridge that supports 130+ tokens across 30+ blockchains",
   "logo": "/img/cbridge.png",
   "website": "https://cbridge.celer.network/#/transfer",
   "twitter": "https://twitter.com/CelerNetwork",
   "telegram": "https://t.me/celernetwork",
   "github": "https://github.com/celer-network",
   "discord": "https://discord.com/invite/uGx4fjQ",
-  "summary": "",
-  "docs": "",
+  "summary": "Celer cBridge is a decentralized and non-custodial asset bridge that supports more than 130 different tokens across 30+ different blockchains and layer-2 rollups. Built with the Celer Inter-chain Messaging Framework, cBridge has processed more than $9b cross-chain transfer volume for more than 192K unique users.",
+  "docs": "https://cbridge-docs.celer.network/reference/faq",
   "cmc": "",
   "date": "",
-  "token": ""
+  "token": "CELR"
 }
