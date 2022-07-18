@@ -1,0 +1,18 @@
+{
+  "name": "XDEFI Wallet",
+  "slug": "xdefi",
+  "date": "2022-07-11",
+  "highlight": "One wallet for all your crypto. Store, send and receive all Avalanche assets, including NFTs with XDEFI Wallet.",
+  "logo": "/img/xdefi.png",
+  "tags": ["wallet","nft","swap"],
+  "status": "live",
+  "website": "https://www.xdefi.io/",
+  "twitter": "https://twitter.com/xdefi_wallet",
+  "summary": "XDEFI Wallet is a multi-chain web3 browser extension wallet - currently supporting 13 different blockchains including Avalanche. XDEFI Wallet has a user base of more than 100,000 weekly active users, allowing them to connect to thousands of decentralised applications, securely store all their crypto assets, as well as manage their NFTs.",
+  "telegram": "https://t.me/xdefi_io",
+  "discord": "https://discord.gg/xdefiwallet",
+  "docs":"https://documents.xdefi.io/",
+  "github":"https://github.com/XDeFi-tech",
+  "token":"XDEFI",
+  "cmc":"https://coinmarketcap.com/currencies/xdefi-wallet/"
+}
