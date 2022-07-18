@@ -1,0 +1,18 @@
+{
+  "name": "Arken Finance",
+  "slug": "arken-finance",
+  "date": "2021-06-15",
+  "highlight": "The best user experience tool for DEX traders to track and monitor thousands of tokens and synthetic assets and forecast market movements across a variety of chains.",
+  "logo": "/img/arken-finance.jpeg",
+  "tags": ["swap", "trading", "dex", "exchange"],
+  "status": "live",
+  "website": "https://arken.finance/",
+  "twitter": "https://twitter.com/ArkenFinance",
+  "summary": "In the crypto space where the timing is key – real-time information decides who is going to win. Arken aggregates multiple DEXs into a single platform, allowing traders to track thousands of tokens and synthetic assets and forecast the market movement. Our tool incorporates real-time trading views for all tokens from different chains, offers users a single point of entry for managing digital assets with ease. Users can get the best rates swaps with complimentary trading features such as Limit Orders, Price Alerts, and Best Rate Cross-Chain Swaps. It has never been easier.",
+  "telegram": "https://t.me/arkenfinance",
+  "discord": "https://discord.gg/kZbNUafB",
+  "docs": "https://docs.arken.finance/arken-finance/",
+  "github": "https://github.com/arken-lab",
+  "token": "",
+  "cmc": ""
+}
