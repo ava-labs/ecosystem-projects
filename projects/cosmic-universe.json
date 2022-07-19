@@ -1,0 +1,21 @@
+{
+  "name": "Cosmic Universe",
+  "slug": "cosmic-universe",
+  "tags": [
+    "gaming",
+    "nft"
+  ],
+  "status": "coming soon",
+  "highlight": "Cosmic Universe is a fantasy blockchain metaverse world-builder and MMORPG built using UE5 with tradable NFTs on the Avalanche blockchain.",
+  "logo": "/img/cosmic-universe.png",
+  "website": "https://cosmicuniverse.io/",
+  "twitter": "https://twitter.com/thecosmicguild",
+  "telegram": "https://t.me/cosmicuniversegame",
+  "github": "https://github.com/thecosmicuniverse",
+  "discord": "https://discord.gg/cosmic-universe",
+  "summary": "Cosmic Universe is an immersive open-world fantasy metaverse world-builder MMORPG where players explore, gather, harvest, develop increasingly-advanced plots and settlements, trade, level-up for magical powers & in-game rewards, and engage in PVP competitions & events. Cosmic Universe gives players full tokenized ownership of their characters & land, and leverages the benefits of blockchain technology into its ecosystem. Integrating exclusive character & land NFT collections, Cosmic Universe focuses heavily on buying & developing land, harvesting & mining resources, acquiring skills & magic, forging alliances, and socializing, all while developing increasingly advanced plots & settlements. Players can earn in-game rewards through skilled gameplay & contributions to the ecosystem.",
+  "docs": "https://info.cosmicuniverse.one/",
+  "cmc": "https://www.coingecko.com/en/coins/cosmic-universe-magic-token",
+  "date": "2021-06-20",
+  "token": "MAGIC"
+}
