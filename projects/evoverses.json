@@ -1,0 +1,23 @@
+{
+  "name": "EvoVerses",
+  "slug": "evoverses",
+  "tags": [
+    "defi",
+    "gaming",
+    "nft",
+    "play-to-earn"
+  ],
+  "status": "live",
+  "highlight": "Pokemon-like 3D game with Game-Fi services on Avalanche! Fight, explore, rank, earn!",
+  "logo": "/img/evoverses.png",
+  "website": "https://evoverses.com/",
+  "twitter": "https://twitter.com/EvoVerses",
+  "telegram": "https://t.me/evoversesOfficial",
+  "github": "https://github.com/EvoVerses",
+  "discord": "https://discord.gg/qq6PXV5eZU",
+  "summary": "EvoVerses aims to forge the perfect fusion between DeFi and GameFi. To achieve this, our team is working in Unreal Engine 5 to create a game that mixes beautiful and realistic graphics with fun animated cartoons. The game revolves around mystical and fabulous creatures named Evos. In addition, our project will also include a set of decentralized finance tools and services.",
+  "docs": "https://evoverses.com/docs",
+  "cmc": "",
+  "date": "2022-07-07",
+  "token": "EVO"
+}
