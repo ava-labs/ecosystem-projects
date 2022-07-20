@@ -1,0 +1,21 @@
+{
+    "name": "Float",
+    "slug": "float-derivatives",
+    "date": "2021-09-17",
+    "highlight": "The easiest and most efficient way to gain long or short exposure to a wide variety of magic internet assets without the risk of liquidation or over-collateralization.",
+    "logo": "/img/float-logo-80x80.png",
+    "tags": [
+        "defi",
+        "trading",
+        "multi-chain",
+        "marketplace"
+    ],
+    "status": "live",
+    "website": "https://float.capital/",
+    "twitter": "https://twitter.com/float_shipping",
+    "summary": "Float is a multi-chain, peer-to-peer, yield-enhanced, floating asset exposure mechanism. Put simply, Float is the easiest and safest way for users to buy magic internet assets. Users do not need to worry about over-collateralization, or suddenly getting liquidated. Float is a novel protocol, creating an efficient magic internet asset marketplace, governed entirely by code, allowing anyone around the world to get involved.",
+    "discord": "https://discord.gg/w8EGPUwZVE",
+    "docs": "https://docs.float.capital/",
+    "github": "https://github.com/Float-Capital",
+    "token": "FLT"
+}
