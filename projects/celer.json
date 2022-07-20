@@ -1,0 +1,18 @@
+{
+  "name": "Celer Network",
+  "slug": "celer",
+  "tags": ["infrastructure","bridge","multi-chain"],
+  "status": "live",
+  "highlight": "A blockchain interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, privacy solutions and more across multiple chains.",
+  "logo": "/img/celer.svg",
+  "website": "https://www.celer.network/",
+  "twitter": "https://twitter.com/CelerNetwork",
+  "telegram": "https://t.me/celernetwork",
+  "github": "https://github.com/celer-network",
+  "discord": "https://discord.com/invite/uGx4fjQ",
+  "summary": "Celer is a blockchain interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, privacy solutions and more across multiple chains. Developers can build inter-chain-native dApps using the Celer Inter-chain Messaging SDK to gain access to efficient liquidity utilization, coherent application logic, and shared states. Users of Celer-enabled dApps will enjoy the benefits of a diverse multi-blockchain ecosystem with the simplicity of a single-transaction UX, all from a single chain.",
+  "docs": "https://im-docs.celer.network/developer/celer-im-overview",
+  "cmc": "https://coinmarketcap.com/currencies/celer-network/",
+  "date": "",
+  "token": "CELR"
+}
