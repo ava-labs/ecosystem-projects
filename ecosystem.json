@@ -2764,6 +2764,28 @@
       "token": ""
     },
     {
+      "name": "Nereus Finance",
+      "slug": "nereus-finance",
+      "date": "2022-02-23",
+      "highlight": "DeFi protocol that provides lending, savings, and payment solutions",
+      "logo": "/img/Nereus_logo.svg",
+      "tags": [
+        "defi",
+        "lending",
+        "NFT",
+        "stablecoin"
+      ],
+      "status": "live",
+      "website": "https://nereus.finance",
+      "twitter": "https://twitter.com/nereusfinance",
+      "summary": "Nereus is a DeFi protocol that provides lending, savings, and payment solutions. Nereus supports saving, farming, and lending strategies for everyone from the crypto novice to the crypto native. Variable Rate Lending (Liquidity Markets): With Nereus liquidity markets users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers can borrow tokens against over-collateralised positions at variable interest rates. 0% Interest Borrowing (NXUSD Borrowing): With NXUSD, the Nereus protocol native over-collateralised stablecoin, users can deposit their assets and borrow NXUSD against this collateral at 0% interest. NXUSD Payments: Through Nereus' partnership with Wirex, users can add NXUSD to their Wirex app and directly spend NXUSD using the Wirex crypto debit card.",
+      "discord": "https://discord.gg/G7J6asSt5n",
+      "docs": "https://docs.nereus.finance",
+      "github": "https://github.com/nereusfinance",
+      "token": "WXT",
+      "cmc": "https://coinmarketcap.com/currencies/wirex-token/"
+    },
+    {
       "name": "Nested",
       "slug": "nested",
       "date": "2021-09-01",
@@ -4044,6 +4066,24 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Wirex App",
+      "slug": "wirex-app",
+      "date": "06-01-14",
+      "highlight": "Buy, store, exchange and spend fiat and more than 37 cryptocurrencies anytime, anywhere, using the Wirex app.",
+      "logo": "/img/wirex_app_logo.svg",
+      "tags": [
+        "fiat ramp",
+        "payments",
+        "cex"
+      ],
+      "status": "live",
+      "website": "https://https://wirexapp.com/",
+      "twitter": "https://twitter.com/wirexapp",
+      "summary": "Wirex is a worldwide digital payment platform and regulated institution, that has forged new rules in the digital payments space. In 2015, the firm developed the world’s first contactless payment card that gives users the ability to seamlessly spend crypto and traditional currencies in real life. Wirex’s mission is to bridge the gap between conventional and cryptocurrencies with an overall goal to usher in a cashless society and the mainstream adoption of the digital economy.",
+      "token": "WXT",
+      "cmc": "https://coinmarketcap.com/currencies/wirex-token/"
     },
     {
       "name": "Wirex Wallet",
