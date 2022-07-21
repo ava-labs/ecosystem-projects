@@ -1,0 +1,13 @@
+{
+  "name": "Hype.Day",
+  "slug": "hypedotday",
+  "tags": ["tools", "nft", "launchpads"],
+  "status": "live",
+  "highlight": "High-quality access lists for Solana, Flow, Avalanche, Polygon and Ethereum NFT and Web3 projects, giveaways, raffles; all free.",
+  "logo": "/img/hypedotday.png",
+  "website": "https://www.hype.day/",
+  "twitter": "https://twitter.com/hypedotday",
+  "discord": "https://discord.gg/dxkGdT5yQU",
+  "summary": "Hype.day is the easiest way to build high-quality access lists for your web3 project's mints, giveaways, and raffles.",
+  "date": "2022-07-01"
+}
