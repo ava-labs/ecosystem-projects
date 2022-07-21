@@ -1,9 +1,7 @@
 {
   "name": "Aave",
   "slug": "aave",
-  "tags": [
-    "defi"
-  ],
+  "tags": ["defi"],
   "status": "",
   "highlight": "Open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
   "logo": "/img/aave.svg",

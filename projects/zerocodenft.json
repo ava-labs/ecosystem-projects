@@ -1,0 +1,24 @@
+{
+  "name": "Zero Code NFT",
+  "slug": "zerocodenft",
+  "tags": [
+    "nft",
+    "launchpads",
+    "multi-chain",
+    "dapp",
+    "dashboard"
+  ],
+  "status": "live",
+  "highlight": "Drop Your NFT Collection With ZERO Coding Skills. Seamless solution to create a smart contract & minting page without giving up any royalties",
+  "logo": "/img/zerocodenft.svg",
+  "website": "https://zerocodenft.com",
+  "twitter": "https://twitter.com/zero_code_nft",
+  "telegram": "",
+  "github": "https://zerocodenft.com",
+  "discord": "https://discord.gg/zerocodenft",
+  "summary": "We offer an advanced no-code tool to simplify the smart contract development and deployment process, allowing you to launch your NFTs with no previous coding experience. Tools include: whitelist, delayed reveal, low gas smart contracts, airdrop, revenue splits, snapshots and more!",
+  "docs": "",
+  "cmc": "",
+  "date": "2022-02-10",
+  "token": ""
+}

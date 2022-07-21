@@ -85,6 +85,8 @@ art
 ava labs
 avalanche native
 bridge
+card Game
+casual
 cex
 culture
 custody
@@ -99,16 +101,22 @@ enterprise
 exchange
 explorer
 fiat ramp
+fit-fi
+fps
 funds
 gaming
 governance
 government
+guild
+idle
 incubators
 infrastructure
-institutional 
+institutional
 launchpads
 lending
 marketplace
+mmorpg
+moba
 multi-chain
 news
 nft
@@ -119,6 +127,8 @@ oracle
 payments
 play-to-earn
 portfolio
+racing
+rts
 sdk
 security
 stablecoin

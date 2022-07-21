@@ -1,0 +1,23 @@
+{
+  "name": "Vottun",
+  "slug": "vottun",
+  "date": "2022-07-13",
+  "highlight": "Multi-blockchain API platform, The Wordpress of Web3.",
+  "logo": "/img/vottun.jpg",
+  "tags": [
+    "api",
+    "nft",
+    "multi-chain",
+    "tools"
+  ],
+  "status": "live",
+  "website": "https://vottun.com/",
+  "twitter": "https://twitter.com/vottun",
+  "summary": "Vottun platform is a BaaS layer that facilitates the integration of blockchain networks through APIs, it helps any company or individual to create blockchain based solutions in a simple way, featuring solutions for supply chain traceability, NFTs, credentials, payments, certificates and other crypto services such as custody or De-Fi.",
+  "telegram": "https://t.me/vottun",
+  "discord": "https://discord.gg/XJCHebGnxD",
+  "docs":"",
+  "github":"",
+  "token":"VTN",
+  "cmc":""
+}

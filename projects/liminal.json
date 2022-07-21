@@ -1,0 +1,24 @@
+{
+  "name": "Liminal",
+  "slug": "Liminal",
+  "date": "05-2021",
+  "highlight": "At Liminal our mission is to simplify self custody. We make it extremely easy and secure for individuals and businesses to manage their digital assets without giving up control and ownership.",
+  "logo": "/img/liminal.png",
+  "tags": [
+    "wallet",
+    "custody",
+    "institutional",
+    "infrastructure",
+    "multichain"
+  ],
+  "status": "live",
+  "website": "https://lmnl.app",
+  "twitter": "https://twitter.com/LmnlHQ",
+  "summary": "Liminal is an enterprise-grade platform that offers a robust infrastructure for managing digital assets. Liminal enables crypto-native companies to securely scale their digital asset operations through hardware devices backed, plug and play wallet architecture. Liminal's security-first approach, allows projects to define customized policies and assign roles to users based on their responsibilities. Their zero key leakage tolerance approach helps companies in eliminating the risks associated with digital asset transfers, such as cyber-attacks, internal collusion, and human error. Their unified interface ensures the same wallet management experience for multiple blockchains. Their proprietary regulatory readiness program, which includes AML checks, travel rules, and CCSS-compliant platforms, helps projects fast-track their compliance journey.",
+  "telegram": "https://t.me/liminalhq",
+  "discord": "",
+  "docs": "https://docs.lmnl.app/docs",
+  "github": "https://github.com/Liminalhq/",
+  "token": "",
+  "cmc": ""
+}

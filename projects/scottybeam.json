@@ -1,0 +1,17 @@
+{
+  "name": "ScottyBeam",
+  "slug": "scottybeam",
+  "date": "2022-05-19",
+  "highlight": "Cross-chain NFT teleporter(bridge) and INO platform",
+  "logo": "/img/scottybeam.svg",
+  "tags": ["bridge","multi-chain","dapp","infrastructure","launchpads","nft","tools"],
+  "status": "live",
+  "website": "https://scottybeam.io/",
+  "twitter": "https://twitter.com/ScottyBeamIO",
+  "summary": "Scotty Beam is the world's first cross-chain NFT teleporter and cross-chain INO platform – here to help cryptonians move NFTs across blockchain galaxies; connecting Metaverses, games and marketplaces; cut through complexity; maximize value and fun throughout the voyage!",
+  "telegram": "https://t.me/ScottyBeamIO",
+  "docs":"https://scottybeam.gitbook.io/",
+  "github":"https://github.com/ScottyBeam/",
+  "token":"SCOTTY",
+  "cmc":"https://coinmarketcap.com/currencies/scottybeam/"
+}

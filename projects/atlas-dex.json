@@ -1,0 +1,22 @@
+{
+  "name": "Atlas DEX",
+  "slug": "atlas-dex",
+  "date": "2021-09-01",
+  "highlight": "Atlas DEX provides a seamless trading experience for anyone looking to make native cross-chain swaps across leading blockchains.",
+  "logo": "/img/atlas-dex.svg",
+  "tags": [
+    "bridge",
+    "defi",
+    "dex",
+    "multi-chain"
+  ],
+  "status": "live",
+  "website": "https://app.atlasdex.finance/",
+  "twitter": "https://twitter.com/atlas_dex",
+  "summary": "Atlas DEX is a cross-chain liquidity aggregator. Users can seamlessly swap over 1,500 native tokens to and from Avalanche, Solana, Ethereum, BNB Chain, Polygon and Fantom. The platform splits trades across different liquidity pools to access the best price and minimize slippage. The platform will further integrate leading blockchains and develop new products. Atlas DEX is building to improve cross-chain interoperability, making it a go-to platform for DeFi users.",
+  "telegram": "https://t.me/atlasdex_official",
+  "discord": "https://discord.gg/atlasdex",
+  "docs": "https://docs.atlasdex.finance/",
+  "github": "https://github.com/atlasdex",
+  "cmc": "https://coinmarketcap.com/currencies/atlas-dex/"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Synapse Protocol",
+    "slug": "synapse-protocol",
+    "date": "2021-10-1",
+    "highlight": "Synapse Protocol is a cross-chain communications network used to seamlessly interconnect all blockchains.",
+    "logo": "img/synapse.png",
+    "tags": ["swap","bridge","multi-chain","amm"],
+    "status": "live",
+    "website": "https://synapseprotocol.com",
+    "twitter": "https://twitter.com/SynapseProtocol",
+    "summary": " The Synapse Protocol is comprised of a messaging framework and an economically secure method to reach consensus on the validity of cross-chain transactions which developers can leverage to build truly native cross-chain applications.",
+    "telegram": "https://t.me/synapseprotocol",
+    "discord": "http://discord.gg/synapseprotocol",
+    "docs":"https://docs.synapseprotocol.com/",
+    "github":"https://github.com/synapsecns/synapse-contracts",
+    "token":"SYN",
+    "cmc":"https://coinmarketcap.com/currencies/synapse-2//"
+}

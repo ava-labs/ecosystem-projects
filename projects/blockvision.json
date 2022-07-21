@@ -1,0 +1,20 @@
+{
+    "name":"BlockVision",
+    "slug":"BlockVision",
+    "date":"2022-05-30",
+    "highlight":"BlockVision is a one-stop development platform and on-chain data retrieval portal for developers",
+    "logo":"/img/blockvision.svg",
+    "tags":[
+        "api",
+        "infrastructure",
+        "nodes",
+        "tools"
+    ],
+    "status":"live",
+    "website":"https://blockvision.org/",
+    "twitter":"https://twitter.com/blockvisionhq",
+    "summary":"BlockVision is a one-stop development platform and on-chain data retrieval portal for developers that boasts impressively low-latencies and high availability due to it's distributed multi-node architecture. With our powerful HTAP engine and Data Cloud, BlockVision is able to provide a suite of enhanced FT & NFT APIs, development toolkits, high-performance node services and smart alerts to make your web 3.0 experience better and smoother.",
+    "telegram":"https://t.me/blockvision",
+    "discord":"https://discord.com/invite/Re6prK86Tr",
+    "docs":"https://docs.blockvision.org/blockvision/chain-apis/avalanche-api"
+}
