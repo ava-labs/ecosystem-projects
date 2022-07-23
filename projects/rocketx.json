@@ -1,0 +1,23 @@
+{
+    "name": "RocketX",
+    "slug": "rocketx",
+    "date": "2021-04-13",
+    "highlight": "RocketX is on a mission to enhance interoperability between blockchains. We enable CROSS-CHAIN SWAP and BRIDGE of native assets across leading networks via single intuitive UI. RocketX simplifies access to AVAX network and thereby drives the mass adoption of the network.",
+    "logo": "/img/rocketx.png",
+    "tags": [
+        "bridge",
+        "dex",
+        "defi",
+        "multi-chain"
+    ],
+    "status": "live",
+    "website": "https://rocketx.exchange",
+    "twitter": "https://twitter.com/RocketXexchange",
+    "summary": "RocketX is the FIRST “Multi-Chain” CEX & DEX aggregator that helps users swap ANY token on ANY chain with best rates across 200+ exchanges. RocketX is on a mission to enhance interoperability between blockchains & simplify Multi-Chain trading by enabling CROSS-CHAIN SWAP and BRIDGE of native assets across leading networks via single intuitive UI.",
+    "telegram": "https://t.me/RocketXexchange",
+    "discord": "",
+    "docs": "",
+    "github": "https://github.com/rocketx-labs",
+    "token": "RVF",
+    "cmc": "https://coinmarketcap.com/currencies/rocket-vault-rocketx"
+}
