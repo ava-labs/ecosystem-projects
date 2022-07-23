@@ -1,0 +1,22 @@
+{
+  "name": "Defi Blogs",
+  "slug": "Defi Blogs",
+  "date": "2022-07-23",
+  "highlight": "A decentralized Web3 Blogging Platform allowing true content ownership. ",
+  "logo": "/img/defiblogs80x80.png",
+  "tags": [
+    "defi",
+    "dapp",
+    "utility"
+  ],
+  "status": "live",
+  "website": "https://defiblogs.fundsfi.fund",
+  "twitter": "https://twitter.com/DefiBlogs",
+  "summary": "A decentralized web3 blogging platform that uploads all blogs to IPFS & mints as NFT's that go to the blogger allowing for true content ownership.",
+  "telegram": "",
+  "discord": "https://discord.gg/d5JBSS5nQq",
+  "docs": "",
+  "github": "https://github.com/FundsFi",
+  "token": "BLOGS",
+  "cmc": ""
+}
